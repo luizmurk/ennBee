@@ -4,11 +4,11 @@ import 'package:ennBee/styleSheet.dart';
 
 const kPrimaryColor = const Color(0xFF03045e);
 const kPrimaryLightColor = Color(0xFFFFECDF);
-const kPrimaryGradientColor = LinearGradient(
-  begin: Alignment.topLeft,
-  end: Alignment.bottomRight,
-  colors: [Color(0xFFFFA53E), Color(0xFFFF7643)],
-);
+// const kPrimaryGradientColor = LinearGradient(
+//   begin: Alignment.topLeft,
+//   end: Alignment.bottomRight,
+//   colors: [Color(0xFFFFA53E), Color(0xFFFF7643)],
+// );
 const kSecondaryColor = Color(0xFF979797);
 const kTextColor = Color(0xFF757575);
 
