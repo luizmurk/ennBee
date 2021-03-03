@@ -8917,71 +8917,70 @@ public final class R {
     public static final int exposed_dropdown_menu_content_description=0x7f0e0037;
     public static final int fab_transformation_scrim_behavior=0x7f0e0038;
     public static final int fab_transformation_sheet_behavior=0x7f0e0039;
-    public static final int firebase_database_url=0x7f0e003a;
-    public static final int gcm_defaultSenderId=0x7f0e003b;
-    public static final int google_api_key=0x7f0e003c;
-    public static final int google_app_id=0x7f0e003d;
-    public static final int google_crash_reporting_api_key=0x7f0e003e;
-    public static final int google_storage_bucket=0x7f0e003f;
-    public static final int hide_bottom_view_on_scroll_behavior=0x7f0e0040;
-    public static final int icon_content_description=0x7f0e0041;
-    public static final int item_view_role_description=0x7f0e0042;
-    public static final int material_clock_display_divider=0x7f0e0043;
-    public static final int material_clock_toggle_content_description=0x7f0e0044;
-    public static final int material_hour_selection=0x7f0e0045;
-    public static final int material_hour_suffix=0x7f0e0046;
-    public static final int material_minute_selection=0x7f0e0047;
-    public static final int material_minute_suffix=0x7f0e0048;
-    public static final int material_slider_range_end=0x7f0e0049;
-    public static final int material_slider_range_start=0x7f0e004a;
-    public static final int material_timepicker_am=0x7f0e004b;
-    public static final int material_timepicker_hour=0x7f0e004c;
-    public static final int material_timepicker_minute=0x7f0e004d;
-    public static final int material_timepicker_pm=0x7f0e004e;
-    public static final int material_timepicker_select_time=0x7f0e004f;
-    public static final int mtrl_badge_numberless_content_description=0x7f0e0050;
-    public static final int mtrl_chip_close_icon_content_description=0x7f0e0051;
-    public static final int mtrl_exceed_max_badge_number_content_description=0x7f0e0052;
-    public static final int mtrl_exceed_max_badge_number_suffix=0x7f0e0053;
-    public static final int mtrl_picker_a11y_next_month=0x7f0e0054;
-    public static final int mtrl_picker_a11y_prev_month=0x7f0e0055;
-    public static final int mtrl_picker_announce_current_selection=0x7f0e0056;
-    public static final int mtrl_picker_cancel=0x7f0e0057;
-    public static final int mtrl_picker_confirm=0x7f0e0058;
-    public static final int mtrl_picker_date_header_selected=0x7f0e0059;
-    public static final int mtrl_picker_date_header_title=0x7f0e005a;
-    public static final int mtrl_picker_date_header_unselected=0x7f0e005b;
-    public static final int mtrl_picker_day_of_week_column_header=0x7f0e005c;
-    public static final int mtrl_picker_invalid_format=0x7f0e005d;
-    public static final int mtrl_picker_invalid_format_example=0x7f0e005e;
-    public static final int mtrl_picker_invalid_format_use=0x7f0e005f;
-    public static final int mtrl_picker_invalid_range=0x7f0e0060;
-    public static final int mtrl_picker_navigate_to_year_description=0x7f0e0061;
-    public static final int mtrl_picker_out_of_range=0x7f0e0062;
-    public static final int mtrl_picker_range_header_only_end_selected=0x7f0e0063;
-    public static final int mtrl_picker_range_header_only_start_selected=0x7f0e0064;
-    public static final int mtrl_picker_range_header_selected=0x7f0e0065;
-    public static final int mtrl_picker_range_header_title=0x7f0e0066;
-    public static final int mtrl_picker_range_header_unselected=0x7f0e0067;
-    public static final int mtrl_picker_save=0x7f0e0068;
-    public static final int mtrl_picker_text_input_date_hint=0x7f0e0069;
-    public static final int mtrl_picker_text_input_date_range_end_hint=0x7f0e006a;
-    public static final int mtrl_picker_text_input_date_range_start_hint=0x7f0e006b;
-    public static final int mtrl_picker_text_input_day_abbr=0x7f0e006c;
-    public static final int mtrl_picker_text_input_month_abbr=0x7f0e006d;
-    public static final int mtrl_picker_text_input_year_abbr=0x7f0e006e;
-    public static final int mtrl_picker_toggle_to_calendar_input_mode=0x7f0e006f;
-    public static final int mtrl_picker_toggle_to_day_selection=0x7f0e0070;
-    public static final int mtrl_picker_toggle_to_text_input_mode=0x7f0e0071;
-    public static final int mtrl_picker_toggle_to_year_selection=0x7f0e0072;
-    public static final int password_toggle_content_description=0x7f0e0073;
-    public static final int path_password_eye=0x7f0e0074;
-    public static final int path_password_eye_mask_strike_through=0x7f0e0075;
-    public static final int path_password_eye_mask_visible=0x7f0e0076;
-    public static final int path_password_strike_through=0x7f0e0077;
-    public static final int project_id=0x7f0e0078;
-    public static final int search_menu_title=0x7f0e0079;
-    public static final int status_bar_notification_info_overflow=0x7f0e007a;
+    public static final int gcm_defaultSenderId=0x7f0e003a;
+    public static final int google_api_key=0x7f0e003b;
+    public static final int google_app_id=0x7f0e003c;
+    public static final int google_crash_reporting_api_key=0x7f0e003d;
+    public static final int google_storage_bucket=0x7f0e003e;
+    public static final int hide_bottom_view_on_scroll_behavior=0x7f0e003f;
+    public static final int icon_content_description=0x7f0e0040;
+    public static final int item_view_role_description=0x7f0e0041;
+    public static final int material_clock_display_divider=0x7f0e0042;
+    public static final int material_clock_toggle_content_description=0x7f0e0043;
+    public static final int material_hour_selection=0x7f0e0044;
+    public static final int material_hour_suffix=0x7f0e0045;
+    public static final int material_minute_selection=0x7f0e0046;
+    public static final int material_minute_suffix=0x7f0e0047;
+    public static final int material_slider_range_end=0x7f0e0048;
+    public static final int material_slider_range_start=0x7f0e0049;
+    public static final int material_timepicker_am=0x7f0e004a;
+    public static final int material_timepicker_hour=0x7f0e004b;
+    public static final int material_timepicker_minute=0x7f0e004c;
+    public static final int material_timepicker_pm=0x7f0e004d;
+    public static final int material_timepicker_select_time=0x7f0e004e;
+    public static final int mtrl_badge_numberless_content_description=0x7f0e004f;
+    public static final int mtrl_chip_close_icon_content_description=0x7f0e0050;
+    public static final int mtrl_exceed_max_badge_number_content_description=0x7f0e0051;
+    public static final int mtrl_exceed_max_badge_number_suffix=0x7f0e0052;
+    public static final int mtrl_picker_a11y_next_month=0x7f0e0053;
+    public static final int mtrl_picker_a11y_prev_month=0x7f0e0054;
+    public static final int mtrl_picker_announce_current_selection=0x7f0e0055;
+    public static final int mtrl_picker_cancel=0x7f0e0056;
+    public static final int mtrl_picker_confirm=0x7f0e0057;
+    public static final int mtrl_picker_date_header_selected=0x7f0e0058;
+    public static final int mtrl_picker_date_header_title=0x7f0e0059;
+    public static final int mtrl_picker_date_header_unselected=0x7f0e005a;
+    public static final int mtrl_picker_day_of_week_column_header=0x7f0e005b;
+    public static final int mtrl_picker_invalid_format=0x7f0e005c;
+    public static final int mtrl_picker_invalid_format_example=0x7f0e005d;
+    public static final int mtrl_picker_invalid_format_use=0x7f0e005e;
+    public static final int mtrl_picker_invalid_range=0x7f0e005f;
+    public static final int mtrl_picker_navigate_to_year_description=0x7f0e0060;
+    public static final int mtrl_picker_out_of_range=0x7f0e0061;
+    public static final int mtrl_picker_range_header_only_end_selected=0x7f0e0062;
+    public static final int mtrl_picker_range_header_only_start_selected=0x7f0e0063;
+    public static final int mtrl_picker_range_header_selected=0x7f0e0064;
+    public static final int mtrl_picker_range_header_title=0x7f0e0065;
+    public static final int mtrl_picker_range_header_unselected=0x7f0e0066;
+    public static final int mtrl_picker_save=0x7f0e0067;
+    public static final int mtrl_picker_text_input_date_hint=0x7f0e0068;
+    public static final int mtrl_picker_text_input_date_range_end_hint=0x7f0e0069;
+    public static final int mtrl_picker_text_input_date_range_start_hint=0x7f0e006a;
+    public static final int mtrl_picker_text_input_day_abbr=0x7f0e006b;
+    public static final int mtrl_picker_text_input_month_abbr=0x7f0e006c;
+    public static final int mtrl_picker_text_input_year_abbr=0x7f0e006d;
+    public static final int mtrl_picker_toggle_to_calendar_input_mode=0x7f0e006e;
+    public static final int mtrl_picker_toggle_to_day_selection=0x7f0e006f;
+    public static final int mtrl_picker_toggle_to_text_input_mode=0x7f0e0070;
+    public static final int mtrl_picker_toggle_to_year_selection=0x7f0e0071;
+    public static final int password_toggle_content_description=0x7f0e0072;
+    public static final int path_password_eye=0x7f0e0073;
+    public static final int path_password_eye_mask_strike_through=0x7f0e0074;
+    public static final int path_password_eye_mask_visible=0x7f0e0075;
+    public static final int path_password_strike_through=0x7f0e0076;
+    public static final int project_id=0x7f0e0077;
+    public static final int search_menu_title=0x7f0e0078;
+    public static final int status_bar_notification_info_overflow=0x7f0e0079;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0f0000;
@@ -9699,39 +9698,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.greyluxmobile.invest:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.greyluxmobile.invest:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.greyluxmobile.invest:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.greyluxmobile.invest:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.greyluxmobile.invest:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background com.ennbee.moonman:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.ennbee.moonman:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.ennbee.moonman:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.ennbee.moonman:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.ennbee.moonman:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.greyluxmobile.invest:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.greyluxmobile.invest:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.greyluxmobile.invest:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.greyluxmobile.invest:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.ennbee.moonman:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.ennbee.moonman:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.ennbee.moonman:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.ennbee.moonman:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.greyluxmobile.invest:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.greyluxmobile.invest:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.greyluxmobile.invest:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.greyluxmobile.invest:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.greyluxmobile.invest:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.greyluxmobile.invest:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.greyluxmobile.invest:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.greyluxmobile.invest:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.greyluxmobile.invest:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.greyluxmobile.invest:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.greyluxmobile.invest:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.ennbee.moonman:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.ennbee.moonman:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.ennbee.moonman:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.ennbee.moonman:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.ennbee.moonman:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.ennbee.moonman:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.ennbee.moonman:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.ennbee.moonman:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.ennbee.moonman:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.ennbee.moonman:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.ennbee.moonman:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.greyluxmobile.invest:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.greyluxmobile.invest:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.greyluxmobile.invest:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo com.ennbee.moonman:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.ennbee.moonman:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.ennbee.moonman:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.greyluxmobile.invest:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.greyluxmobile.invest:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.greyluxmobile.invest:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.greyluxmobile.invest:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.greyluxmobile.invest:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.greyluxmobile.invest:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.ennbee.moonman:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.ennbee.moonman:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.ennbee.moonman:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.ennbee.moonman:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.ennbee.moonman:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.ennbee.moonman:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -9783,7 +9782,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:background
+     * @attr name com.ennbee.moonman:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -9799,7 +9798,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundSplit
+     * @attr name com.ennbee.moonman:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -9815,7 +9814,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundStacked
+     * @attr name com.ennbee.moonman:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -9830,7 +9829,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetEnd
+     * @attr name com.ennbee.moonman:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -9845,7 +9844,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetEndWithActions
+     * @attr name com.ennbee.moonman:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -9860,7 +9859,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetLeft
+     * @attr name com.ennbee.moonman:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -9875,7 +9874,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetRight
+     * @attr name com.ennbee.moonman:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -9890,7 +9889,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetStart
+     * @attr name com.ennbee.moonman:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -9905,7 +9904,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetStartWithNavigation
+     * @attr name com.ennbee.moonman:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -9918,7 +9917,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:customNavigationLayout
+     * @attr name com.ennbee.moonman:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -9941,7 +9940,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:displayOptions
+     * @attr name com.ennbee.moonman:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -9954,7 +9953,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:divider
+     * @attr name com.ennbee.moonman:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -9968,7 +9967,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:elevation
+     * @attr name com.ennbee.moonman:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -9982,7 +9981,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:height
+     * @attr name com.ennbee.moonman:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -9993,7 +9992,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:hideOnContentScroll
+     * @attr name com.ennbee.moonman:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -10006,7 +10005,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:homeAsUpIndicator
+     * @attr name com.ennbee.moonman:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -10019,7 +10018,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:homeLayout
+     * @attr name com.ennbee.moonman:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -10032,7 +10031,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:icon
+     * @attr name com.ennbee.moonman:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -10045,7 +10044,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:indeterminateProgressStyle
+     * @attr name com.ennbee.moonman:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -10060,7 +10059,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemPadding
+     * @attr name com.ennbee.moonman:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -10073,7 +10072,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:logo
+     * @attr name com.ennbee.moonman:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -10092,7 +10091,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:navigationMode
+     * @attr name com.ennbee.moonman:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -10106,7 +10105,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:popupTheme
+     * @attr name com.ennbee.moonman:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -10120,7 +10119,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:progressBarPadding
+     * @attr name com.ennbee.moonman:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -10133,7 +10132,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:progressBarStyle
+     * @attr name com.ennbee.moonman:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -10144,7 +10143,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:subtitle
+     * @attr name com.ennbee.moonman:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -10157,7 +10156,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:subtitleTextStyle
+     * @attr name com.ennbee.moonman:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -10168,7 +10167,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:title
+     * @attr name com.ennbee.moonman:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -10181,7 +10180,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:titleTextStyle
+     * @attr name com.ennbee.moonman:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -10263,12 +10262,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.greyluxmobile.invest:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.greyluxmobile.invest:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.greyluxmobile.invest:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.greyluxmobile.invest:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.greyluxmobile.invest:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.greyluxmobile.invest:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.ennbee.moonman:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.ennbee.moonman:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.ennbee.moonman:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.ennbee.moonman:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.ennbee.moonman:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.ennbee.moonman:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -10291,7 +10290,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:background
+     * @attr name com.ennbee.moonman:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -10307,7 +10306,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundSplit
+     * @attr name com.ennbee.moonman:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -10320,7 +10319,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:closeItemLayout
+     * @attr name com.ennbee.moonman:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -10334,7 +10333,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:height
+     * @attr name com.ennbee.moonman:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -10347,7 +10346,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:subtitleTextStyle
+     * @attr name com.ennbee.moonman:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -10360,7 +10359,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:titleTextStyle
+     * @attr name com.ennbee.moonman:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -10370,8 +10369,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.greyluxmobile.invest:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.greyluxmobile.invest:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.ennbee.moonman:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.ennbee.moonman:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -10393,7 +10392,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:expandActivityOverflowButtonDrawable
+     * @attr name com.ennbee.moonman:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -10404,7 +10403,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:initialActivityCount
+     * @attr name com.ennbee.moonman:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -10415,13 +10414,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.greyluxmobile.invest:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.greyluxmobile.invest:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.greyluxmobile.invest:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.greyluxmobile.invest:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.greyluxmobile.invest:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.greyluxmobile.invest:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.greyluxmobile.invest:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.ennbee.moonman:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.ennbee.moonman:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.ennbee.moonman:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.ennbee.moonman:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.ennbee.moonman:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.ennbee.moonman:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.ennbee.moonman:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -10449,7 +10448,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10458,11 +10457,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:buttonIconDimen
+     * @attr name com.ennbee.moonman:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10470,11 +10469,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonPanelSideLayout
+     * @attr name com.ennbee.moonman:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10482,11 +10481,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:listItemLayout
+     * @attr name com.ennbee.moonman:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10494,11 +10493,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:listLayout
+     * @attr name com.ennbee.moonman:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10506,21 +10505,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:multiChoiceItemLayout
+     * @attr name com.ennbee.moonman:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:showTitle
+     * @attr name com.ennbee.moonman:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10528,7 +10527,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:singleChoiceItemLayout
+     * @attr name com.ennbee.moonman:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -10754,12 +10753,12 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.greyluxmobile.invest:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.greyluxmobile.invest:expanded}</code></td><td>The initial expanded state for the AppBarLayout.</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.greyluxmobile.invest:liftOnScroll}</code></td><td>Whether the {@link AppBarLayout} should lift on scroll.</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScrollTargetViewId com.greyluxmobile.invest:liftOnScrollTargetViewId}</code></td><td>The id of the view that the {@link AppBarLayout} should use to determine whether
+     * <tr><td><code>{@link #AppBarLayout_elevation com.ennbee.moonman:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.ennbee.moonman:expanded}</code></td><td>The initial expanded state for the AppBarLayout.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.ennbee.moonman:liftOnScroll}</code></td><td>Whether the {@link AppBarLayout} should lift on scroll.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScrollTargetViewId com.ennbee.moonman:liftOnScrollTargetViewId}</code></td><td>The id of the view that the {@link AppBarLayout} should use to determine whether
      * it should be lifted (i.e., only if {@link R.attr#liftOnScroll} is set to true).</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_statusBarForeground com.greyluxmobile.invest:statusBarForeground}</code></td><td>The drawable to display in front of the layout's content, but behind the status bar.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_statusBarForeground com.ennbee.moonman:statusBarForeground}</code></td><td>The drawable to display in front of the layout's content, but behind the status bar.</td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -10820,7 +10819,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:elevation
+     * @attr name com.ennbee.moonman:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
@@ -10832,7 +10831,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:expanded
+     * @attr name com.ennbee.moonman:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
@@ -10848,7 +10847,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:liftOnScroll
+     * @attr name com.ennbee.moonman:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -10864,7 +10863,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:liftOnScrollTargetViewId
+     * @attr name com.ennbee.moonman:liftOnScrollTargetViewId
      */
     public static final int AppBarLayout_liftOnScrollTargetViewId=6;
     /**
@@ -10877,7 +10876,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:statusBarForeground
+     * @attr name com.ennbee.moonman:statusBarForeground
      */
     public static final int AppBarLayout_statusBarForeground=7;
     /**
@@ -10887,11 +10886,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.greyluxmobile.invest:state_collapsed}</code></td><td>@deprecated in favor of {@link R.attr#state_lifted}.</td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.greyluxmobile.invest:state_collapsible}</code></td><td>@deprecated in favor of {@link R.attr#state_liftable}.</td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.greyluxmobile.invest:state_liftable}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.ennbee.moonman:state_collapsed}</code></td><td>@deprecated in favor of {@link R.attr#state_lifted}.</td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.ennbee.moonman:state_collapsible}</code></td><td>@deprecated in favor of {@link R.attr#state_liftable}.</td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.ennbee.moonman:state_liftable}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
      * is liftable (e.g., elevates on collapse or scroll).</td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.greyluxmobile.invest:state_lifted}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.ennbee.moonman:state_lifted}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
      * is lifted (elevated).</td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
@@ -10911,7 +10910,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:state_collapsed
+     * @attr name com.ennbee.moonman:state_collapsed
      */
     @Deprecated
     public static final int AppBarLayoutStates_state_collapsed=0;
@@ -10923,7 +10922,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:state_collapsible
+     * @attr name com.ennbee.moonman:state_collapsible
      */
     @Deprecated
     public static final int AppBarLayoutStates_state_collapsible=1;
@@ -10936,7 +10935,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:state_liftable
+     * @attr name com.ennbee.moonman:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
@@ -10948,7 +10947,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:state_lifted
+     * @attr name com.ennbee.moonman:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -10958,8 +10957,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.greyluxmobile.invest:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.greyluxmobile.invest:layout_scrollInterpolator}</code></td><td>An interpolator to use when scrolling this View.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.ennbee.moonman:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.ennbee.moonman:layout_scrollInterpolator}</code></td><td>An interpolator to use when scrolling this View.</td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -10968,7 +10967,7 @@ public final class R {
       0x7f0301f4, 0x7f0301f5
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10997,7 +10996,7 @@ public final class R {
      * top and bottom margins, as opposed to the edges of the view itself.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_scrollFlags
+     * @attr name com.ennbee.moonman:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
@@ -11011,7 +11010,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_scrollInterpolator
+     * @attr name com.ennbee.moonman:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -11022,9 +11021,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.greyluxmobile.invest:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.greyluxmobile.invest:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.greyluxmobile.invest:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.ennbee.moonman:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.ennbee.moonman:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.ennbee.moonman:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -11060,7 +11059,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:srcCompat
+     * @attr name com.ennbee.moonman:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -11072,7 +11071,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tint
+     * @attr name com.ennbee.moonman:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -11099,7 +11098,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:tintMode
+     * @attr name com.ennbee.moonman:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -11110,9 +11109,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.greyluxmobile.invest:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.greyluxmobile.invest:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.greyluxmobile.invest:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.ennbee.moonman:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.ennbee.moonman:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.ennbee.moonman:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -11144,7 +11143,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tickMark
+     * @attr name com.ennbee.moonman:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -11156,7 +11155,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tickMarkTint
+     * @attr name com.ennbee.moonman:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -11183,7 +11182,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:tickMarkTintMode
+     * @attr name com.ennbee.moonman:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -11323,29 +11322,29 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.greyluxmobile.invest:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.greyluxmobile.invest:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.greyluxmobile.invest:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.ennbee.moonman:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.ennbee.moonman:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.ennbee.moonman:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.greyluxmobile.invest:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.ennbee.moonman:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.greyluxmobile.invest:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableBottomCompat com.greyluxmobile.invest:drawableBottomCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableEndCompat com.greyluxmobile.invest:drawableEndCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableLeftCompat com.greyluxmobile.invest:drawableLeftCompat}</code></td><td>Compound drawables allowing the use of vector drawable when running on older versions
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.ennbee.moonman:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableBottomCompat com.ennbee.moonman:drawableBottomCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableEndCompat com.ennbee.moonman:drawableEndCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableLeftCompat com.ennbee.moonman:drawableLeftCompat}</code></td><td>Compound drawables allowing the use of vector drawable when running on older versions
      * of the platform.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableRightCompat com.greyluxmobile.invest:drawableRightCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableStartCompat com.greyluxmobile.invest:drawableStartCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTint com.greyluxmobile.invest:drawableTint}</code></td><td>Tint to apply to the compound (left, top, etc.) drawables.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTintMode com.greyluxmobile.invest:drawableTintMode}</code></td><td>Blending mode used to apply the compound (left, top, etc.) drawables tint.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTopCompat com.greyluxmobile.invest:drawableTopCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.greyluxmobile.invest:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.greyluxmobile.invest:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontVariationSettings com.greyluxmobile.invest:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.greyluxmobile.invest:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.greyluxmobile.invest:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.greyluxmobile.invest:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textLocale com.greyluxmobile.invest:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
+     * <tr><td><code>{@link #AppCompatTextView_drawableRightCompat com.ennbee.moonman:drawableRightCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableStartCompat com.ennbee.moonman:drawableStartCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTint com.ennbee.moonman:drawableTint}</code></td><td>Tint to apply to the compound (left, top, etc.) drawables.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTintMode com.ennbee.moonman:drawableTintMode}</code></td><td>Blending mode used to apply the compound (left, top, etc.) drawables tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTopCompat com.ennbee.moonman:drawableTopCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.ennbee.moonman:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.ennbee.moonman:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontVariationSettings com.ennbee.moonman:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.ennbee.moonman:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.ennbee.moonman:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.ennbee.moonman:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textLocale com.ennbee.moonman:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
@@ -11401,7 +11400,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:autoSizeMaxTextSize
+     * @attr name com.ennbee.moonman:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -11415,7 +11414,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:autoSizeMinTextSize
+     * @attr name com.ennbee.moonman:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -11430,7 +11429,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:autoSizePresetSizes
+     * @attr name com.ennbee.moonman:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -11446,7 +11445,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:autoSizeStepGranularity
+     * @attr name com.ennbee.moonman:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -11466,11 +11465,11 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:autoSizeTextType
+     * @attr name com.ennbee.moonman:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#drawableBottomCompat}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#drawableBottomCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11478,11 +11477,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:drawableBottomCompat
+     * @attr name com.ennbee.moonman:drawableBottomCompat
      */
     public static final int AppCompatTextView_drawableBottomCompat=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#drawableEndCompat}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#drawableEndCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11490,7 +11489,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:drawableEndCompat
+     * @attr name com.ennbee.moonman:drawableEndCompat
      */
     public static final int AppCompatTextView_drawableEndCompat=7;
     /**
@@ -11504,11 +11503,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:drawableLeftCompat
+     * @attr name com.ennbee.moonman:drawableLeftCompat
      */
     public static final int AppCompatTextView_drawableLeftCompat=8;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#drawableRightCompat}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#drawableRightCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11516,11 +11515,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:drawableRightCompat
+     * @attr name com.ennbee.moonman:drawableRightCompat
      */
     public static final int AppCompatTextView_drawableRightCompat=9;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#drawableStartCompat}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#drawableStartCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11528,7 +11527,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:drawableStartCompat
+     * @attr name com.ennbee.moonman:drawableStartCompat
      */
     public static final int AppCompatTextView_drawableStartCompat=10;
     /**
@@ -11540,7 +11539,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:drawableTint
+     * @attr name com.ennbee.moonman:drawableTint
      */
     public static final int AppCompatTextView_drawableTint=11;
     /**
@@ -11567,11 +11566,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:drawableTintMode
+     * @attr name com.ennbee.moonman:drawableTintMode
      */
     public static final int AppCompatTextView_drawableTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#drawableTopCompat}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#drawableTopCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11579,7 +11578,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:drawableTopCompat
+     * @attr name com.ennbee.moonman:drawableTopCompat
      */
     public static final int AppCompatTextView_drawableTopCompat=13;
     /**
@@ -11594,7 +11593,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:firstBaselineToTopHeight
+     * @attr name com.ennbee.moonman:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=14;
     /**
@@ -11605,7 +11604,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:fontFamily
+     * @attr name com.ennbee.moonman:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=15;
     /**
@@ -11616,7 +11615,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:fontVariationSettings
+     * @attr name com.ennbee.moonman:fontVariationSettings
      */
     public static final int AppCompatTextView_fontVariationSettings=16;
     /**
@@ -11631,7 +11630,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:lastBaselineToBottomHeight
+     * @attr name com.ennbee.moonman:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=17;
     /**
@@ -11646,7 +11645,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:lineHeight
+     * @attr name com.ennbee.moonman:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=18;
     /**
@@ -11661,7 +11660,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:textAllCaps
+     * @attr name com.ennbee.moonman:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=19;
     /**
@@ -11676,7 +11675,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:textLocale
+     * @attr name com.ennbee.moonman:textLocale
      */
     public static final int AppCompatTextView_textLocale=20;
     /**
@@ -11688,146 +11687,146 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.greyluxmobile.invest:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.greyluxmobile.invest:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.greyluxmobile.invest:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.ennbee.moonman:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.ennbee.moonman:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.ennbee.moonman:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.greyluxmobile.invest:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.ennbee.moonman:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.greyluxmobile.invest:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.greyluxmobile.invest:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.greyluxmobile.invest:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.greyluxmobile.invest:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.greyluxmobile.invest:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.greyluxmobile.invest:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.ennbee.moonman:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.ennbee.moonman:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.ennbee.moonman:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.ennbee.moonman:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.ennbee.moonman:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.ennbee.moonman:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.greyluxmobile.invest:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.ennbee.moonman:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.greyluxmobile.invest:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.greyluxmobile.invest:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.greyluxmobile.invest:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.ennbee.moonman:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.ennbee.moonman:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.ennbee.moonman:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.greyluxmobile.invest:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.greyluxmobile.invest:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.greyluxmobile.invest:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.greyluxmobile.invest:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.greyluxmobile.invest:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.greyluxmobile.invest:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.greyluxmobile.invest:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.greyluxmobile.invest:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.greyluxmobile.invest:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.greyluxmobile.invest:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.greyluxmobile.invest:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.greyluxmobile.invest:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.greyluxmobile.invest:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.greyluxmobile.invest:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.greyluxmobile.invest:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.greyluxmobile.invest:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.greyluxmobile.invest:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.greyluxmobile.invest:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.greyluxmobile.invest:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.greyluxmobile.invest:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.greyluxmobile.invest:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.greyluxmobile.invest:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.greyluxmobile.invest:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.greyluxmobile.invest:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.greyluxmobile.invest:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.greyluxmobile.invest:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.greyluxmobile.invest:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.greyluxmobile.invest:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.greyluxmobile.invest:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.greyluxmobile.invest:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.greyluxmobile.invest:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.greyluxmobile.invest:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.greyluxmobile.invest:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.greyluxmobile.invest:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.greyluxmobile.invest:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.greyluxmobile.invest:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.greyluxmobile.invest:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.greyluxmobile.invest:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.greyluxmobile.invest:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.ennbee.moonman:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.ennbee.moonman:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.ennbee.moonman:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.ennbee.moonman:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.ennbee.moonman:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.ennbee.moonman:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.ennbee.moonman:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.ennbee.moonman:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.ennbee.moonman:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.ennbee.moonman:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.ennbee.moonman:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.ennbee.moonman:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.ennbee.moonman:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.ennbee.moonman:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.ennbee.moonman:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.ennbee.moonman:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.ennbee.moonman:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.ennbee.moonman:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.ennbee.moonman:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.ennbee.moonman:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.ennbee.moonman:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.ennbee.moonman:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.ennbee.moonman:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.ennbee.moonman:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.ennbee.moonman:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.ennbee.moonman:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.ennbee.moonman:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.ennbee.moonman:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.ennbee.moonman:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.ennbee.moonman:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.ennbee.moonman:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.ennbee.moonman:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.ennbee.moonman:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.ennbee.moonman:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.ennbee.moonman:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.ennbee.moonman:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.ennbee.moonman:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.ennbee.moonman:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.ennbee.moonman:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.greyluxmobile.invest:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.greyluxmobile.invest:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.greyluxmobile.invest:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.greyluxmobile.invest:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.greyluxmobile.invest:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.greyluxmobile.invest:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.greyluxmobile.invest:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.greyluxmobile.invest:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.greyluxmobile.invest:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.greyluxmobile.invest:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.greyluxmobile.invest:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.greyluxmobile.invest:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.greyluxmobile.invest:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.greyluxmobile.invest:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.greyluxmobile.invest:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.greyluxmobile.invest:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.greyluxmobile.invest:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorMultipleAnimated com.greyluxmobile.invest:listChoiceIndicatorMultipleAnimated}</code></td><td>Animated Drawable to use for single choice indicators.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorSingleAnimated com.greyluxmobile.invest:listChoiceIndicatorSingleAnimated}</code></td><td>Animated Drawable to use for multiple choice indicators.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.greyluxmobile.invest:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.greyluxmobile.invest:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.greyluxmobile.invest:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.greyluxmobile.invest:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.greyluxmobile.invest:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.greyluxmobile.invest:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingEnd com.greyluxmobile.invest:listPreferredItemPaddingEnd}</code></td><td>The preferred padding along the end edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.greyluxmobile.invest:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.greyluxmobile.invest:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingStart com.greyluxmobile.invest:listPreferredItemPaddingStart}</code></td><td>The preferred padding along the start edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.greyluxmobile.invest:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.greyluxmobile.invest:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.greyluxmobile.invest:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.greyluxmobile.invest:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.greyluxmobile.invest:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.greyluxmobile.invest:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.greyluxmobile.invest:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.greyluxmobile.invest:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.greyluxmobile.invest:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.greyluxmobile.invest:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.greyluxmobile.invest:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.greyluxmobile.invest:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.ennbee.moonman:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.ennbee.moonman:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.ennbee.moonman:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.ennbee.moonman:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.ennbee.moonman:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.ennbee.moonman:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.ennbee.moonman:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.ennbee.moonman:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.ennbee.moonman:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.ennbee.moonman:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.ennbee.moonman:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.ennbee.moonman:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.ennbee.moonman:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.ennbee.moonman:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.ennbee.moonman:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.ennbee.moonman:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.ennbee.moonman:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorMultipleAnimated com.ennbee.moonman:listChoiceIndicatorMultipleAnimated}</code></td><td>Animated Drawable to use for single choice indicators.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorSingleAnimated com.ennbee.moonman:listChoiceIndicatorSingleAnimated}</code></td><td>Animated Drawable to use for multiple choice indicators.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.ennbee.moonman:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.ennbee.moonman:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.ennbee.moonman:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.ennbee.moonman:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.ennbee.moonman:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.ennbee.moonman:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingEnd com.ennbee.moonman:listPreferredItemPaddingEnd}</code></td><td>The preferred padding along the end edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.ennbee.moonman:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.ennbee.moonman:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingStart com.ennbee.moonman:listPreferredItemPaddingStart}</code></td><td>The preferred padding along the start edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.ennbee.moonman:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.ennbee.moonman:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.ennbee.moonman:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.ennbee.moonman:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.ennbee.moonman:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.ennbee.moonman:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.ennbee.moonman:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.ennbee.moonman:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.ennbee.moonman:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.ennbee.moonman:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.ennbee.moonman:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.ennbee.moonman:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.greyluxmobile.invest:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.greyluxmobile.invest:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.greyluxmobile.invest:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.greyluxmobile.invest:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.greyluxmobile.invest:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.greyluxmobile.invest:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.greyluxmobile.invest:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.greyluxmobile.invest:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.greyluxmobile.invest:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.greyluxmobile.invest:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.greyluxmobile.invest:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.greyluxmobile.invest:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.greyluxmobile.invest:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.greyluxmobile.invest:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.greyluxmobile.invest:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.greyluxmobile.invest:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.greyluxmobile.invest:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.greyluxmobile.invest:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.greyluxmobile.invest:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.greyluxmobile.invest:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.ennbee.moonman:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.ennbee.moonman:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.ennbee.moonman:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.ennbee.moonman:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.ennbee.moonman:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.ennbee.moonman:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.ennbee.moonman:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.ennbee.moonman:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.ennbee.moonman:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.ennbee.moonman:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.ennbee.moonman:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.ennbee.moonman:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.ennbee.moonman:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.ennbee.moonman:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.ennbee.moonman:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.ennbee.moonman:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.ennbee.moonman:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.ennbee.moonman:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.ennbee.moonman:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.ennbee.moonman:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.greyluxmobile.invest:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.ennbee.moonman:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.greyluxmobile.invest:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.ennbee.moonman:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.greyluxmobile.invest:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.ennbee.moonman:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.greyluxmobile.invest:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.ennbee.moonman:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.greyluxmobile.invest:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.ennbee.moonman:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.greyluxmobile.invest:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.ennbee.moonman:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.greyluxmobile.invest:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.ennbee.moonman:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.greyluxmobile.invest:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.ennbee.moonman:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.greyluxmobile.invest:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.ennbee.moonman:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -12021,7 +12020,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionBarDivider
+     * @attr name com.ennbee.moonman:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -12034,7 +12033,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionBarItemBackground
+     * @attr name com.ennbee.moonman:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -12048,7 +12047,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionBarPopupTheme
+     * @attr name com.ennbee.moonman:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -12071,7 +12070,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:actionBarSize
+     * @attr name com.ennbee.moonman:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -12087,7 +12086,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionBarSplitStyle
+     * @attr name com.ennbee.moonman:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -12100,11 +12099,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionBarStyle
+     * @attr name com.ennbee.moonman:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12112,7 +12111,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionBarTabBarStyle
+     * @attr name com.ennbee.moonman:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -12125,11 +12124,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionBarTabStyle
+     * @attr name com.ennbee.moonman:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12137,7 +12136,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionBarTabTextStyle
+     * @attr name com.ennbee.moonman:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -12152,7 +12151,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionBarTheme
+     * @attr name com.ennbee.moonman:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -12171,7 +12170,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionBarWidgetTheme
+     * @attr name com.ennbee.moonman:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -12184,7 +12183,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionButtonStyle
+     * @attr name com.ennbee.moonman:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -12197,7 +12196,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionDropDownStyle
+     * @attr name com.ennbee.moonman:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -12211,7 +12210,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionMenuTextAppearance
+     * @attr name com.ennbee.moonman:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -12227,7 +12226,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionMenuTextColor
+     * @attr name com.ennbee.moonman:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -12240,11 +12239,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeBackground
+     * @attr name com.ennbee.moonman:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12252,7 +12251,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeCloseButtonStyle
+     * @attr name com.ennbee.moonman:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -12265,7 +12264,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeCloseDrawable
+     * @attr name com.ennbee.moonman:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -12278,7 +12277,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeCopyDrawable
+     * @attr name com.ennbee.moonman:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -12291,7 +12290,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeCutDrawable
+     * @attr name com.ennbee.moonman:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -12304,7 +12303,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeFindDrawable
+     * @attr name com.ennbee.moonman:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -12317,7 +12316,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModePasteDrawable
+     * @attr name com.ennbee.moonman:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -12330,7 +12329,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModePopupWindowStyle
+     * @attr name com.ennbee.moonman:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -12343,7 +12342,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeSelectAllDrawable
+     * @attr name com.ennbee.moonman:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -12356,7 +12355,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeShareDrawable
+     * @attr name com.ennbee.moonman:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -12369,11 +12368,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeSplitBackground
+     * @attr name com.ennbee.moonman:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12381,7 +12380,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeStyle
+     * @attr name com.ennbee.moonman:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -12394,11 +12393,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionModeWebSearchDrawable
+     * @attr name com.ennbee.moonman:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12406,11 +12405,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionOverflowButtonStyle
+     * @attr name com.ennbee.moonman:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12418,7 +12417,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionOverflowMenuStyle
+     * @attr name com.ennbee.moonman:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -12431,11 +12430,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:activityChooserViewStyle
+     * @attr name com.ennbee.moonman:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12443,21 +12442,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:alertDialogButtonGroupStyle
+     * @attr name com.ennbee.moonman:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:alertDialogCenterButtons
+     * @attr name com.ennbee.moonman:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12465,7 +12464,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:alertDialogStyle
+     * @attr name com.ennbee.moonman:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -12478,7 +12477,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:alertDialogTheme
+     * @attr name com.ennbee.moonman:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -12491,7 +12490,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:autoCompleteTextViewStyle
+     * @attr name com.ennbee.moonman:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -12504,7 +12503,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:borderlessButtonStyle
+     * @attr name com.ennbee.moonman:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -12517,7 +12516,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonBarButtonStyle
+     * @attr name com.ennbee.moonman:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -12530,7 +12529,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonBarNegativeButtonStyle
+     * @attr name com.ennbee.moonman:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -12543,7 +12542,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonBarNeutralButtonStyle
+     * @attr name com.ennbee.moonman:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -12556,7 +12555,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonBarPositiveButtonStyle
+     * @attr name com.ennbee.moonman:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -12569,7 +12568,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonBarStyle
+     * @attr name com.ennbee.moonman:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -12582,7 +12581,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonStyle
+     * @attr name com.ennbee.moonman:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -12595,7 +12594,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonStyleSmall
+     * @attr name com.ennbee.moonman:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -12608,7 +12607,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:checkboxStyle
+     * @attr name com.ennbee.moonman:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -12621,7 +12620,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:checkedTextViewStyle
+     * @attr name com.ennbee.moonman:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -12634,7 +12633,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:colorAccent
+     * @attr name com.ennbee.moonman:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -12646,7 +12645,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:colorBackgroundFloating
+     * @attr name com.ennbee.moonman:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -12658,7 +12657,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:colorButtonNormal
+     * @attr name com.ennbee.moonman:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -12670,7 +12669,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:colorControlActivated
+     * @attr name com.ennbee.moonman:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -12682,7 +12681,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:colorControlHighlight
+     * @attr name com.ennbee.moonman:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -12694,7 +12693,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:colorControlNormal
+     * @attr name com.ennbee.moonman:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -12711,7 +12710,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:colorError
+     * @attr name com.ennbee.moonman:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -12724,7 +12723,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:colorPrimary
+     * @attr name com.ennbee.moonman:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -12737,7 +12736,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:colorPrimaryDark
+     * @attr name com.ennbee.moonman:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -12749,7 +12748,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:colorSwitchThumbNormal
+     * @attr name com.ennbee.moonman:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -12762,7 +12761,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:controlBackground
+     * @attr name com.ennbee.moonman:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -12776,7 +12775,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:dialogCornerRadius
+     * @attr name com.ennbee.moonman:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -12790,7 +12789,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:dialogPreferredPadding
+     * @attr name com.ennbee.moonman:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -12803,7 +12802,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:dialogTheme
+     * @attr name com.ennbee.moonman:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -12816,7 +12815,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:dividerHorizontal
+     * @attr name com.ennbee.moonman:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -12829,7 +12828,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:dividerVertical
+     * @attr name com.ennbee.moonman:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -12842,7 +12841,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:dropDownListViewStyle
+     * @attr name com.ennbee.moonman:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -12856,7 +12855,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:dropdownListPreferredItemHeight
+     * @attr name com.ennbee.moonman:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -12869,7 +12868,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:editTextBackground
+     * @attr name com.ennbee.moonman:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -12885,7 +12884,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:editTextColor
+     * @attr name com.ennbee.moonman:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -12898,7 +12897,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:editTextStyle
+     * @attr name com.ennbee.moonman:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -12911,7 +12910,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:homeAsUpIndicator
+     * @attr name com.ennbee.moonman:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -12924,7 +12923,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:imageButtonStyle
+     * @attr name com.ennbee.moonman:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -12937,7 +12936,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:listChoiceBackgroundIndicator
+     * @attr name com.ennbee.moonman:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -12950,7 +12949,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:listChoiceIndicatorMultipleAnimated
+     * @attr name com.ennbee.moonman:listChoiceIndicatorMultipleAnimated
      */
     public static final int AppCompatTheme_listChoiceIndicatorMultipleAnimated=72;
     /**
@@ -12963,7 +12962,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:listChoiceIndicatorSingleAnimated
+     * @attr name com.ennbee.moonman:listChoiceIndicatorSingleAnimated
      */
     public static final int AppCompatTheme_listChoiceIndicatorSingleAnimated=73;
     /**
@@ -12976,7 +12975,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:listDividerAlertDialog
+     * @attr name com.ennbee.moonman:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=74;
     /**
@@ -12989,11 +12988,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:listMenuViewStyle
+     * @attr name com.ennbee.moonman:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=75;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13001,7 +13000,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:listPopupWindowStyle
+     * @attr name com.ennbee.moonman:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=76;
     /**
@@ -13015,7 +13014,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:listPreferredItemHeight
+     * @attr name com.ennbee.moonman:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=77;
     /**
@@ -13029,7 +13028,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:listPreferredItemHeightLarge
+     * @attr name com.ennbee.moonman:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=78;
     /**
@@ -13043,7 +13042,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:listPreferredItemHeightSmall
+     * @attr name com.ennbee.moonman:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=79;
     /**
@@ -13057,7 +13056,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:listPreferredItemPaddingEnd
+     * @attr name com.ennbee.moonman:listPreferredItemPaddingEnd
      */
     public static final int AppCompatTheme_listPreferredItemPaddingEnd=80;
     /**
@@ -13071,7 +13070,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:listPreferredItemPaddingLeft
+     * @attr name com.ennbee.moonman:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=81;
     /**
@@ -13085,7 +13084,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:listPreferredItemPaddingRight
+     * @attr name com.ennbee.moonman:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=82;
     /**
@@ -13099,7 +13098,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:listPreferredItemPaddingStart
+     * @attr name com.ennbee.moonman:listPreferredItemPaddingStart
      */
     public static final int AppCompatTheme_listPreferredItemPaddingStart=83;
     /**
@@ -13112,7 +13111,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:panelBackground
+     * @attr name com.ennbee.moonman:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=84;
     /**
@@ -13125,7 +13124,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:panelMenuListTheme
+     * @attr name com.ennbee.moonman:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=85;
     /**
@@ -13139,7 +13138,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:panelMenuListWidth
+     * @attr name com.ennbee.moonman:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=86;
     /**
@@ -13152,7 +13151,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:popupMenuStyle
+     * @attr name com.ennbee.moonman:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=87;
     /**
@@ -13165,7 +13164,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:popupWindowStyle
+     * @attr name com.ennbee.moonman:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=88;
     /**
@@ -13178,7 +13177,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:radioButtonStyle
+     * @attr name com.ennbee.moonman:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=89;
     /**
@@ -13191,7 +13190,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:ratingBarStyle
+     * @attr name com.ennbee.moonman:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=90;
     /**
@@ -13204,7 +13203,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:ratingBarStyleIndicator
+     * @attr name com.ennbee.moonman:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=91;
     /**
@@ -13217,7 +13216,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:ratingBarStyleSmall
+     * @attr name com.ennbee.moonman:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=92;
     /**
@@ -13230,7 +13229,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:searchViewStyle
+     * @attr name com.ennbee.moonman:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=93;
     /**
@@ -13243,7 +13242,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:seekBarStyle
+     * @attr name com.ennbee.moonman:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=94;
     /**
@@ -13258,7 +13257,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:selectableItemBackground
+     * @attr name com.ennbee.moonman:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=95;
     /**
@@ -13271,7 +13270,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:selectableItemBackgroundBorderless
+     * @attr name com.ennbee.moonman:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=96;
     /**
@@ -13284,7 +13283,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:spinnerDropDownItemStyle
+     * @attr name com.ennbee.moonman:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=97;
     /**
@@ -13297,7 +13296,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:spinnerStyle
+     * @attr name com.ennbee.moonman:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=98;
     /**
@@ -13310,7 +13309,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:switchStyle
+     * @attr name com.ennbee.moonman:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=99;
     /**
@@ -13323,7 +13322,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:textAppearanceLargePopupMenu
+     * @attr name com.ennbee.moonman:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=100;
     /**
@@ -13336,7 +13335,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:textAppearanceListItem
+     * @attr name com.ennbee.moonman:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=101;
     /**
@@ -13349,7 +13348,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:textAppearanceListItemSecondary
+     * @attr name com.ennbee.moonman:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=102;
     /**
@@ -13362,7 +13361,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:textAppearanceListItemSmall
+     * @attr name com.ennbee.moonman:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=103;
     /**
@@ -13375,7 +13374,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:textAppearancePopupMenuHeader
+     * @attr name com.ennbee.moonman:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=104;
     /**
@@ -13388,7 +13387,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:textAppearanceSearchResultSubtitle
+     * @attr name com.ennbee.moonman:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=105;
     /**
@@ -13401,7 +13400,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:textAppearanceSearchResultTitle
+     * @attr name com.ennbee.moonman:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=106;
     /**
@@ -13414,7 +13413,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:textAppearanceSmallPopupMenu
+     * @attr name com.ennbee.moonman:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=107;
     /**
@@ -13430,7 +13429,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:textColorAlertDialogListItem
+     * @attr name com.ennbee.moonman:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=108;
     /**
@@ -13446,7 +13445,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:textColorSearchUrl
+     * @attr name com.ennbee.moonman:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=109;
     /**
@@ -13459,7 +13458,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:toolbarNavigationButtonStyle
+     * @attr name com.ennbee.moonman:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=110;
     /**
@@ -13472,7 +13471,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:toolbarStyle
+     * @attr name com.ennbee.moonman:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=111;
     /**
@@ -13488,7 +13487,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tooltipForegroundColor
+     * @attr name com.ennbee.moonman:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=112;
     /**
@@ -13501,17 +13500,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tooltipFrameBackground
+     * @attr name com.ennbee.moonman:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=113;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:viewInflaterClass
+     * @attr name com.ennbee.moonman:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=114;
     /**
@@ -13523,7 +13522,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:windowActionBar
+     * @attr name com.ennbee.moonman:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=115;
     /**
@@ -13536,7 +13535,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:windowActionBarOverlay
+     * @attr name com.ennbee.moonman:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=116;
     /**
@@ -13548,7 +13547,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:windowActionModeOverlay
+     * @attr name com.ennbee.moonman:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=117;
     /**
@@ -13568,7 +13567,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:windowFixedHeightMajor
+     * @attr name com.ennbee.moonman:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=118;
     /**
@@ -13588,7 +13587,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:windowFixedHeightMinor
+     * @attr name com.ennbee.moonman:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=119;
     /**
@@ -13608,7 +13607,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:windowFixedWidthMajor
+     * @attr name com.ennbee.moonman:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=120;
     /**
@@ -13628,7 +13627,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:windowFixedWidthMinor
+     * @attr name com.ennbee.moonman:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=121;
     /**
@@ -13649,7 +13648,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:windowMinWidthMajor
+     * @attr name com.ennbee.moonman:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=122;
     /**
@@ -13670,7 +13669,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:windowMinWidthMinor
+     * @attr name com.ennbee.moonman:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=123;
     /**
@@ -13681,7 +13680,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:windowNoTitle
+     * @attr name com.ennbee.moonman:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=124;
     /**
@@ -13691,13 +13690,13 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Badge_backgroundColor com.greyluxmobile.invest:backgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_badgeGravity com.greyluxmobile.invest:badgeGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_badgeTextColor com.greyluxmobile.invest:badgeTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_horizontalOffset com.greyluxmobile.invest:horizontalOffset}</code></td><td>Offset moves the badge towards the center of its anchor.</td></tr>
-     * <tr><td><code>{@link #Badge_maxCharacterCount com.greyluxmobile.invest:maxCharacterCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_number com.greyluxmobile.invest:number}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_verticalOffset com.greyluxmobile.invest:verticalOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_backgroundColor com.ennbee.moonman:backgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_badgeGravity com.ennbee.moonman:badgeGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_badgeTextColor com.ennbee.moonman:badgeTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_horizontalOffset com.ennbee.moonman:horizontalOffset}</code></td><td>Offset moves the badge towards the center of its anchor.</td></tr>
+     * <tr><td><code>{@link #Badge_maxCharacterCount com.ennbee.moonman:maxCharacterCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_number com.ennbee.moonman:number}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_verticalOffset com.ennbee.moonman:verticalOffset}</code></td><td></td></tr>
      * </table>
      * @see #Badge_backgroundColor
      * @see #Badge_badgeGravity
@@ -13712,18 +13711,18 @@ public final class R {
       0x7f030226, 0x7f030248, 0x7f030348
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#backgroundColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#backgroundColor}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundColor
+     * @attr name com.ennbee.moonman:backgroundColor
      */
     public static final int Badge_backgroundColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#badgeGravity}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#badgeGravity}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13738,18 +13737,18 @@ public final class R {
      * <tr><td>TOP_START</td><td>800033</td><td>Gravity.TOP | Gravity.START</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:badgeGravity
+     * @attr name com.ennbee.moonman:badgeGravity
      */
     public static final int Badge_badgeGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#badgeTextColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#badgeTextColor}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:badgeTextColor
+     * @attr name com.ennbee.moonman:badgeTextColor
      */
     public static final int Badge_badgeTextColor=2;
     /**
@@ -13763,29 +13762,29 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:horizontalOffset
+     * @attr name com.ennbee.moonman:horizontalOffset
      */
     public static final int Badge_horizontalOffset=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#maxCharacterCount}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#maxCharacterCount}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:maxCharacterCount
+     * @attr name com.ennbee.moonman:maxCharacterCount
      */
     public static final int Badge_maxCharacterCount=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#number}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#number}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:number
+     * @attr name com.ennbee.moonman:number
      */
     public static final int Badge_number=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#verticalOffset}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#verticalOffset}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13794,7 +13793,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:verticalOffset
+     * @attr name com.ennbee.moonman:verticalOffset
      */
     public static final int Badge_verticalOffset=6;
     /**
@@ -13804,17 +13803,17 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.greyluxmobile.invest:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_elevation com.greyluxmobile.invest:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.greyluxmobile.invest:fabAlignmentMode}</code></td><td>The alignment of the fab relative to the BottomAppBar.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAnimationMode com.greyluxmobile.invest:fabAnimationMode}</code></td><td>The animation mode that should be used when the fab animates between alignment modes.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.greyluxmobile.invest:fabCradleMargin}</code></td><td>The margin between the semi-circular cradle for the fab and the fab.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.greyluxmobile.invest:fabCradleRoundedCornerRadius}</code></td><td>The radius of the rounded corners on each side of the cradle.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.greyluxmobile.invest:fabCradleVerticalOffset}</code></td><td>The vertical offset between the fab from the cradle.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.greyluxmobile.invest:hideOnScroll}</code></td><td>Whether the BottomAppBar should hide when a NestedScrollView is scrolled.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_paddingBottomSystemWindowInsets com.greyluxmobile.invest:paddingBottomSystemWindowInsets}</code></td><td>Just adding the parameters that we need for now.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_paddingLeftSystemWindowInsets com.greyluxmobile.invest:paddingLeftSystemWindowInsets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_paddingRightSystemWindowInsets com.greyluxmobile.invest:paddingRightSystemWindowInsets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.ennbee.moonman:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_elevation com.ennbee.moonman:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.ennbee.moonman:fabAlignmentMode}</code></td><td>The alignment of the fab relative to the BottomAppBar.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAnimationMode com.ennbee.moonman:fabAnimationMode}</code></td><td>The animation mode that should be used when the fab animates between alignment modes.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.ennbee.moonman:fabCradleMargin}</code></td><td>The margin between the semi-circular cradle for the fab and the fab.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.ennbee.moonman:fabCradleRoundedCornerRadius}</code></td><td>The radius of the rounded corners on each side of the cradle.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.ennbee.moonman:fabCradleVerticalOffset}</code></td><td>The vertical offset between the fab from the cradle.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.ennbee.moonman:hideOnScroll}</code></td><td>Whether the BottomAppBar should hide when a NestedScrollView is scrolled.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_paddingBottomSystemWindowInsets com.ennbee.moonman:paddingBottomSystemWindowInsets}</code></td><td>Just adding the parameters that we need for now.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_paddingLeftSystemWindowInsets com.ennbee.moonman:paddingLeftSystemWindowInsets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_paddingRightSystemWindowInsets com.ennbee.moonman:paddingRightSystemWindowInsets}</code></td><td></td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_elevation
@@ -13842,7 +13841,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundTint
+     * @attr name com.ennbee.moonman:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
@@ -13856,7 +13855,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:elevation
+     * @attr name com.ennbee.moonman:elevation
      */
     public static final int BottomAppBar_elevation=1;
     /**
@@ -13874,7 +13873,7 @@ public final class R {
      * <tr><td>end</td><td>1</td><td>Mode that aligns the fab to the end.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:fabAlignmentMode
+     * @attr name com.ennbee.moonman:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=2;
     /**
@@ -13892,7 +13891,7 @@ public final class R {
      * <tr><td>slide</td><td>1</td><td>Mode that slides the fab from one alignment mode to the next.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:fabAnimationMode
+     * @attr name com.ennbee.moonman:fabAnimationMode
      */
     public static final int BottomAppBar_fabAnimationMode=3;
     /**
@@ -13906,7 +13905,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:fabCradleMargin
+     * @attr name com.ennbee.moonman:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=4;
     /**
@@ -13920,7 +13919,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:fabCradleRoundedCornerRadius
+     * @attr name com.ennbee.moonman:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=5;
     /**
@@ -13934,7 +13933,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:fabCradleVerticalOffset
+     * @attr name com.ennbee.moonman:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=6;
     /**
@@ -13945,7 +13944,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:hideOnScroll
+     * @attr name com.ennbee.moonman:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=7;
     /**
@@ -13956,7 +13955,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:paddingBottomSystemWindowInsets
+     * @attr name com.ennbee.moonman:paddingBottomSystemWindowInsets
      */
     public static final int BottomAppBar_paddingBottomSystemWindowInsets=8;
     /**
@@ -13967,7 +13966,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:paddingLeftSystemWindowInsets
+     * @attr name com.ennbee.moonman:paddingLeftSystemWindowInsets
      */
     public static final int BottomAppBar_paddingLeftSystemWindowInsets=9;
     /**
@@ -13978,7 +13977,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:paddingRightSystemWindowInsets
+     * @attr name com.ennbee.moonman:paddingRightSystemWindowInsets
      */
     public static final int BottomAppBar_paddingRightSystemWindowInsets=10;
     /**
@@ -13988,19 +13987,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_backgroundTint com.greyluxmobile.invest:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.greyluxmobile.invest:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.greyluxmobile.invest:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.greyluxmobile.invest:itemHorizontalTranslationEnabled}</code></td><td>Whether the items translate horizontally when in "selected" label visibility mode.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.greyluxmobile.invest:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.greyluxmobile.invest:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemRippleColor com.greyluxmobile.invest:itemRippleColor}</code></td><td>The ColorStateList to use for a ripple background.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.greyluxmobile.invest:itemTextAppearanceActive}</code></td><td>The text appearance to apply to the active navigation item label.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.greyluxmobile.invest:itemTextAppearanceInactive}</code></td><td>The text appearance to apply to the inactive navigation item labels.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.greyluxmobile.invest:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.greyluxmobile.invest:labelVisibilityMode}</code></td><td>Whether navigation items display with a label, without a label, or with a label during
+     * <tr><td><code>{@link #BottomNavigationView_backgroundTint com.ennbee.moonman:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.ennbee.moonman:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.ennbee.moonman:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.ennbee.moonman:itemHorizontalTranslationEnabled}</code></td><td>Whether the items translate horizontally when in "selected" label visibility mode.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.ennbee.moonman:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.ennbee.moonman:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemRippleColor com.ennbee.moonman:itemRippleColor}</code></td><td>The ColorStateList to use for a ripple background.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.ennbee.moonman:itemTextAppearanceActive}</code></td><td>The text appearance to apply to the active navigation item label.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.ennbee.moonman:itemTextAppearanceInactive}</code></td><td>The text appearance to apply to the inactive navigation item labels.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.ennbee.moonman:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.ennbee.moonman:labelVisibilityMode}</code></td><td>Whether navigation items display with a label, without a label, or with a label during
      * selected state.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.greyluxmobile.invest:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.ennbee.moonman:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
      * </table>
      * @see #BottomNavigationView_backgroundTint
      * @see #BottomNavigationView_elevation
@@ -14029,7 +14028,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundTint
+     * @attr name com.ennbee.moonman:backgroundTint
      */
     public static final int BottomNavigationView_backgroundTint=0;
     /**
@@ -14043,7 +14042,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:elevation
+     * @attr name com.ennbee.moonman:elevation
      */
     public static final int BottomNavigationView_elevation=1;
     /**
@@ -14057,7 +14056,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemBackground
+     * @attr name com.ennbee.moonman:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=2;
     /**
@@ -14068,7 +14067,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:itemHorizontalTranslationEnabled
+     * @attr name com.ennbee.moonman:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=3;
     /**
@@ -14082,7 +14081,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemIconSize
+     * @attr name com.ennbee.moonman:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=4;
     /**
@@ -14095,7 +14094,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemIconTint
+     * @attr name com.ennbee.moonman:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=5;
     /**
@@ -14109,7 +14108,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemRippleColor
+     * @attr name com.ennbee.moonman:itemRippleColor
      */
     public static final int BottomNavigationView_itemRippleColor=6;
     /**
@@ -14124,7 +14123,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemTextAppearanceActive
+     * @attr name com.ennbee.moonman:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=7;
     /**
@@ -14140,7 +14139,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemTextAppearanceInactive
+     * @attr name com.ennbee.moonman:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=8;
     /**
@@ -14154,7 +14153,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemTextColor
+     * @attr name com.ennbee.moonman:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=9;
     /**
@@ -14177,7 +14176,7 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td>Label is not shown on any navigation items.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:labelVisibilityMode
+     * @attr name com.ennbee.moonman:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=10;
     /**
@@ -14191,7 +14190,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:menu
+     * @attr name com.ennbee.moonman:menu
      */
     public static final int BottomNavigationView_menu=11;
     /**
@@ -14202,20 +14201,20 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #BottomSheetBehavior_Layout_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_backgroundTint com.greyluxmobile.invest:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_draggable com.greyluxmobile.invest:behavior_draggable}</code></td><td>Whether this bottom sheet is draggable.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_expandedOffset com.greyluxmobile.invest:behavior_expandedOffset}</code></td><td>The top offset of the BottomSheet in the expanded-state when fitsToContent is false.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.greyluxmobile.invest:behavior_fitToContents}</code></td><td>Whether height of expanded sheet wraps content or not</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_halfExpandedRatio com.greyluxmobile.invest:behavior_halfExpandedRatio}</code></td><td>The ratio to be used to set the height of half-expanded state in proportion to parent, when
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_backgroundTint com.ennbee.moonman:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_draggable com.ennbee.moonman:behavior_draggable}</code></td><td>Whether this bottom sheet is draggable.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_expandedOffset com.ennbee.moonman:behavior_expandedOffset}</code></td><td>The top offset of the BottomSheet in the expanded-state when fitsToContent is false.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.ennbee.moonman:behavior_fitToContents}</code></td><td>Whether height of expanded sheet wraps content or not</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_halfExpandedRatio com.ennbee.moonman:behavior_halfExpandedRatio}</code></td><td>The ratio to be used to set the height of half-expanded state in proportion to parent, when
      * fitToContents is false.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.greyluxmobile.invest:behavior_hideable}</code></td><td>Whether this bottom sheet can be hidden by dragging it further downwards</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.greyluxmobile.invest:behavior_peekHeight}</code></td><td>The height of the bottom sheet when it is collapsed.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_saveFlags com.greyluxmobile.invest:behavior_saveFlags}</code></td><td>Behavior properties will be saved and restored by evaluating each flag.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.greyluxmobile.invest:behavior_skipCollapsed}</code></td><td>Skip the collapsed state once expanded; no effect unless it is hideable</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_gestureInsetBottomIgnored com.greyluxmobile.invest:gestureInsetBottomIgnored}</code></td><td>Sets whether this bottom sheet should adjust it's position based on the system gesture area
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.ennbee.moonman:behavior_hideable}</code></td><td>Whether this bottom sheet can be hidden by dragging it further downwards</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.ennbee.moonman:behavior_peekHeight}</code></td><td>The height of the bottom sheet when it is collapsed.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_saveFlags com.ennbee.moonman:behavior_saveFlags}</code></td><td>Behavior properties will be saved and restored by evaluating each flag.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.ennbee.moonman:behavior_skipCollapsed}</code></td><td>Skip the collapsed state once expanded; no effect unless it is hideable</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_gestureInsetBottomIgnored com.ennbee.moonman:gestureInsetBottomIgnored}</code></td><td>Sets whether this bottom sheet should adjust it's position based on the system gesture area
      * on Android Q and above.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearance com.greyluxmobile.invest:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearanceOverlay com.greyluxmobile.invest:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearance com.ennbee.moonman:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearanceOverlay com.ennbee.moonman:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_android_elevation
      * @see #BottomSheetBehavior_Layout_backgroundTint
@@ -14261,7 +14260,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundTint
+     * @attr name com.ennbee.moonman:backgroundTint
      */
     public static final int BottomSheetBehavior_Layout_backgroundTint=1;
     /**
@@ -14273,7 +14272,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:behavior_draggable
+     * @attr name com.ennbee.moonman:behavior_draggable
      */
     public static final int BottomSheetBehavior_Layout_behavior_draggable=2;
     /**
@@ -14292,7 +14291,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:behavior_expandedOffset
+     * @attr name com.ennbee.moonman:behavior_expandedOffset
      */
     public static final int BottomSheetBehavior_Layout_behavior_expandedOffset=3;
     /**
@@ -14303,7 +14302,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:behavior_fitToContents
+     * @attr name com.ennbee.moonman:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=4;
     /**
@@ -14320,7 +14319,7 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:behavior_halfExpandedRatio
+     * @attr name com.ennbee.moonman:behavior_halfExpandedRatio
      */
     public static final int BottomSheetBehavior_Layout_behavior_halfExpandedRatio=5;
     /**
@@ -14331,7 +14330,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:behavior_hideable
+     * @attr name com.ennbee.moonman:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=6;
     /**
@@ -14353,7 +14352,7 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td>Peek at the 16:9 ratio keyline of its parent</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:behavior_peekHeight
+     * @attr name com.ennbee.moonman:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=7;
     /**
@@ -14378,7 +14377,7 @@ public final class R {
      * <tr><td>skipCollapsed</td><td>8</td><td>This flag will preserve the skipCollapsed boolean value on configuration change.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:behavior_saveFlags
+     * @attr name com.ennbee.moonman:behavior_saveFlags
      */
     public static final int BottomSheetBehavior_Layout_behavior_saveFlags=8;
     /**
@@ -14389,7 +14388,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:behavior_skipCollapsed
+     * @attr name com.ennbee.moonman:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=9;
     /**
@@ -14401,7 +14400,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:gestureInsetBottomIgnored
+     * @attr name com.ennbee.moonman:gestureInsetBottomIgnored
      */
     public static final int BottomSheetBehavior_Layout_gestureInsetBottomIgnored=10;
     /**
@@ -14415,7 +14414,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearance
+     * @attr name com.ennbee.moonman:shapeAppearance
      */
     public static final int BottomSheetBehavior_Layout_shapeAppearance=11;
     /**
@@ -14429,7 +14428,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearanceOverlay
+     * @attr name com.ennbee.moonman:shapeAppearanceOverlay
      */
     public static final int BottomSheetBehavior_Layout_shapeAppearanceOverlay=12;
     /**
@@ -14439,7 +14438,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.greyluxmobile.invest:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.ennbee.moonman:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -14456,7 +14455,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:allowStacking
+     * @attr name com.ennbee.moonman:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -14468,17 +14467,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.greyluxmobile.invest:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.greyluxmobile.invest:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.greyluxmobile.invest:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.greyluxmobile.invest:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.greyluxmobile.invest:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.greyluxmobile.invest:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.greyluxmobile.invest:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.greyluxmobile.invest:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.greyluxmobile.invest:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.greyluxmobile.invest:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.greyluxmobile.invest:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.ennbee.moonman:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.ennbee.moonman:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.ennbee.moonman:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.ennbee.moonman:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.ennbee.moonman:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.ennbee.moonman:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.ennbee.moonman:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.ennbee.moonman:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.ennbee.moonman:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.ennbee.moonman:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.ennbee.moonman:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -14537,7 +14536,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:cardBackgroundColor
+     * @attr name com.ennbee.moonman:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -14551,7 +14550,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:cardCornerRadius
+     * @attr name com.ennbee.moonman:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -14565,7 +14564,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:cardElevation
+     * @attr name com.ennbee.moonman:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -14579,7 +14578,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:cardMaxElevation
+     * @attr name com.ennbee.moonman:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -14590,7 +14589,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:cardPreventCornerOverlap
+     * @attr name com.ennbee.moonman:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -14601,7 +14600,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:cardUseCompatPadding
+     * @attr name com.ennbee.moonman:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -14615,7 +14614,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentPadding
+     * @attr name com.ennbee.moonman:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -14629,7 +14628,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentPaddingBottom
+     * @attr name com.ennbee.moonman:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -14643,7 +14642,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentPaddingLeft
+     * @attr name com.ennbee.moonman:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -14657,7 +14656,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentPaddingRight
+     * @attr name com.ennbee.moonman:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -14671,7 +14670,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentPaddingTop
+     * @attr name com.ennbee.moonman:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -14688,42 +14687,42 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon com.greyluxmobile.invest:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled com.greyluxmobile.invest:checkedIconEnabled}</code></td><td>Deprecated.</td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconTint com.greyluxmobile.invest:checkedIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible com.greyluxmobile.invest:checkedIconVisible}</code></td><td>Whether to show the checked icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor com.greyluxmobile.invest:chipBackgroundColor}</code></td><td>Background color to apply to the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius com.greyluxmobile.invest:chipCornerRadius}</code></td><td>Corner radius to apply to the chip's shape.</td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding com.greyluxmobile.invest:chipEndPadding}</code></td><td>Padding at the end of the chip, after the close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon com.greyluxmobile.invest:chipIcon}</code></td><td>Icon drawable to display at the start of the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled com.greyluxmobile.invest:chipIconEnabled}</code></td><td>Deprecated.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize com.greyluxmobile.invest:chipIconSize}</code></td><td>Size of the chip's icon and checked icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint com.greyluxmobile.invest:chipIconTint}</code></td><td>Tint to apply to the chip icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible com.greyluxmobile.invest:chipIconVisible}</code></td><td>Whether to show the chip icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight com.greyluxmobile.invest:chipMinHeight}</code></td><td>Min height to apply to the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_chipMinTouchTargetSize com.greyluxmobile.invest:chipMinTouchTargetSize}</code></td><td>Minimum size of chip's touch target, by default, Android recommended 48dp.</td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding com.greyluxmobile.invest:chipStartPadding}</code></td><td>Padding at the start of the chip, before the icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor com.greyluxmobile.invest:chipStrokeColor}</code></td><td>Stroke color to apply to the chip's outline.</td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth com.greyluxmobile.invest:chipStrokeWidth}</code></td><td>Stroke width to apply to the chip's outline.</td></tr>
-     * <tr><td><code>{@link #Chip_chipSurfaceColor com.greyluxmobile.invest:chipSurfaceColor}</code></td><td>Do not expose publicly because there is no public getter/setter and the user doesn't need
+     * <tr><td><code>{@link #Chip_checkedIcon com.ennbee.moonman:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled com.ennbee.moonman:checkedIconEnabled}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconTint com.ennbee.moonman:checkedIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible com.ennbee.moonman:checkedIconVisible}</code></td><td>Whether to show the checked icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor com.ennbee.moonman:chipBackgroundColor}</code></td><td>Background color to apply to the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius com.ennbee.moonman:chipCornerRadius}</code></td><td>Corner radius to apply to the chip's shape.</td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding com.ennbee.moonman:chipEndPadding}</code></td><td>Padding at the end of the chip, after the close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon com.ennbee.moonman:chipIcon}</code></td><td>Icon drawable to display at the start of the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled com.ennbee.moonman:chipIconEnabled}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize com.ennbee.moonman:chipIconSize}</code></td><td>Size of the chip's icon and checked icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint com.ennbee.moonman:chipIconTint}</code></td><td>Tint to apply to the chip icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible com.ennbee.moonman:chipIconVisible}</code></td><td>Whether to show the chip icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight com.ennbee.moonman:chipMinHeight}</code></td><td>Min height to apply to the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_chipMinTouchTargetSize com.ennbee.moonman:chipMinTouchTargetSize}</code></td><td>Minimum size of chip's touch target, by default, Android recommended 48dp.</td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding com.ennbee.moonman:chipStartPadding}</code></td><td>Padding at the start of the chip, before the icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor com.ennbee.moonman:chipStrokeColor}</code></td><td>Stroke color to apply to the chip's outline.</td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth com.ennbee.moonman:chipStrokeWidth}</code></td><td>Stroke width to apply to the chip's outline.</td></tr>
+     * <tr><td><code>{@link #Chip_chipSurfaceColor com.ennbee.moonman:chipSurfaceColor}</code></td><td>Do not expose publicly because there is no public getter/setter and the user doesn't need
      * to configure this.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon com.greyluxmobile.invest:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled com.greyluxmobile.invest:closeIconEnabled}</code></td><td>Deprecated.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding com.greyluxmobile.invest:closeIconEndPadding}</code></td><td>Padding at the end of the close icon, before the end of the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize com.greyluxmobile.invest:closeIconSize}</code></td><td>Size of the chip's close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding com.greyluxmobile.invest:closeIconStartPadding}</code></td><td>Padding at the start of the close icon, after the text.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint com.greyluxmobile.invest:closeIconTint}</code></td><td>Tint to apply to the chip's close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible com.greyluxmobile.invest:closeIconVisible}</code></td><td>Whether to show the close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_ensureMinTouchTargetSize com.greyluxmobile.invest:ensureMinTouchTargetSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec com.greyluxmobile.invest:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding com.greyluxmobile.invest:iconEndPadding}</code></td><td>Padding at the end of the icon, before the text.</td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding com.greyluxmobile.invest:iconStartPadding}</code></td><td>Padding at the start of the icon, after the start of the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor com.greyluxmobile.invest:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_shapeAppearance com.greyluxmobile.invest:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #Chip_shapeAppearanceOverlay com.greyluxmobile.invest:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec com.greyluxmobile.invest:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding com.greyluxmobile.invest:textEndPadding}</code></td><td>Padding at the end of the text, before the close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding com.greyluxmobile.invest:textStartPadding}</code></td><td>Padding at the start of the text, after the icon.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon com.ennbee.moonman:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled com.ennbee.moonman:closeIconEnabled}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding com.ennbee.moonman:closeIconEndPadding}</code></td><td>Padding at the end of the close icon, before the end of the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize com.ennbee.moonman:closeIconSize}</code></td><td>Size of the chip's close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding com.ennbee.moonman:closeIconStartPadding}</code></td><td>Padding at the start of the close icon, after the text.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint com.ennbee.moonman:closeIconTint}</code></td><td>Tint to apply to the chip's close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible com.ennbee.moonman:closeIconVisible}</code></td><td>Whether to show the close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_ensureMinTouchTargetSize com.ennbee.moonman:ensureMinTouchTargetSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec com.ennbee.moonman:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding com.ennbee.moonman:iconEndPadding}</code></td><td>Padding at the end of the icon, before the text.</td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding com.ennbee.moonman:iconStartPadding}</code></td><td>Padding at the start of the icon, after the start of the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor com.ennbee.moonman:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_shapeAppearance com.ennbee.moonman:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #Chip_shapeAppearanceOverlay com.ennbee.moonman:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec com.ennbee.moonman:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding com.ennbee.moonman:textEndPadding}</code></td><td>Padding at the end of the text, before the close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding com.ennbee.moonman:textStartPadding}</code></td><td>Padding at the start of the text, after the icon.</td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_textSize
@@ -14892,7 +14891,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:checkedIcon
+     * @attr name com.ennbee.moonman:checkedIcon
      */
     public static final int Chip_checkedIcon=7;
     /**
@@ -14903,7 +14902,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:checkedIconEnabled
+     * @attr name com.ennbee.moonman:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=8;
     /**
@@ -14915,7 +14914,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:checkedIconTint
+     * @attr name com.ennbee.moonman:checkedIconTint
      */
     public static final int Chip_checkedIconTint=9;
     /**
@@ -14926,7 +14925,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:checkedIconVisible
+     * @attr name com.ennbee.moonman:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=10;
     /**
@@ -14938,7 +14937,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:chipBackgroundColor
+     * @attr name com.ennbee.moonman:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=11;
     /**
@@ -14952,7 +14951,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:chipCornerRadius
+     * @attr name com.ennbee.moonman:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=12;
     /**
@@ -14966,7 +14965,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:chipEndPadding
+     * @attr name com.ennbee.moonman:chipEndPadding
      */
     public static final int Chip_chipEndPadding=13;
     /**
@@ -14979,7 +14978,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:chipIcon
+     * @attr name com.ennbee.moonman:chipIcon
      */
     public static final int Chip_chipIcon=14;
     /**
@@ -14990,7 +14989,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:chipIconEnabled
+     * @attr name com.ennbee.moonman:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=15;
     /**
@@ -15004,7 +15003,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:chipIconSize
+     * @attr name com.ennbee.moonman:chipIconSize
      */
     public static final int Chip_chipIconSize=16;
     /**
@@ -15016,7 +15015,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:chipIconTint
+     * @attr name com.ennbee.moonman:chipIconTint
      */
     public static final int Chip_chipIconTint=17;
     /**
@@ -15027,7 +15026,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:chipIconVisible
+     * @attr name com.ennbee.moonman:chipIconVisible
      */
     public static final int Chip_chipIconVisible=18;
     /**
@@ -15041,7 +15040,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:chipMinHeight
+     * @attr name com.ennbee.moonman:chipMinHeight
      */
     public static final int Chip_chipMinHeight=19;
     /**
@@ -15055,7 +15054,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:chipMinTouchTargetSize
+     * @attr name com.ennbee.moonman:chipMinTouchTargetSize
      */
     public static final int Chip_chipMinTouchTargetSize=20;
     /**
@@ -15069,7 +15068,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:chipStartPadding
+     * @attr name com.ennbee.moonman:chipStartPadding
      */
     public static final int Chip_chipStartPadding=21;
     /**
@@ -15081,7 +15080,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:chipStrokeColor
+     * @attr name com.ennbee.moonman:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=22;
     /**
@@ -15095,7 +15094,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:chipStrokeWidth
+     * @attr name com.ennbee.moonman:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=23;
     /**
@@ -15108,7 +15107,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:chipSurfaceColor
+     * @attr name com.ennbee.moonman:chipSurfaceColor
      */
     public static final int Chip_chipSurfaceColor=24;
     /**
@@ -15121,7 +15120,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:closeIcon
+     * @attr name com.ennbee.moonman:closeIcon
      */
     public static final int Chip_closeIcon=25;
     /**
@@ -15132,7 +15131,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:closeIconEnabled
+     * @attr name com.ennbee.moonman:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=26;
     /**
@@ -15146,7 +15145,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:closeIconEndPadding
+     * @attr name com.ennbee.moonman:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=27;
     /**
@@ -15160,7 +15159,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:closeIconSize
+     * @attr name com.ennbee.moonman:closeIconSize
      */
     public static final int Chip_closeIconSize=28;
     /**
@@ -15174,7 +15173,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:closeIconStartPadding
+     * @attr name com.ennbee.moonman:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=29;
     /**
@@ -15186,7 +15185,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:closeIconTint
+     * @attr name com.ennbee.moonman:closeIconTint
      */
     public static final int Chip_closeIconTint=30;
     /**
@@ -15197,7 +15196,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:closeIconVisible
+     * @attr name com.ennbee.moonman:closeIconVisible
      */
     public static final int Chip_closeIconVisible=31;
     /**
@@ -15208,7 +15207,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:ensureMinTouchTargetSize
+     * @attr name com.ennbee.moonman:ensureMinTouchTargetSize
      */
     public static final int Chip_ensureMinTouchTargetSize=32;
     /**
@@ -15221,7 +15220,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:hideMotionSpec
+     * @attr name com.ennbee.moonman:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=33;
     /**
@@ -15235,7 +15234,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:iconEndPadding
+     * @attr name com.ennbee.moonman:iconEndPadding
      */
     public static final int Chip_iconEndPadding=34;
     /**
@@ -15249,7 +15248,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:iconStartPadding
+     * @attr name com.ennbee.moonman:iconStartPadding
      */
     public static final int Chip_iconStartPadding=35;
     /**
@@ -15261,7 +15260,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:rippleColor
+     * @attr name com.ennbee.moonman:rippleColor
      */
     public static final int Chip_rippleColor=36;
     /**
@@ -15275,7 +15274,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearance
+     * @attr name com.ennbee.moonman:shapeAppearance
      */
     public static final int Chip_shapeAppearance=37;
     /**
@@ -15289,7 +15288,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearanceOverlay
+     * @attr name com.ennbee.moonman:shapeAppearanceOverlay
      */
     public static final int Chip_shapeAppearanceOverlay=38;
     /**
@@ -15302,7 +15301,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:showMotionSpec
+     * @attr name com.ennbee.moonman:showMotionSpec
      */
     public static final int Chip_showMotionSpec=39;
     /**
@@ -15316,7 +15315,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:textEndPadding
+     * @attr name com.ennbee.moonman:textEndPadding
      */
     public static final int Chip_textEndPadding=40;
     /**
@@ -15330,7 +15329,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:textStartPadding
+     * @attr name com.ennbee.moonman:textStartPadding
      */
     public static final int Chip_textStartPadding=41;
     /**
@@ -15340,13 +15339,13 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip com.greyluxmobile.invest:checkedChip}</code></td><td>The id of the child chip that should be checked by default within this chip group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing com.greyluxmobile.invest:chipSpacing}</code></td><td>Horizontal and vertical spacing between chips in this group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.greyluxmobile.invest:chipSpacingHorizontal}</code></td><td>Horizontal spacing between chips in this group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.greyluxmobile.invest:chipSpacingVertical}</code></td><td>Vertical spacing between chips in this group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_selectionRequired com.greyluxmobile.invest:selectionRequired}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine com.greyluxmobile.invest:singleLine}</code></td><td>Constrains the chips in this group to a single horizontal line.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection com.greyluxmobile.invest:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip com.ennbee.moonman:checkedChip}</code></td><td>The id of the child chip that should be checked by default within this chip group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing com.ennbee.moonman:chipSpacing}</code></td><td>Horizontal and vertical spacing between chips in this group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.ennbee.moonman:chipSpacingHorizontal}</code></td><td>Horizontal spacing between chips in this group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.ennbee.moonman:chipSpacingVertical}</code></td><td>Vertical spacing between chips in this group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_selectionRequired com.ennbee.moonman:selectionRequired}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine com.ennbee.moonman:singleLine}</code></td><td>Constrains the chips in this group to a single horizontal line.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection com.ennbee.moonman:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -15370,7 +15369,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:checkedChip
+     * @attr name com.ennbee.moonman:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
@@ -15384,7 +15383,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:chipSpacing
+     * @attr name com.ennbee.moonman:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
@@ -15398,7 +15397,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:chipSpacingHorizontal
+     * @attr name com.ennbee.moonman:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
@@ -15412,7 +15411,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:chipSpacingVertical
+     * @attr name com.ennbee.moonman:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
@@ -15424,7 +15423,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:selectionRequired
+     * @attr name com.ennbee.moonman:selectionRequired
      */
     public static final int ChipGroup_selectionRequired=4;
     /**
@@ -15438,7 +15437,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:singleLine
+     * @attr name com.ennbee.moonman:singleLine
      */
     public static final int ChipGroup_singleLine=5;
     /**
@@ -15450,7 +15449,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:singleSelection
+     * @attr name com.ennbee.moonman:singleSelection
      */
     public static final int ChipGroup_singleSelection=6;
     /**
@@ -15460,7 +15459,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ClockFaceView_valueTextColor com.greyluxmobile.invest:valueTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ClockFaceView_valueTextColor com.ennbee.moonman:valueTextColor}</code></td><td></td></tr>
      * </table>
      * @see #ClockFaceView_valueTextColor
      */
@@ -15468,14 +15467,14 @@ public final class R {
       0x7f030346
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#valueTextColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#valueTextColor}
      * attribute's value can be found in the {@link #ClockFaceView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:valueTextColor
+     * @attr name com.ennbee.moonman:valueTextColor
      */
     public static final int ClockFaceView_valueTextColor=0;
     /**
@@ -15485,8 +15484,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ClockHandView_materialCircleRadius com.greyluxmobile.invest:materialCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ClockHandView_selectorSize com.greyluxmobile.invest:selectorSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ClockHandView_materialCircleRadius com.ennbee.moonman:materialCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ClockHandView_selectorSize com.ennbee.moonman:selectorSize}</code></td><td></td></tr>
      * </table>
      * @see #ClockHandView_materialCircleRadius
      * @see #ClockHandView_selectorSize
@@ -15495,7 +15494,7 @@ public final class R {
       0x7f030220, 0x7f030298
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#materialCircleRadius}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#materialCircleRadius}
      * attribute's value can be found in the {@link #ClockHandView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15504,11 +15503,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:materialCircleRadius
+     * @attr name com.ennbee.moonman:materialCircleRadius
      */
     public static final int ClockHandView_materialCircleRadius=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#selectorSize}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#selectorSize}
      * attribute's value can be found in the {@link #ClockHandView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15517,7 +15516,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:selectorSize
+     * @attr name com.ennbee.moonman:selectorSize
      */
     public static final int ClockHandView_selectorSize=1;
     /**
@@ -15527,29 +15526,29 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.greyluxmobile.invest:collapsedTitleGravity}</code></td><td>Specifies how the title should be positioned when collapsed.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.greyluxmobile.invest:collapsedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayouts title when it is fully
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.ennbee.moonman:collapsedTitleGravity}</code></td><td>Specifies how the title should be positioned when collapsed.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.ennbee.moonman:collapsedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayouts title when it is fully
      * 'collapsed'</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.greyluxmobile.invest:contentScrim}</code></td><td>The drawable to use as a scrim on top of the CollapsingToolbarLayouts content when
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.ennbee.moonman:contentScrim}</code></td><td>The drawable to use as a scrim on top of the CollapsingToolbarLayouts content when
      * it has been scrolled sufficiently off screen.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.greyluxmobile.invest:expandedTitleGravity}</code></td><td>Specifies how the title should be positioned when expanded.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.greyluxmobile.invest:expandedTitleMargin}</code></td><td>Specifies extra space on the start, top, end and bottom
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.ennbee.moonman:expandedTitleGravity}</code></td><td>Specifies how the title should be positioned when expanded.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.ennbee.moonman:expandedTitleMargin}</code></td><td>Specifies extra space on the start, top, end and bottom
      * sides of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.greyluxmobile.invest:expandedTitleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.greyluxmobile.invest:expandedTitleMarginEnd}</code></td><td>Specifies extra space on the end side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.greyluxmobile.invest:expandedTitleMarginStart}</code></td><td>Specifies extra space on the start side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.greyluxmobile.invest:expandedTitleMarginTop}</code></td><td>Specifies extra space on the top side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.greyluxmobile.invest:expandedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayout's title when it is fully
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.ennbee.moonman:expandedTitleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.ennbee.moonman:expandedTitleMarginEnd}</code></td><td>Specifies extra space on the end side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.ennbee.moonman:expandedTitleMarginStart}</code></td><td>Specifies extra space on the start side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.ennbee.moonman:expandedTitleMarginTop}</code></td><td>Specifies extra space on the top side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.ennbee.moonman:expandedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayout's title when it is fully
      * 'expanded'</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_maxLines com.greyluxmobile.invest:maxLines}</code></td><td>The maximum number of lines to display in the expanded state.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.greyluxmobile.invest:scrimAnimationDuration}</code></td><td>Specifies the duration used for scrim visibility animations.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.greyluxmobile.invest:scrimVisibleHeightTrigger}</code></td><td>Specifies the amount of visible height in pixels used to define when to trigger a
+     * <tr><td><code>{@link #CollapsingToolbarLayout_maxLines com.ennbee.moonman:maxLines}</code></td><td>The maximum number of lines to display in the expanded state.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.ennbee.moonman:scrimAnimationDuration}</code></td><td>Specifies the duration used for scrim visibility animations.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.ennbee.moonman:scrimVisibleHeightTrigger}</code></td><td>Specifies the amount of visible height in pixels used to define when to trigger a
      * scrim visibility change.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.greyluxmobile.invest:statusBarScrim}</code></td><td>The drawable to use as a scrim for the status bar content when the
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.ennbee.moonman:statusBarScrim}</code></td><td>The drawable to use as a scrim for the status bar content when the
      * CollapsingToolbarLayout has been scrolled sufficiently off screen.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.greyluxmobile.invest:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.greyluxmobile.invest:titleEnabled}</code></td><td>Whether the CollapsingToolbarLayout should draw its own shrinking/growing title.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.greyluxmobile.invest:toolbarId}</code></td><td>The id of the primary Toolbar child that you wish to use for the purpose of collapsing.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.ennbee.moonman:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.ennbee.moonman:titleEnabled}</code></td><td>Whether the CollapsingToolbarLayout should draw its own shrinking/growing title.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.ennbee.moonman:toolbarId}</code></td><td>The id of the primary Toolbar child that you wish to use for the purpose of collapsing.</td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -15599,7 +15598,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push title to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:collapsedTitleGravity
+     * @attr name com.ennbee.moonman:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
@@ -15613,7 +15612,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:collapsedTitleTextAppearance
+     * @attr name com.ennbee.moonman:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
@@ -15626,7 +15625,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:contentScrim
+     * @attr name com.ennbee.moonman:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
@@ -15652,7 +15651,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push title to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:expandedTitleGravity
+     * @attr name com.ennbee.moonman:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
@@ -15667,7 +15666,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:expandedTitleMargin
+     * @attr name com.ennbee.moonman:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
@@ -15682,7 +15681,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:expandedTitleMarginBottom
+     * @attr name com.ennbee.moonman:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
@@ -15697,7 +15696,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:expandedTitleMarginEnd
+     * @attr name com.ennbee.moonman:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
@@ -15712,7 +15711,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:expandedTitleMarginStart
+     * @attr name com.ennbee.moonman:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
@@ -15727,7 +15726,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:expandedTitleMarginTop
+     * @attr name com.ennbee.moonman:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
@@ -15741,7 +15740,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:expandedTitleTextAppearance
+     * @attr name com.ennbee.moonman:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
@@ -15751,7 +15750,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:maxLines
+     * @attr name com.ennbee.moonman:maxLines
      */
     public static final int CollapsingToolbarLayout_maxLines=10;
     /**
@@ -15761,7 +15760,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:scrimAnimationDuration
+     * @attr name com.ennbee.moonman:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=11;
     /**
@@ -15776,7 +15775,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:scrimVisibleHeightTrigger
+     * @attr name com.ennbee.moonman:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=12;
     /**
@@ -15790,7 +15789,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:statusBarScrim
+     * @attr name com.ennbee.moonman:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=13;
     /**
@@ -15801,7 +15800,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:title
+     * @attr name com.ennbee.moonman:title
      */
     public static final int CollapsingToolbarLayout_title=14;
     /**
@@ -15812,7 +15811,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:titleEnabled
+     * @attr name com.ennbee.moonman:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=15;
     /**
@@ -15827,7 +15826,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:toolbarId
+     * @attr name com.ennbee.moonman:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=16;
     /**
@@ -15837,8 +15836,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.greyluxmobile.invest:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.greyluxmobile.invest:layout_collapseParallaxMultiplier}</code></td><td>The multiplier used when layout_collapseMode is set to 'parallax'.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.ennbee.moonman:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.ennbee.moonman:layout_collapseParallaxMultiplier}</code></td><td>The multiplier used when layout_collapseMode is set to 'parallax'.</td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -15847,7 +15846,7 @@ public final class R {
       0x7f0301bc, 0x7f0301bd
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15862,7 +15861,7 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td>The view will pin in place.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_collapseMode
+     * @attr name com.ennbee.moonman:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
@@ -15873,7 +15872,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_collapseParallaxMultiplier
+     * @attr name com.ennbee.moonman:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -15885,7 +15884,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.greyluxmobile.invest:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.ennbee.moonman:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -15922,7 +15921,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:alpha
+     * @attr name com.ennbee.moonman:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -15933,9 +15932,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonCompat com.greyluxmobile.invest:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.greyluxmobile.invest:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.greyluxmobile.invest:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonCompat com.ennbee.moonman:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.ennbee.moonman:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.ennbee.moonman:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonCompat
@@ -15967,7 +15966,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonCompat
+     * @attr name com.ennbee.moonman:buttonCompat
      */
     public static final int CompoundButton_buttonCompat=1;
     /**
@@ -15979,7 +15978,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonTint
+     * @attr name com.ennbee.moonman:buttonTint
      */
     public static final int CompoundButton_buttonTint=2;
     /**
@@ -16006,7 +16005,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:buttonTintMode
+     * @attr name com.ennbee.moonman:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=3;
     /**
@@ -16045,88 +16044,88 @@ public final class R {
      * <tr><td><code>{@link #Constraint_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #Constraint_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #Constraint_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_animate_relativeTo com.greyluxmobile.invest:animate_relativeTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_barrierAllowsGoneWidgets com.greyluxmobile.invest:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_barrierDirection com.greyluxmobile.invest:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_barrierMargin com.greyluxmobile.invest:barrierMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_chainUseRtl com.greyluxmobile.invest:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_constraint_referenced_ids com.greyluxmobile.invest:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_drawPath com.greyluxmobile.invest:drawPath}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_firstHorizontalBias com.greyluxmobile.invest:flow_firstHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_firstHorizontalStyle com.greyluxmobile.invest:flow_firstHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_firstVerticalBias com.greyluxmobile.invest:flow_firstVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_firstVerticalStyle com.greyluxmobile.invest:flow_firstVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_horizontalAlign com.greyluxmobile.invest:flow_horizontalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_horizontalBias com.greyluxmobile.invest:flow_horizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_horizontalGap com.greyluxmobile.invest:flow_horizontalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_horizontalStyle com.greyluxmobile.invest:flow_horizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_lastHorizontalBias com.greyluxmobile.invest:flow_lastHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_lastHorizontalStyle com.greyluxmobile.invest:flow_lastHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_lastVerticalBias com.greyluxmobile.invest:flow_lastVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_lastVerticalStyle com.greyluxmobile.invest:flow_lastVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_maxElementsWrap com.greyluxmobile.invest:flow_maxElementsWrap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_verticalAlign com.greyluxmobile.invest:flow_verticalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_verticalBias com.greyluxmobile.invest:flow_verticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_verticalGap com.greyluxmobile.invest:flow_verticalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_verticalStyle com.greyluxmobile.invest:flow_verticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_flow_wrapMode com.greyluxmobile.invest:flow_wrapMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constrainedHeight com.greyluxmobile.invest:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constrainedWidth com.greyluxmobile.invest:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintBaseline_creator com.greyluxmobile.invest:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintBaseline_toBaselineOf com.greyluxmobile.invest:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintBottom_creator com.greyluxmobile.invest:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintBottom_toBottomOf com.greyluxmobile.invest:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintBottom_toTopOf com.greyluxmobile.invest:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintCircle com.greyluxmobile.invest:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintCircleAngle com.greyluxmobile.invest:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintCircleRadius com.greyluxmobile.invest:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintDimensionRatio com.greyluxmobile.invest:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintEnd_toEndOf com.greyluxmobile.invest:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintEnd_toStartOf com.greyluxmobile.invest:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintGuide_begin com.greyluxmobile.invest:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintGuide_end com.greyluxmobile.invest:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintGuide_percent com.greyluxmobile.invest:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHeight_default com.greyluxmobile.invest:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHeight_max com.greyluxmobile.invest:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHeight_min com.greyluxmobile.invest:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHeight_percent com.greyluxmobile.invest:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_bias com.greyluxmobile.invest:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_chainStyle com.greyluxmobile.invest:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_weight com.greyluxmobile.invest:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintLeft_creator com.greyluxmobile.invest:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintLeft_toLeftOf com.greyluxmobile.invest:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintLeft_toRightOf com.greyluxmobile.invest:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintRight_creator com.greyluxmobile.invest:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintRight_toLeftOf com.greyluxmobile.invest:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintRight_toRightOf com.greyluxmobile.invest:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintStart_toEndOf com.greyluxmobile.invest:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintStart_toStartOf com.greyluxmobile.invest:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintTag com.greyluxmobile.invest:layout_constraintTag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintTop_creator com.greyluxmobile.invest:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintTop_toBottomOf com.greyluxmobile.invest:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintTop_toTopOf com.greyluxmobile.invest:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintVertical_bias com.greyluxmobile.invest:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintVertical_chainStyle com.greyluxmobile.invest:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintVertical_weight com.greyluxmobile.invest:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintWidth_default com.greyluxmobile.invest:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintWidth_max com.greyluxmobile.invest:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintWidth_min com.greyluxmobile.invest:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_constraintWidth_percent com.greyluxmobile.invest:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_editor_absoluteX com.greyluxmobile.invest:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_editor_absoluteY com.greyluxmobile.invest:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginBottom com.greyluxmobile.invest:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginEnd com.greyluxmobile.invest:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginLeft com.greyluxmobile.invest:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginRight com.greyluxmobile.invest:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginStart com.greyluxmobile.invest:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_layout_goneMarginTop com.greyluxmobile.invest:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_motionStagger com.greyluxmobile.invest:motionStagger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_pathMotionArc com.greyluxmobile.invest:pathMotionArc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_pivotAnchor com.greyluxmobile.invest:pivotAnchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_progress com.greyluxmobile.invest:progress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_transitionEasing com.greyluxmobile.invest:transitionEasing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_transitionPathRotate com.greyluxmobile.invest:transitionPathRotate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Constraint_visibilityMode com.greyluxmobile.invest:visibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_animate_relativeTo com.ennbee.moonman:animate_relativeTo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_barrierAllowsGoneWidgets com.ennbee.moonman:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_barrierDirection com.ennbee.moonman:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_barrierMargin com.ennbee.moonman:barrierMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_chainUseRtl com.ennbee.moonman:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_constraint_referenced_ids com.ennbee.moonman:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_drawPath com.ennbee.moonman:drawPath}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_firstHorizontalBias com.ennbee.moonman:flow_firstHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_firstHorizontalStyle com.ennbee.moonman:flow_firstHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_firstVerticalBias com.ennbee.moonman:flow_firstVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_firstVerticalStyle com.ennbee.moonman:flow_firstVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_horizontalAlign com.ennbee.moonman:flow_horizontalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_horizontalBias com.ennbee.moonman:flow_horizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_horizontalGap com.ennbee.moonman:flow_horizontalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_horizontalStyle com.ennbee.moonman:flow_horizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_lastHorizontalBias com.ennbee.moonman:flow_lastHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_lastHorizontalStyle com.ennbee.moonman:flow_lastHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_lastVerticalBias com.ennbee.moonman:flow_lastVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_lastVerticalStyle com.ennbee.moonman:flow_lastVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_maxElementsWrap com.ennbee.moonman:flow_maxElementsWrap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_verticalAlign com.ennbee.moonman:flow_verticalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_verticalBias com.ennbee.moonman:flow_verticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_verticalGap com.ennbee.moonman:flow_verticalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_verticalStyle com.ennbee.moonman:flow_verticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_flow_wrapMode com.ennbee.moonman:flow_wrapMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constrainedHeight com.ennbee.moonman:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constrainedWidth com.ennbee.moonman:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintBaseline_creator com.ennbee.moonman:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintBaseline_toBaselineOf com.ennbee.moonman:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintBottom_creator com.ennbee.moonman:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintBottom_toBottomOf com.ennbee.moonman:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintBottom_toTopOf com.ennbee.moonman:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintCircle com.ennbee.moonman:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintCircleAngle com.ennbee.moonman:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintCircleRadius com.ennbee.moonman:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintDimensionRatio com.ennbee.moonman:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintEnd_toEndOf com.ennbee.moonman:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintEnd_toStartOf com.ennbee.moonman:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintGuide_begin com.ennbee.moonman:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintGuide_end com.ennbee.moonman:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintGuide_percent com.ennbee.moonman:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHeight_default com.ennbee.moonman:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHeight_max com.ennbee.moonman:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHeight_min com.ennbee.moonman:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHeight_percent com.ennbee.moonman:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_bias com.ennbee.moonman:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_chainStyle com.ennbee.moonman:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintHorizontal_weight com.ennbee.moonman:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintLeft_creator com.ennbee.moonman:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintLeft_toLeftOf com.ennbee.moonman:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintLeft_toRightOf com.ennbee.moonman:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintRight_creator com.ennbee.moonman:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintRight_toLeftOf com.ennbee.moonman:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintRight_toRightOf com.ennbee.moonman:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintStart_toEndOf com.ennbee.moonman:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintStart_toStartOf com.ennbee.moonman:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintTag com.ennbee.moonman:layout_constraintTag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintTop_creator com.ennbee.moonman:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintTop_toBottomOf com.ennbee.moonman:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintTop_toTopOf com.ennbee.moonman:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintVertical_bias com.ennbee.moonman:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintVertical_chainStyle com.ennbee.moonman:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintVertical_weight com.ennbee.moonman:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintWidth_default com.ennbee.moonman:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintWidth_max com.ennbee.moonman:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintWidth_min com.ennbee.moonman:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_constraintWidth_percent com.ennbee.moonman:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_editor_absoluteX com.ennbee.moonman:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_editor_absoluteY com.ennbee.moonman:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginBottom com.ennbee.moonman:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginEnd com.ennbee.moonman:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginLeft com.ennbee.moonman:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginRight com.ennbee.moonman:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginStart com.ennbee.moonman:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_layout_goneMarginTop com.ennbee.moonman:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_motionStagger com.ennbee.moonman:motionStagger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_pathMotionArc com.ennbee.moonman:pathMotionArc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_pivotAnchor com.ennbee.moonman:pivotAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_progress com.ennbee.moonman:progress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_transitionEasing com.ennbee.moonman:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_transitionPathRotate com.ennbee.moonman:transitionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Constraint_visibilityMode com.ennbee.moonman:visibilityMode}</code></td><td></td></tr>
      * </table>
      * @see #Constraint_android_orientation
      * @see #Constraint_android_id
@@ -16652,7 +16651,7 @@ public final class R {
      */
     public static final int Constraint_android_elevation=28;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#animate_relativeTo}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#animate_relativeTo}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16660,21 +16659,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:animate_relativeTo
+     * @attr name com.ennbee.moonman:animate_relativeTo
      */
     public static final int Constraint_animate_relativeTo=29;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:barrierAllowsGoneWidgets
+     * @attr name com.ennbee.moonman:barrierAllowsGoneWidgets
      */
     public static final int Constraint_barrierAllowsGoneWidgets=30;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16691,11 +16690,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:barrierDirection
+     * @attr name com.ennbee.moonman:barrierDirection
      */
     public static final int Constraint_barrierDirection=31;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierMargin}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierMargin}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16704,31 +16703,31 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:barrierMargin
+     * @attr name com.ennbee.moonman:barrierMargin
      */
     public static final int Constraint_barrierMargin=32;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:chainUseRtl
+     * @attr name com.ennbee.moonman:chainUseRtl
      */
     public static final int Constraint_chainUseRtl=33;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:constraint_referenced_ids
+     * @attr name com.ennbee.moonman:constraint_referenced_ids
      */
     public static final int Constraint_constraint_referenced_ids=34;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#drawPath}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#drawPath}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16745,20 +16744,20 @@ public final class R {
      * <tr><td>rectangles</td><td>5</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:drawPath
+     * @attr name com.ennbee.moonman:drawPath
      */
     public static final int Constraint_drawPath=35;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstHorizontalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_firstHorizontalBias
+     * @attr name com.ennbee.moonman:flow_firstHorizontalBias
      */
     public static final int Constraint_flow_firstHorizontalBias=36;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstHorizontalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16772,20 +16771,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_firstHorizontalStyle
+     * @attr name com.ennbee.moonman:flow_firstHorizontalStyle
      */
     public static final int Constraint_flow_firstHorizontalStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstVerticalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstVerticalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_firstVerticalBias
+     * @attr name com.ennbee.moonman:flow_firstVerticalBias
      */
     public static final int Constraint_flow_firstVerticalBias=38;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstVerticalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16799,11 +16798,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_firstVerticalStyle
+     * @attr name com.ennbee.moonman:flow_firstVerticalStyle
      */
     public static final int Constraint_flow_firstVerticalStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalAlign}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalAlign}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -16818,20 +16817,20 @@ public final class R {
      * <tr><td>start</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalAlign
+     * @attr name com.ennbee.moonman:flow_horizontalAlign
      */
     public static final int Constraint_flow_horizontalAlign=40;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalBias
+     * @attr name com.ennbee.moonman:flow_horizontalBias
      */
     public static final int Constraint_flow_horizontalBias=41;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalGap}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalGap}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16840,11 +16839,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalGap
+     * @attr name com.ennbee.moonman:flow_horizontalGap
      */
     public static final int Constraint_flow_horizontalGap=42;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16858,20 +16857,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalStyle
+     * @attr name com.ennbee.moonman:flow_horizontalStyle
      */
     public static final int Constraint_flow_horizontalStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastHorizontalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_lastHorizontalBias
+     * @attr name com.ennbee.moonman:flow_lastHorizontalBias
      */
     public static final int Constraint_flow_lastHorizontalBias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastHorizontalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16885,20 +16884,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_lastHorizontalStyle
+     * @attr name com.ennbee.moonman:flow_lastHorizontalStyle
      */
     public static final int Constraint_flow_lastHorizontalStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastVerticalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastVerticalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_lastVerticalBias
+     * @attr name com.ennbee.moonman:flow_lastVerticalBias
      */
     public static final int Constraint_flow_lastVerticalBias=46;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastVerticalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16912,20 +16911,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_lastVerticalStyle
+     * @attr name com.ennbee.moonman:flow_lastVerticalStyle
      */
     public static final int Constraint_flow_lastVerticalStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_maxElementsWrap}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_maxElementsWrap}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_maxElementsWrap
+     * @attr name com.ennbee.moonman:flow_maxElementsWrap
      */
     public static final int Constraint_flow_maxElementsWrap=48;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalAlign}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalAlign}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16940,20 +16939,20 @@ public final class R {
      * <tr><td>top</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalAlign
+     * @attr name com.ennbee.moonman:flow_verticalAlign
      */
     public static final int Constraint_flow_verticalAlign=49;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalBias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalBias
+     * @attr name com.ennbee.moonman:flow_verticalBias
      */
     public static final int Constraint_flow_verticalBias=50;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalGap}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalGap}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16962,11 +16961,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalGap
+     * @attr name com.ennbee.moonman:flow_verticalGap
      */
     public static final int Constraint_flow_verticalGap=51;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16980,11 +16979,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalStyle
+     * @attr name com.ennbee.moonman:flow_verticalStyle
      */
     public static final int Constraint_flow_verticalStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_wrapMode}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_wrapMode}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16998,40 +16997,40 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_wrapMode
+     * @attr name com.ennbee.moonman:flow_wrapMode
      */
     public static final int Constraint_flow_wrapMode=53;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constrainedHeight
+     * @attr name com.ennbee.moonman:layout_constrainedHeight
      */
     public static final int Constraint_layout_constrainedHeight=54;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constrainedWidth
+     * @attr name com.ennbee.moonman:layout_constrainedWidth
      */
     public static final int Constraint_layout_constrainedWidth=55;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBaseline_creator
+     * @attr name com.ennbee.moonman:layout_constraintBaseline_creator
      */
     public static final int Constraint_layout_constraintBaseline_creator=56;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17047,20 +17046,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBaseline_toBaselineOf
+     * @attr name com.ennbee.moonman:layout_constraintBaseline_toBaselineOf
      */
     public static final int Constraint_layout_constraintBaseline_toBaselineOf=57;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_creator
+     * @attr name com.ennbee.moonman:layout_constraintBottom_creator
      */
     public static final int Constraint_layout_constraintBottom_creator=58;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17076,11 +17075,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_toBottomOf
+     * @attr name com.ennbee.moonman:layout_constraintBottom_toBottomOf
      */
     public static final int Constraint_layout_constraintBottom_toBottomOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17096,11 +17095,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_toTopOf
+     * @attr name com.ennbee.moonman:layout_constraintBottom_toTopOf
      */
     public static final int Constraint_layout_constraintBottom_toTopOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17108,20 +17107,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircle
+     * @attr name com.ennbee.moonman:layout_constraintCircle
      */
     public static final int Constraint_layout_constraintCircle=61;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircleAngle
+     * @attr name com.ennbee.moonman:layout_constraintCircleAngle
      */
     public static final int Constraint_layout_constraintCircleAngle=62;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17130,21 +17129,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircleRadius
+     * @attr name com.ennbee.moonman:layout_constraintCircleRadius
      */
     public static final int Constraint_layout_constraintCircleRadius=63;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintDimensionRatio
+     * @attr name com.ennbee.moonman:layout_constraintDimensionRatio
      */
     public static final int Constraint_layout_constraintDimensionRatio=64;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17160,11 +17159,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintEnd_toEndOf
+     * @attr name com.ennbee.moonman:layout_constraintEnd_toEndOf
      */
     public static final int Constraint_layout_constraintEnd_toEndOf=65;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17180,11 +17179,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintEnd_toStartOf
+     * @attr name com.ennbee.moonman:layout_constraintEnd_toStartOf
      */
     public static final int Constraint_layout_constraintEnd_toStartOf=66;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17193,11 +17192,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_begin
+     * @attr name com.ennbee.moonman:layout_constraintGuide_begin
      */
     public static final int Constraint_layout_constraintGuide_begin=67;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17206,20 +17205,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_end
+     * @attr name com.ennbee.moonman:layout_constraintGuide_end
      */
     public static final int Constraint_layout_constraintGuide_end=68;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_percent
+     * @attr name com.ennbee.moonman:layout_constraintGuide_percent
      */
     public static final int Constraint_layout_constraintGuide_percent=69;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17233,11 +17232,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_default
+     * @attr name com.ennbee.moonman:layout_constraintHeight_default
      */
     public static final int Constraint_layout_constraintHeight_default=70;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17254,11 +17253,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_max
+     * @attr name com.ennbee.moonman:layout_constraintHeight_max
      */
     public static final int Constraint_layout_constraintHeight_max=71;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17275,29 +17274,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_min
+     * @attr name com.ennbee.moonman:layout_constraintHeight_min
      */
     public static final int Constraint_layout_constraintHeight_min=72;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_percent
+     * @attr name com.ennbee.moonman:layout_constraintHeight_percent
      */
     public static final int Constraint_layout_constraintHeight_percent=73;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_bias
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_bias
      */
     public static final int Constraint_layout_constraintHorizontal_bias=74;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17311,29 +17310,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_chainStyle
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_chainStyle
      */
     public static final int Constraint_layout_constraintHorizontal_chainStyle=75;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_weight
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_weight
      */
     public static final int Constraint_layout_constraintHorizontal_weight=76;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_creator
+     * @attr name com.ennbee.moonman:layout_constraintLeft_creator
      */
     public static final int Constraint_layout_constraintLeft_creator=77;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17349,11 +17348,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_toLeftOf
+     * @attr name com.ennbee.moonman:layout_constraintLeft_toLeftOf
      */
     public static final int Constraint_layout_constraintLeft_toLeftOf=78;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17369,20 +17368,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_toRightOf
+     * @attr name com.ennbee.moonman:layout_constraintLeft_toRightOf
      */
     public static final int Constraint_layout_constraintLeft_toRightOf=79;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_creator
+     * @attr name com.ennbee.moonman:layout_constraintRight_creator
      */
     public static final int Constraint_layout_constraintRight_creator=80;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17398,11 +17397,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_toLeftOf
+     * @attr name com.ennbee.moonman:layout_constraintRight_toLeftOf
      */
     public static final int Constraint_layout_constraintRight_toLeftOf=81;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17418,11 +17417,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_toRightOf
+     * @attr name com.ennbee.moonman:layout_constraintRight_toRightOf
      */
     public static final int Constraint_layout_constraintRight_toRightOf=82;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17438,11 +17437,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintStart_toEndOf
+     * @attr name com.ennbee.moonman:layout_constraintStart_toEndOf
      */
     public static final int Constraint_layout_constraintStart_toEndOf=83;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17458,30 +17457,30 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintStart_toStartOf
+     * @attr name com.ennbee.moonman:layout_constraintStart_toStartOf
      */
     public static final int Constraint_layout_constraintStart_toStartOf=84;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTag}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTag}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTag
+     * @attr name com.ennbee.moonman:layout_constraintTag
      */
     public static final int Constraint_layout_constraintTag=85;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_creator
+     * @attr name com.ennbee.moonman:layout_constraintTop_creator
      */
     public static final int Constraint_layout_constraintTop_creator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17497,11 +17496,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_toBottomOf
+     * @attr name com.ennbee.moonman:layout_constraintTop_toBottomOf
      */
     public static final int Constraint_layout_constraintTop_toBottomOf=87;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17517,20 +17516,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_toTopOf
+     * @attr name com.ennbee.moonman:layout_constraintTop_toTopOf
      */
     public static final int Constraint_layout_constraintTop_toTopOf=88;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_bias
+     * @attr name com.ennbee.moonman:layout_constraintVertical_bias
      */
     public static final int Constraint_layout_constraintVertical_bias=89;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17544,20 +17543,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_chainStyle
+     * @attr name com.ennbee.moonman:layout_constraintVertical_chainStyle
      */
     public static final int Constraint_layout_constraintVertical_chainStyle=90;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_weight
+     * @attr name com.ennbee.moonman:layout_constraintVertical_weight
      */
     public static final int Constraint_layout_constraintVertical_weight=91;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17571,11 +17570,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_default
+     * @attr name com.ennbee.moonman:layout_constraintWidth_default
      */
     public static final int Constraint_layout_constraintWidth_default=92;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17592,11 +17591,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_max
+     * @attr name com.ennbee.moonman:layout_constraintWidth_max
      */
     public static final int Constraint_layout_constraintWidth_max=93;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17613,20 +17612,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_min
+     * @attr name com.ennbee.moonman:layout_constraintWidth_min
      */
     public static final int Constraint_layout_constraintWidth_min=94;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_percent
+     * @attr name com.ennbee.moonman:layout_constraintWidth_percent
      */
     public static final int Constraint_layout_constraintWidth_percent=95;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17635,11 +17634,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_editor_absoluteX
+     * @attr name com.ennbee.moonman:layout_editor_absoluteX
      */
     public static final int Constraint_layout_editor_absoluteX=96;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17648,11 +17647,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_editor_absoluteY
+     * @attr name com.ennbee.moonman:layout_editor_absoluteY
      */
     public static final int Constraint_layout_editor_absoluteY=97;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17661,11 +17660,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginBottom
+     * @attr name com.ennbee.moonman:layout_goneMarginBottom
      */
     public static final int Constraint_layout_goneMarginBottom=98;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17674,11 +17673,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginEnd
+     * @attr name com.ennbee.moonman:layout_goneMarginEnd
      */
     public static final int Constraint_layout_goneMarginEnd=99;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17687,11 +17686,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginLeft
+     * @attr name com.ennbee.moonman:layout_goneMarginLeft
      */
     public static final int Constraint_layout_goneMarginLeft=100;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17700,11 +17699,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginRight
+     * @attr name com.ennbee.moonman:layout_goneMarginRight
      */
     public static final int Constraint_layout_goneMarginRight=101;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17713,11 +17712,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginStart
+     * @attr name com.ennbee.moonman:layout_goneMarginStart
      */
     public static final int Constraint_layout_goneMarginStart=102;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17726,20 +17725,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginTop
+     * @attr name com.ennbee.moonman:layout_goneMarginTop
      */
     public static final int Constraint_layout_goneMarginTop=103;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionStagger}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionStagger}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:motionStagger
+     * @attr name com.ennbee.moonman:motionStagger
      */
     public static final int Constraint_motionStagger=104;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#pathMotionArc}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#pathMotionArc}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17754,11 +17753,11 @@ public final class R {
      * <tr><td>startVertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:pathMotionArc
+     * @attr name com.ennbee.moonman:pathMotionArc
      */
     public static final int Constraint_pathMotionArc=105;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#pivotAnchor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#pivotAnchor}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17774,20 +17773,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:pivotAnchor
+     * @attr name com.ennbee.moonman:pivotAnchor
      */
     public static final int Constraint_pivotAnchor=106;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#progress}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#progress}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:progress
+     * @attr name com.ennbee.moonman:progress
      */
     public static final int Constraint_progress=107;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -17804,20 +17803,20 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:transitionEasing
+     * @attr name com.ennbee.moonman:transitionEasing
      */
     public static final int Constraint_transitionEasing=108;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionPathRotate}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionPathRotate}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:transitionPathRotate
+     * @attr name com.ennbee.moonman:transitionPathRotate
      */
     public static final int Constraint_transitionPathRotate=109;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#visibilityMode}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#visibilityMode}
      * attribute's value can be found in the {@link #Constraint} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17830,7 +17829,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:visibilityMode
+     * @attr name com.ennbee.moonman:visibilityMode
      */
     public static final int Constraint_visibilityMode=110;
     /**
@@ -17854,82 +17853,82 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_paddingStart android:paddingStart}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_paddingEnd android:paddingEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.greyluxmobile.invest:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.greyluxmobile.invest:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierMargin com.greyluxmobile.invest:barrierMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.greyluxmobile.invest:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.greyluxmobile.invest:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.greyluxmobile.invest:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstHorizontalBias com.greyluxmobile.invest:flow_firstHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstHorizontalStyle com.greyluxmobile.invest:flow_firstHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstVerticalBias com.greyluxmobile.invest:flow_firstVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstVerticalStyle com.greyluxmobile.invest:flow_firstVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalAlign com.greyluxmobile.invest:flow_horizontalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalBias com.greyluxmobile.invest:flow_horizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalGap com.greyluxmobile.invest:flow_horizontalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalStyle com.greyluxmobile.invest:flow_horizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastHorizontalBias com.greyluxmobile.invest:flow_lastHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastHorizontalStyle com.greyluxmobile.invest:flow_lastHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastVerticalBias com.greyluxmobile.invest:flow_lastVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastVerticalStyle com.greyluxmobile.invest:flow_lastVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_maxElementsWrap com.greyluxmobile.invest:flow_maxElementsWrap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalAlign com.greyluxmobile.invest:flow_verticalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalBias com.greyluxmobile.invest:flow_verticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalGap com.greyluxmobile.invest:flow_verticalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalStyle com.greyluxmobile.invest:flow_verticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_wrapMode com.greyluxmobile.invest:flow_wrapMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layoutDescription com.greyluxmobile.invest:layoutDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.greyluxmobile.invest:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.greyluxmobile.invest:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.greyluxmobile.invest:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.greyluxmobile.invest:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.greyluxmobile.invest:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.greyluxmobile.invest:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.greyluxmobile.invest:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.greyluxmobile.invest:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.greyluxmobile.invest:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.greyluxmobile.invest:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.greyluxmobile.invest:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.greyluxmobile.invest:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.greyluxmobile.invest:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.greyluxmobile.invest:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.greyluxmobile.invest:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.greyluxmobile.invest:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.greyluxmobile.invest:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.greyluxmobile.invest:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.greyluxmobile.invest:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.greyluxmobile.invest:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.greyluxmobile.invest:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.greyluxmobile.invest:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.greyluxmobile.invest:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.greyluxmobile.invest:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.greyluxmobile.invest:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.greyluxmobile.invest:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.greyluxmobile.invest:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.greyluxmobile.invest:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.greyluxmobile.invest:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.greyluxmobile.invest:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.greyluxmobile.invest:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTag com.greyluxmobile.invest:layout_constraintTag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.greyluxmobile.invest:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.greyluxmobile.invest:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.greyluxmobile.invest:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.greyluxmobile.invest:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.greyluxmobile.invest:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.greyluxmobile.invest:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.greyluxmobile.invest:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.greyluxmobile.invest:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.greyluxmobile.invest:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.greyluxmobile.invest:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.greyluxmobile.invest:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.greyluxmobile.invest:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.greyluxmobile.invest:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.greyluxmobile.invest:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.greyluxmobile.invest:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.greyluxmobile.invest:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.greyluxmobile.invest:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.greyluxmobile.invest:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.greyluxmobile.invest:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.ennbee.moonman:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.ennbee.moonman:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierMargin com.ennbee.moonman:barrierMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.ennbee.moonman:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.ennbee.moonman:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.ennbee.moonman:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstHorizontalBias com.ennbee.moonman:flow_firstHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstHorizontalStyle com.ennbee.moonman:flow_firstHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstVerticalBias com.ennbee.moonman:flow_firstVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_firstVerticalStyle com.ennbee.moonman:flow_firstVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalAlign com.ennbee.moonman:flow_horizontalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalBias com.ennbee.moonman:flow_horizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalGap com.ennbee.moonman:flow_horizontalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_horizontalStyle com.ennbee.moonman:flow_horizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastHorizontalBias com.ennbee.moonman:flow_lastHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastHorizontalStyle com.ennbee.moonman:flow_lastHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastVerticalBias com.ennbee.moonman:flow_lastVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_lastVerticalStyle com.ennbee.moonman:flow_lastVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_maxElementsWrap com.ennbee.moonman:flow_maxElementsWrap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalAlign com.ennbee.moonman:flow_verticalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalBias com.ennbee.moonman:flow_verticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalGap com.ennbee.moonman:flow_verticalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_verticalStyle com.ennbee.moonman:flow_verticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_flow_wrapMode com.ennbee.moonman:flow_wrapMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layoutDescription com.ennbee.moonman:layoutDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.ennbee.moonman:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.ennbee.moonman:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.ennbee.moonman:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.ennbee.moonman:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.ennbee.moonman:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.ennbee.moonman:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.ennbee.moonman:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.ennbee.moonman:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.ennbee.moonman:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.ennbee.moonman:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.ennbee.moonman:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.ennbee.moonman:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.ennbee.moonman:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.ennbee.moonman:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.ennbee.moonman:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.ennbee.moonman:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.ennbee.moonman:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.ennbee.moonman:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.ennbee.moonman:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.ennbee.moonman:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.ennbee.moonman:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.ennbee.moonman:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.ennbee.moonman:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.ennbee.moonman:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.ennbee.moonman:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.ennbee.moonman:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.ennbee.moonman:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.ennbee.moonman:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.ennbee.moonman:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.ennbee.moonman:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.ennbee.moonman:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTag com.ennbee.moonman:layout_constraintTag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.ennbee.moonman:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.ennbee.moonman:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.ennbee.moonman:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.ennbee.moonman:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.ennbee.moonman:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.ennbee.moonman:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.ennbee.moonman:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.ennbee.moonman:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.ennbee.moonman:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.ennbee.moonman:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.ennbee.moonman:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.ennbee.moonman:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.ennbee.moonman:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.ennbee.moonman:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.ennbee.moonman:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.ennbee.moonman:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.ennbee.moonman:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.ennbee.moonman:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.ennbee.moonman:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_padding
@@ -18239,17 +18238,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_elevation=13;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:barrierAllowsGoneWidgets
+     * @attr name com.ennbee.moonman:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=14;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18266,11 +18265,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:barrierDirection
+     * @attr name com.ennbee.moonman:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=15;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierMargin}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierMargin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18279,21 +18278,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:barrierMargin
+     * @attr name com.ennbee.moonman:barrierMargin
      */
     public static final int ConstraintLayout_Layout_barrierMargin=16;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:chainUseRtl
+     * @attr name com.ennbee.moonman:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=17;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18301,30 +18300,30 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:constraintSet
+     * @attr name com.ennbee.moonman:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=18;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:constraint_referenced_ids
+     * @attr name com.ennbee.moonman:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=19;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstHorizontalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_firstHorizontalBias
+     * @attr name com.ennbee.moonman:flow_firstHorizontalBias
      */
     public static final int ConstraintLayout_Layout_flow_firstHorizontalBias=20;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstHorizontalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18338,20 +18337,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_firstHorizontalStyle
+     * @attr name com.ennbee.moonman:flow_firstHorizontalStyle
      */
     public static final int ConstraintLayout_Layout_flow_firstHorizontalStyle=21;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstVerticalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstVerticalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_firstVerticalBias
+     * @attr name com.ennbee.moonman:flow_firstVerticalBias
      */
     public static final int ConstraintLayout_Layout_flow_firstVerticalBias=22;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstVerticalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18365,11 +18364,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_firstVerticalStyle
+     * @attr name com.ennbee.moonman:flow_firstVerticalStyle
      */
     public static final int ConstraintLayout_Layout_flow_firstVerticalStyle=23;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalAlign}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalAlign}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -18384,20 +18383,20 @@ public final class R {
      * <tr><td>start</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalAlign
+     * @attr name com.ennbee.moonman:flow_horizontalAlign
      */
     public static final int ConstraintLayout_Layout_flow_horizontalAlign=24;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalBias
+     * @attr name com.ennbee.moonman:flow_horizontalBias
      */
     public static final int ConstraintLayout_Layout_flow_horizontalBias=25;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalGap}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalGap}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18406,11 +18405,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalGap
+     * @attr name com.ennbee.moonman:flow_horizontalGap
      */
     public static final int ConstraintLayout_Layout_flow_horizontalGap=26;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18424,20 +18423,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalStyle
+     * @attr name com.ennbee.moonman:flow_horizontalStyle
      */
     public static final int ConstraintLayout_Layout_flow_horizontalStyle=27;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastHorizontalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_lastHorizontalBias
+     * @attr name com.ennbee.moonman:flow_lastHorizontalBias
      */
     public static final int ConstraintLayout_Layout_flow_lastHorizontalBias=28;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastHorizontalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18451,20 +18450,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_lastHorizontalStyle
+     * @attr name com.ennbee.moonman:flow_lastHorizontalStyle
      */
     public static final int ConstraintLayout_Layout_flow_lastHorizontalStyle=29;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastVerticalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastVerticalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_lastVerticalBias
+     * @attr name com.ennbee.moonman:flow_lastVerticalBias
      */
     public static final int ConstraintLayout_Layout_flow_lastVerticalBias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastVerticalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18478,20 +18477,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_lastVerticalStyle
+     * @attr name com.ennbee.moonman:flow_lastVerticalStyle
      */
     public static final int ConstraintLayout_Layout_flow_lastVerticalStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_maxElementsWrap}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_maxElementsWrap}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_maxElementsWrap
+     * @attr name com.ennbee.moonman:flow_maxElementsWrap
      */
     public static final int ConstraintLayout_Layout_flow_maxElementsWrap=32;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalAlign}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalAlign}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18506,20 +18505,20 @@ public final class R {
      * <tr><td>top</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalAlign
+     * @attr name com.ennbee.moonman:flow_verticalAlign
      */
     public static final int ConstraintLayout_Layout_flow_verticalAlign=33;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalBias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalBias
+     * @attr name com.ennbee.moonman:flow_verticalBias
      */
     public static final int ConstraintLayout_Layout_flow_verticalBias=34;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalGap}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalGap}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18528,11 +18527,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalGap
+     * @attr name com.ennbee.moonman:flow_verticalGap
      */
     public static final int ConstraintLayout_Layout_flow_verticalGap=35;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18546,11 +18545,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalStyle
+     * @attr name com.ennbee.moonman:flow_verticalStyle
      */
     public static final int ConstraintLayout_Layout_flow_verticalStyle=36;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_wrapMode}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_wrapMode}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18564,11 +18563,11 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_wrapMode
+     * @attr name com.ennbee.moonman:flow_wrapMode
      */
     public static final int ConstraintLayout_Layout_flow_wrapMode=37;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layoutDescription}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layoutDescription}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18576,40 +18575,40 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:layoutDescription
+     * @attr name com.ennbee.moonman:layoutDescription
      */
     public static final int ConstraintLayout_Layout_layoutDescription=38;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constrainedHeight
+     * @attr name com.ennbee.moonman:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=39;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constrainedWidth
+     * @attr name com.ennbee.moonman:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=40;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBaseline_creator
+     * @attr name com.ennbee.moonman:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18625,20 +18624,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBaseline_toBaselineOf
+     * @attr name com.ennbee.moonman:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_creator
+     * @attr name com.ennbee.moonman:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=43;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18654,11 +18653,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_toBottomOf
+     * @attr name com.ennbee.moonman:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=44;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18674,11 +18673,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_toTopOf
+     * @attr name com.ennbee.moonman:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=45;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18686,20 +18685,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircle
+     * @attr name com.ennbee.moonman:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircleAngle
+     * @attr name com.ennbee.moonman:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18708,21 +18707,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircleRadius
+     * @attr name com.ennbee.moonman:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=48;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintDimensionRatio
+     * @attr name com.ennbee.moonman:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=49;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18738,11 +18737,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintEnd_toEndOf
+     * @attr name com.ennbee.moonman:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=50;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18758,11 +18757,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintEnd_toStartOf
+     * @attr name com.ennbee.moonman:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=51;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18771,11 +18770,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_begin
+     * @attr name com.ennbee.moonman:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=52;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18784,20 +18783,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_end
+     * @attr name com.ennbee.moonman:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=53;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_percent
+     * @attr name com.ennbee.moonman:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=54;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18811,11 +18810,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_default
+     * @attr name com.ennbee.moonman:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=55;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18832,11 +18831,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_max
+     * @attr name com.ennbee.moonman:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=56;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18853,29 +18852,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_min
+     * @attr name com.ennbee.moonman:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=57;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_percent
+     * @attr name com.ennbee.moonman:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=58;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_bias
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=59;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18889,29 +18888,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_chainStyle
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=60;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_weight
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=61;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_creator
+     * @attr name com.ennbee.moonman:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18927,11 +18926,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_toLeftOf
+     * @attr name com.ennbee.moonman:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=63;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18947,20 +18946,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_toRightOf
+     * @attr name com.ennbee.moonman:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_creator
+     * @attr name com.ennbee.moonman:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=65;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18976,11 +18975,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_toLeftOf
+     * @attr name com.ennbee.moonman:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=66;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18996,11 +18995,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_toRightOf
+     * @attr name com.ennbee.moonman:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=67;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19016,11 +19015,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintStart_toEndOf
+     * @attr name com.ennbee.moonman:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=68;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19036,30 +19035,30 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintStart_toStartOf
+     * @attr name com.ennbee.moonman:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=69;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTag}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTag}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTag
+     * @attr name com.ennbee.moonman:layout_constraintTag
      */
     public static final int ConstraintLayout_Layout_layout_constraintTag=70;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_creator
+     * @attr name com.ennbee.moonman:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=71;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19075,11 +19074,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_toBottomOf
+     * @attr name com.ennbee.moonman:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=72;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19095,20 +19094,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_toTopOf
+     * @attr name com.ennbee.moonman:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=73;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_bias
+     * @attr name com.ennbee.moonman:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=74;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19122,20 +19121,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_chainStyle
+     * @attr name com.ennbee.moonman:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=75;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_weight
+     * @attr name com.ennbee.moonman:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=76;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19149,11 +19148,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_default
+     * @attr name com.ennbee.moonman:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=77;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19170,11 +19169,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_max
+     * @attr name com.ennbee.moonman:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=78;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19191,20 +19190,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_min
+     * @attr name com.ennbee.moonman:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=79;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_percent
+     * @attr name com.ennbee.moonman:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=80;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19213,11 +19212,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_editor_absoluteX
+     * @attr name com.ennbee.moonman:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=81;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19226,11 +19225,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_editor_absoluteY
+     * @attr name com.ennbee.moonman:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=82;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19239,11 +19238,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginBottom
+     * @attr name com.ennbee.moonman:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=83;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19252,11 +19251,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginEnd
+     * @attr name com.ennbee.moonman:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=84;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19265,11 +19264,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginLeft
+     * @attr name com.ennbee.moonman:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=85;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19278,11 +19277,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginRight
+     * @attr name com.ennbee.moonman:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=86;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19291,11 +19290,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginStart
+     * @attr name com.ennbee.moonman:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=87;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19304,11 +19303,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginTop
+     * @attr name com.ennbee.moonman:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=88;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -19329,7 +19328,7 @@ public final class R {
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_optimizationLevel
+     * @attr name com.ennbee.moonman:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=89;
     /**
@@ -19339,8 +19338,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.greyluxmobile.invest:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_placeholder_emptyVisibility com.greyluxmobile.invest:placeholder_emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.ennbee.moonman:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_placeholder_emptyVisibility com.ennbee.moonman:placeholder_emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_placeholder_emptyVisibility
@@ -19349,7 +19348,7 @@ public final class R {
       0x7f0300ca, 0x7f03026e
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19357,11 +19356,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:content
+     * @attr name com.ennbee.moonman:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#placeholder_emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#placeholder_emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19375,7 +19374,7 @@ public final class R {
      * <tr><td>visible</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:placeholder_emptyVisibility
+     * @attr name com.ennbee.moonman:placeholder_emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_placeholder_emptyVisibility=1;
     /**
@@ -19414,88 +19413,88 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_animate_relativeTo com.greyluxmobile.invest:animate_relativeTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.greyluxmobile.invest:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.greyluxmobile.invest:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierMargin com.greyluxmobile.invest:barrierMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.greyluxmobile.invest:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.greyluxmobile.invest:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_deriveConstraintsFrom com.greyluxmobile.invest:deriveConstraintsFrom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_drawPath com.greyluxmobile.invest:drawPath}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_firstHorizontalBias com.greyluxmobile.invest:flow_firstHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_firstHorizontalStyle com.greyluxmobile.invest:flow_firstHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_firstVerticalBias com.greyluxmobile.invest:flow_firstVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_firstVerticalStyle com.greyluxmobile.invest:flow_firstVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_horizontalAlign com.greyluxmobile.invest:flow_horizontalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_horizontalBias com.greyluxmobile.invest:flow_horizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_horizontalGap com.greyluxmobile.invest:flow_horizontalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_horizontalStyle com.greyluxmobile.invest:flow_horizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_lastHorizontalBias com.greyluxmobile.invest:flow_lastHorizontalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_lastHorizontalStyle com.greyluxmobile.invest:flow_lastHorizontalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_lastVerticalBias com.greyluxmobile.invest:flow_lastVerticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_lastVerticalStyle com.greyluxmobile.invest:flow_lastVerticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_maxElementsWrap com.greyluxmobile.invest:flow_maxElementsWrap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_verticalAlign com.greyluxmobile.invest:flow_verticalAlign}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_verticalBias com.greyluxmobile.invest:flow_verticalBias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_verticalGap com.greyluxmobile.invest:flow_verticalGap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_verticalStyle com.greyluxmobile.invest:flow_verticalStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_flow_wrapMode com.greyluxmobile.invest:flow_wrapMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.greyluxmobile.invest:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.greyluxmobile.invest:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.greyluxmobile.invest:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.greyluxmobile.invest:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.greyluxmobile.invest:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.greyluxmobile.invest:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.greyluxmobile.invest:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.greyluxmobile.invest:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.greyluxmobile.invest:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.greyluxmobile.invest:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.greyluxmobile.invest:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.greyluxmobile.invest:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.greyluxmobile.invest:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.greyluxmobile.invest:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.greyluxmobile.invest:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.greyluxmobile.invest:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.greyluxmobile.invest:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.greyluxmobile.invest:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.greyluxmobile.invest:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.greyluxmobile.invest:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.greyluxmobile.invest:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.greyluxmobile.invest:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.greyluxmobile.invest:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.greyluxmobile.invest:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.greyluxmobile.invest:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.greyluxmobile.invest:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.greyluxmobile.invest:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.greyluxmobile.invest:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.greyluxmobile.invest:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.greyluxmobile.invest:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.greyluxmobile.invest:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTag com.greyluxmobile.invest:layout_constraintTag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.greyluxmobile.invest:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.greyluxmobile.invest:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.greyluxmobile.invest:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.greyluxmobile.invest:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.greyluxmobile.invest:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.greyluxmobile.invest:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.greyluxmobile.invest:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.greyluxmobile.invest:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.greyluxmobile.invest:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.greyluxmobile.invest:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.greyluxmobile.invest:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.greyluxmobile.invest:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.greyluxmobile.invest:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.greyluxmobile.invest:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.greyluxmobile.invest:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.greyluxmobile.invest:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.greyluxmobile.invest:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.greyluxmobile.invest:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_motionProgress com.greyluxmobile.invest:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_motionStagger com.greyluxmobile.invest:motionStagger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_pathMotionArc com.greyluxmobile.invest:pathMotionArc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_pivotAnchor com.greyluxmobile.invest:pivotAnchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_transitionEasing com.greyluxmobile.invest:transitionEasing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_transitionPathRotate com.greyluxmobile.invest:transitionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_animate_relativeTo com.ennbee.moonman:animate_relativeTo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.ennbee.moonman:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.ennbee.moonman:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierMargin com.ennbee.moonman:barrierMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.ennbee.moonman:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.ennbee.moonman:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_deriveConstraintsFrom com.ennbee.moonman:deriveConstraintsFrom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_drawPath com.ennbee.moonman:drawPath}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_firstHorizontalBias com.ennbee.moonman:flow_firstHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_firstHorizontalStyle com.ennbee.moonman:flow_firstHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_firstVerticalBias com.ennbee.moonman:flow_firstVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_firstVerticalStyle com.ennbee.moonman:flow_firstVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_horizontalAlign com.ennbee.moonman:flow_horizontalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_horizontalBias com.ennbee.moonman:flow_horizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_horizontalGap com.ennbee.moonman:flow_horizontalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_horizontalStyle com.ennbee.moonman:flow_horizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_lastHorizontalBias com.ennbee.moonman:flow_lastHorizontalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_lastHorizontalStyle com.ennbee.moonman:flow_lastHorizontalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_lastVerticalBias com.ennbee.moonman:flow_lastVerticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_lastVerticalStyle com.ennbee.moonman:flow_lastVerticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_maxElementsWrap com.ennbee.moonman:flow_maxElementsWrap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_verticalAlign com.ennbee.moonman:flow_verticalAlign}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_verticalBias com.ennbee.moonman:flow_verticalBias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_verticalGap com.ennbee.moonman:flow_verticalGap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_verticalStyle com.ennbee.moonman:flow_verticalStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_flow_wrapMode com.ennbee.moonman:flow_wrapMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.ennbee.moonman:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.ennbee.moonman:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.ennbee.moonman:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.ennbee.moonman:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.ennbee.moonman:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.ennbee.moonman:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.ennbee.moonman:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.ennbee.moonman:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.ennbee.moonman:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.ennbee.moonman:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.ennbee.moonman:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.ennbee.moonman:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.ennbee.moonman:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.ennbee.moonman:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.ennbee.moonman:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.ennbee.moonman:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.ennbee.moonman:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.ennbee.moonman:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.ennbee.moonman:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.ennbee.moonman:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.ennbee.moonman:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.ennbee.moonman:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.ennbee.moonman:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.ennbee.moonman:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.ennbee.moonman:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.ennbee.moonman:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.ennbee.moonman:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.ennbee.moonman:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.ennbee.moonman:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.ennbee.moonman:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.ennbee.moonman:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTag com.ennbee.moonman:layout_constraintTag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.ennbee.moonman:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.ennbee.moonman:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.ennbee.moonman:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.ennbee.moonman:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.ennbee.moonman:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.ennbee.moonman:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.ennbee.moonman:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.ennbee.moonman:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.ennbee.moonman:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.ennbee.moonman:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.ennbee.moonman:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.ennbee.moonman:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.ennbee.moonman:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.ennbee.moonman:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.ennbee.moonman:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.ennbee.moonman:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.ennbee.moonman:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.ennbee.moonman:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_motionProgress com.ennbee.moonman:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_motionStagger com.ennbee.moonman:motionStagger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_pathMotionArc com.ennbee.moonman:pathMotionArc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_pivotAnchor com.ennbee.moonman:pivotAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_transitionEasing com.ennbee.moonman:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_transitionPathRotate com.ennbee.moonman:transitionPathRotate}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -20021,7 +20020,7 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=28;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#animate_relativeTo}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#animate_relativeTo}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20029,21 +20028,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:animate_relativeTo
+     * @attr name com.ennbee.moonman:animate_relativeTo
      */
     public static final int ConstraintSet_animate_relativeTo=29;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:barrierAllowsGoneWidgets
+     * @attr name com.ennbee.moonman:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=30;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20060,11 +20059,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:barrierDirection
+     * @attr name com.ennbee.moonman:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=31;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierMargin}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierMargin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20073,31 +20072,31 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:barrierMargin
+     * @attr name com.ennbee.moonman:barrierMargin
      */
     public static final int ConstraintSet_barrierMargin=32;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:chainUseRtl
+     * @attr name com.ennbee.moonman:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=33;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:constraint_referenced_ids
+     * @attr name com.ennbee.moonman:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=34;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#deriveConstraintsFrom}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#deriveConstraintsFrom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20105,11 +20104,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:deriveConstraintsFrom
+     * @attr name com.ennbee.moonman:deriveConstraintsFrom
      */
     public static final int ConstraintSet_deriveConstraintsFrom=35;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#drawPath}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#drawPath}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20126,20 +20125,20 @@ public final class R {
      * <tr><td>rectangles</td><td>5</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:drawPath
+     * @attr name com.ennbee.moonman:drawPath
      */
     public static final int ConstraintSet_drawPath=36;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstHorizontalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_firstHorizontalBias
+     * @attr name com.ennbee.moonman:flow_firstHorizontalBias
      */
     public static final int ConstraintSet_flow_firstHorizontalBias=37;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstHorizontalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20153,20 +20152,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_firstHorizontalStyle
+     * @attr name com.ennbee.moonman:flow_firstHorizontalStyle
      */
     public static final int ConstraintSet_flow_firstHorizontalStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstVerticalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstVerticalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_firstVerticalBias
+     * @attr name com.ennbee.moonman:flow_firstVerticalBias
      */
     public static final int ConstraintSet_flow_firstVerticalBias=39;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_firstVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_firstVerticalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20180,11 +20179,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_firstVerticalStyle
+     * @attr name com.ennbee.moonman:flow_firstVerticalStyle
      */
     public static final int ConstraintSet_flow_firstVerticalStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalAlign}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalAlign}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -20199,20 +20198,20 @@ public final class R {
      * <tr><td>start</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalAlign
+     * @attr name com.ennbee.moonman:flow_horizontalAlign
      */
     public static final int ConstraintSet_flow_horizontalAlign=41;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalBias
+     * @attr name com.ennbee.moonman:flow_horizontalBias
      */
     public static final int ConstraintSet_flow_horizontalBias=42;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalGap}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalGap}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20221,11 +20220,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalGap
+     * @attr name com.ennbee.moonman:flow_horizontalGap
      */
     public static final int ConstraintSet_flow_horizontalGap=43;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_horizontalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_horizontalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20239,20 +20238,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_horizontalStyle
+     * @attr name com.ennbee.moonman:flow_horizontalStyle
      */
     public static final int ConstraintSet_flow_horizontalStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastHorizontalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastHorizontalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_lastHorizontalBias
+     * @attr name com.ennbee.moonman:flow_lastHorizontalBias
      */
     public static final int ConstraintSet_flow_lastHorizontalBias=45;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastHorizontalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastHorizontalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20266,20 +20265,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_lastHorizontalStyle
+     * @attr name com.ennbee.moonman:flow_lastHorizontalStyle
      */
     public static final int ConstraintSet_flow_lastHorizontalStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastVerticalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastVerticalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_lastVerticalBias
+     * @attr name com.ennbee.moonman:flow_lastVerticalBias
      */
     public static final int ConstraintSet_flow_lastVerticalBias=47;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_lastVerticalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_lastVerticalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20293,20 +20292,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_lastVerticalStyle
+     * @attr name com.ennbee.moonman:flow_lastVerticalStyle
      */
     public static final int ConstraintSet_flow_lastVerticalStyle=48;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_maxElementsWrap}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_maxElementsWrap}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_maxElementsWrap
+     * @attr name com.ennbee.moonman:flow_maxElementsWrap
      */
     public static final int ConstraintSet_flow_maxElementsWrap=49;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalAlign}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalAlign}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20321,20 +20320,20 @@ public final class R {
      * <tr><td>top</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalAlign
+     * @attr name com.ennbee.moonman:flow_verticalAlign
      */
     public static final int ConstraintSet_flow_verticalAlign=50;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalBias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalBias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalBias
+     * @attr name com.ennbee.moonman:flow_verticalBias
      */
     public static final int ConstraintSet_flow_verticalBias=51;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalGap}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalGap}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20343,11 +20342,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalGap
+     * @attr name com.ennbee.moonman:flow_verticalGap
      */
     public static final int ConstraintSet_flow_verticalGap=52;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_verticalStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_verticalStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20361,11 +20360,11 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_verticalStyle
+     * @attr name com.ennbee.moonman:flow_verticalStyle
      */
     public static final int ConstraintSet_flow_verticalStyle=53;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#flow_wrapMode}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#flow_wrapMode}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20379,40 +20378,40 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:flow_wrapMode
+     * @attr name com.ennbee.moonman:flow_wrapMode
      */
     public static final int ConstraintSet_flow_wrapMode=54;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constrainedHeight
+     * @attr name com.ennbee.moonman:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=55;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constrainedWidth
+     * @attr name com.ennbee.moonman:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=56;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBaseline_creator
+     * @attr name com.ennbee.moonman:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20428,20 +20427,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBaseline_toBaselineOf
+     * @attr name com.ennbee.moonman:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_creator
+     * @attr name com.ennbee.moonman:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=59;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20457,11 +20456,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_toBottomOf
+     * @attr name com.ennbee.moonman:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20477,11 +20476,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_toTopOf
+     * @attr name com.ennbee.moonman:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20489,20 +20488,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircle
+     * @attr name com.ennbee.moonman:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=62;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircleAngle
+     * @attr name com.ennbee.moonman:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20511,21 +20510,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircleRadius
+     * @attr name com.ennbee.moonman:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=64;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintDimensionRatio
+     * @attr name com.ennbee.moonman:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=65;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20541,11 +20540,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintEnd_toEndOf
+     * @attr name com.ennbee.moonman:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=66;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20561,11 +20560,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintEnd_toStartOf
+     * @attr name com.ennbee.moonman:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=67;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20574,11 +20573,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_begin
+     * @attr name com.ennbee.moonman:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=68;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20587,20 +20586,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_end
+     * @attr name com.ennbee.moonman:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=69;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_percent
+     * @attr name com.ennbee.moonman:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=70;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20614,11 +20613,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_default
+     * @attr name com.ennbee.moonman:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=71;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20635,11 +20634,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_max
+     * @attr name com.ennbee.moonman:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=72;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20656,29 +20655,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_min
+     * @attr name com.ennbee.moonman:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=73;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_percent
+     * @attr name com.ennbee.moonman:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=74;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_bias
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=75;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20692,29 +20691,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_chainStyle
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=76;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_weight
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_creator
+     * @attr name com.ennbee.moonman:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=78;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20730,11 +20729,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_toLeftOf
+     * @attr name com.ennbee.moonman:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=79;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20750,20 +20749,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_toRightOf
+     * @attr name com.ennbee.moonman:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=80;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_creator
+     * @attr name com.ennbee.moonman:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=81;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20779,11 +20778,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_toLeftOf
+     * @attr name com.ennbee.moonman:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=82;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20799,11 +20798,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_toRightOf
+     * @attr name com.ennbee.moonman:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=83;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20819,11 +20818,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintStart_toEndOf
+     * @attr name com.ennbee.moonman:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=84;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20839,30 +20838,30 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintStart_toStartOf
+     * @attr name com.ennbee.moonman:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=85;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTag}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTag}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTag
+     * @attr name com.ennbee.moonman:layout_constraintTag
      */
     public static final int ConstraintSet_layout_constraintTag=86;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_creator
+     * @attr name com.ennbee.moonman:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=87;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20878,11 +20877,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_toBottomOf
+     * @attr name com.ennbee.moonman:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=88;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20898,20 +20897,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_toTopOf
+     * @attr name com.ennbee.moonman:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=89;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_bias
+     * @attr name com.ennbee.moonman:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=90;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20925,20 +20924,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_chainStyle
+     * @attr name com.ennbee.moonman:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=91;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_weight
+     * @attr name com.ennbee.moonman:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=92;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20952,11 +20951,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_default
+     * @attr name com.ennbee.moonman:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=93;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20973,11 +20972,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_max
+     * @attr name com.ennbee.moonman:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=94;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20994,20 +20993,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_min
+     * @attr name com.ennbee.moonman:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=95;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_percent
+     * @attr name com.ennbee.moonman:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=96;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21016,11 +21015,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_editor_absoluteX
+     * @attr name com.ennbee.moonman:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=97;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21029,11 +21028,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_editor_absoluteY
+     * @attr name com.ennbee.moonman:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=98;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21042,11 +21041,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginBottom
+     * @attr name com.ennbee.moonman:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=99;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21055,11 +21054,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginEnd
+     * @attr name com.ennbee.moonman:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=100;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21068,11 +21067,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginLeft
+     * @attr name com.ennbee.moonman:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=101;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21081,11 +21080,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginRight
+     * @attr name com.ennbee.moonman:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=102;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21094,11 +21093,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginStart
+     * @attr name com.ennbee.moonman:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=103;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21107,29 +21106,29 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginTop
+     * @attr name com.ennbee.moonman:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=104;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionProgress}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:motionProgress
+     * @attr name com.ennbee.moonman:motionProgress
      */
     public static final int ConstraintSet_motionProgress=105;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionStagger}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionStagger}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:motionStagger
+     * @attr name com.ennbee.moonman:motionStagger
      */
     public static final int ConstraintSet_motionStagger=106;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#pathMotionArc}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#pathMotionArc}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -21144,11 +21143,11 @@ public final class R {
      * <tr><td>startVertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:pathMotionArc
+     * @attr name com.ennbee.moonman:pathMotionArc
      */
     public static final int ConstraintSet_pathMotionArc=107;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#pivotAnchor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#pivotAnchor}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21164,11 +21163,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:pivotAnchor
+     * @attr name com.ennbee.moonman:pivotAnchor
      */
     public static final int ConstraintSet_pivotAnchor=108;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -21185,16 +21184,16 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:transitionEasing
+     * @attr name com.ennbee.moonman:transitionEasing
      */
     public static final int ConstraintSet_transitionEasing=109;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionPathRotate}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionPathRotate}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:transitionPathRotate
+     * @attr name com.ennbee.moonman:transitionPathRotate
      */
     public static final int ConstraintSet_transitionPathRotate=110;
     /**
@@ -21204,9 +21203,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.greyluxmobile.invest:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.ennbee.moonman:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.greyluxmobile.invest:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.ennbee.moonman:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -21228,7 +21227,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:keylines
+     * @attr name com.ennbee.moonman:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -21244,7 +21243,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:statusBarBackground
+     * @attr name com.ennbee.moonman:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -21255,15 +21254,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.greyluxmobile.invest:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.greyluxmobile.invest:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.ennbee.moonman:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.ennbee.moonman:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.greyluxmobile.invest:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.ennbee.moonman:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.greyluxmobile.invest:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.greyluxmobile.invest:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.ennbee.moonman:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.ennbee.moonman:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.greyluxmobile.invest:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.ennbee.moonman:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -21316,7 +21315,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_anchor
+     * @attr name com.ennbee.moonman:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -21353,7 +21352,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_anchorGravity
+     * @attr name com.ennbee.moonman:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -21365,7 +21364,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:layout_behavior
+     * @attr name com.ennbee.moonman:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -21389,7 +21388,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_dodgeInsetEdges
+     * @attr name com.ennbee.moonman:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -21413,7 +21412,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_insetEdge
+     * @attr name com.ennbee.moonman:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -21425,7 +21424,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_keyline
+     * @attr name com.ennbee.moonman:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -21435,15 +21434,15 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CustomAttribute_attributeName com.greyluxmobile.invest:attributeName}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customBoolean com.greyluxmobile.invest:customBoolean}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customColorDrawableValue com.greyluxmobile.invest:customColorDrawableValue}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customColorValue com.greyluxmobile.invest:customColorValue}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customDimension com.greyluxmobile.invest:customDimension}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customFloatValue com.greyluxmobile.invest:customFloatValue}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customIntegerValue com.greyluxmobile.invest:customIntegerValue}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customPixelDimension com.greyluxmobile.invest:customPixelDimension}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomAttribute_customStringValue com.greyluxmobile.invest:customStringValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_attributeName com.ennbee.moonman:attributeName}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customBoolean com.ennbee.moonman:customBoolean}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customColorDrawableValue com.ennbee.moonman:customColorDrawableValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customColorValue com.ennbee.moonman:customColorValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customDimension com.ennbee.moonman:customDimension}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customFloatValue com.ennbee.moonman:customFloatValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customIntegerValue com.ennbee.moonman:customIntegerValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customPixelDimension com.ennbee.moonman:customPixelDimension}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomAttribute_customStringValue com.ennbee.moonman:customStringValue}</code></td><td></td></tr>
      * </table>
      * @see #CustomAttribute_attributeName
      * @see #CustomAttribute_customBoolean
@@ -21461,49 +21460,49 @@ public final class R {
       0x7f0300f7
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#attributeName}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#attributeName}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:attributeName
+     * @attr name com.ennbee.moonman:attributeName
      */
     public static final int CustomAttribute_attributeName=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#customBoolean}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#customBoolean}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:customBoolean
+     * @attr name com.ennbee.moonman:customBoolean
      */
     public static final int CustomAttribute_customBoolean=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#customColorDrawableValue}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#customColorDrawableValue}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:customColorDrawableValue
+     * @attr name com.ennbee.moonman:customColorDrawableValue
      */
     public static final int CustomAttribute_customColorDrawableValue=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#customColorValue}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#customColorValue}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:customColorValue
+     * @attr name com.ennbee.moonman:customColorValue
      */
     public static final int CustomAttribute_customColorValue=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#customDimension}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#customDimension}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21512,29 +21511,29 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:customDimension
+     * @attr name com.ennbee.moonman:customDimension
      */
     public static final int CustomAttribute_customDimension=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#customFloatValue}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#customFloatValue}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:customFloatValue
+     * @attr name com.ennbee.moonman:customFloatValue
      */
     public static final int CustomAttribute_customFloatValue=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#customIntegerValue}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#customIntegerValue}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:customIntegerValue
+     * @attr name com.ennbee.moonman:customIntegerValue
      */
     public static final int CustomAttribute_customIntegerValue=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#customPixelDimension}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#customPixelDimension}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21543,17 +21542,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:customPixelDimension
+     * @attr name com.ennbee.moonman:customPixelDimension
      */
     public static final int CustomAttribute_customPixelDimension=7;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#customStringValue}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#customStringValue}
      * attribute's value can be found in the {@link #CustomAttribute} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:customStringValue
+     * @attr name com.ennbee.moonman:customStringValue
      */
     public static final int CustomAttribute_customStringValue=8;
     /**
@@ -21563,14 +21562,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.greyluxmobile.invest:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.greyluxmobile.invest:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.greyluxmobile.invest:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.greyluxmobile.invest:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.greyluxmobile.invest:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.greyluxmobile.invest:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.greyluxmobile.invest:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.greyluxmobile.invest:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.ennbee.moonman:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.ennbee.moonman:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.ennbee.moonman:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.ennbee.moonman:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.ennbee.moonman:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.ennbee.moonman:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.ennbee.moonman:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.ennbee.moonman:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -21596,7 +21595,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:arrowHeadLength
+     * @attr name com.ennbee.moonman:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -21610,7 +21609,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:arrowShaftLength
+     * @attr name com.ennbee.moonman:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -21624,7 +21623,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:barLength
+     * @attr name com.ennbee.moonman:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -21636,7 +21635,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:color
+     * @attr name com.ennbee.moonman:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -21650,7 +21649,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:drawableSize
+     * @attr name com.ennbee.moonman:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -21664,7 +21663,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:gapBetweenBars
+     * @attr name com.ennbee.moonman:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -21675,7 +21674,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:spinBars
+     * @attr name com.ennbee.moonman:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -21689,7 +21688,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:thickness
+     * @attr name com.ennbee.moonman:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -21699,11 +21698,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_elevation com.greyluxmobile.invest:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_extendMotionSpec com.greyluxmobile.invest:extendMotionSpec}</code></td><td>Motion spec for extend animation.</td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_hideMotionSpec com.greyluxmobile.invest:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_showMotionSpec com.greyluxmobile.invest:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_shrinkMotionSpec com.greyluxmobile.invest:shrinkMotionSpec}</code></td><td>Motion spec for shrink animation.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_elevation com.ennbee.moonman:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_extendMotionSpec com.ennbee.moonman:extendMotionSpec}</code></td><td>Motion spec for extend animation.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_hideMotionSpec com.ennbee.moonman:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_showMotionSpec com.ennbee.moonman:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_shrinkMotionSpec com.ennbee.moonman:shrinkMotionSpec}</code></td><td>Motion spec for shrink animation.</td></tr>
      * </table>
      * @see #ExtendedFloatingActionButton_elevation
      * @see #ExtendedFloatingActionButton_extendMotionSpec
@@ -21726,7 +21725,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:elevation
+     * @attr name com.ennbee.moonman:elevation
      */
     public static final int ExtendedFloatingActionButton_elevation=0;
     /**
@@ -21739,7 +21738,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:extendMotionSpec
+     * @attr name com.ennbee.moonman:extendMotionSpec
      */
     public static final int ExtendedFloatingActionButton_extendMotionSpec=1;
     /**
@@ -21752,7 +21751,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:hideMotionSpec
+     * @attr name com.ennbee.moonman:hideMotionSpec
      */
     public static final int ExtendedFloatingActionButton_hideMotionSpec=2;
     /**
@@ -21765,7 +21764,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:showMotionSpec
+     * @attr name com.ennbee.moonman:showMotionSpec
      */
     public static final int ExtendedFloatingActionButton_showMotionSpec=3;
     /**
@@ -21778,7 +21777,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shrinkMotionSpec
+     * @attr name com.ennbee.moonman:shrinkMotionSpec
      */
     public static final int ExtendedFloatingActionButton_shrinkMotionSpec=4;
     /**
@@ -21788,8 +21787,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide com.greyluxmobile.invest:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink com.greyluxmobile.invest:behavior_autoShrink}</code></td><td>Whether the extended FAB should automatically shrink when there is no space for it.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide com.ennbee.moonman:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink com.ennbee.moonman:behavior_autoShrink}</code></td><td>Whether the extended FAB should automatically shrink when there is no space for it.</td></tr>
      * </table>
      * @see #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide
      * @see #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink
@@ -21805,7 +21804,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:behavior_autoHide
+     * @attr name com.ennbee.moonman:behavior_autoHide
      */
     public static final int ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -21816,7 +21815,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:behavior_autoShrink
+     * @attr name com.ennbee.moonman:behavior_autoShrink
      */
     public static final int ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink=1;
     /**
@@ -21827,22 +21826,22 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #FloatingActionButton_android_enabled android:enabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.greyluxmobile.invest:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.greyluxmobile.invest:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.greyluxmobile.invest:borderWidth}</code></td><td>The width of the border around the FAB.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.greyluxmobile.invest:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_ensureMinTouchTargetSize com.greyluxmobile.invest:ensureMinTouchTargetSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.greyluxmobile.invest:fabCustomSize}</code></td><td>Custom size for the FAB.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.greyluxmobile.invest:fabSize}</code></td><td>Size for the FAB.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.greyluxmobile.invest:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.greyluxmobile.invest:hoveredFocusedTranslationZ}</code></td><td>TranslationZ value for the FAB when hovered, focused, or hovered and focused.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.greyluxmobile.invest:maxImageSize}</code></td><td>Maximum icon image size.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.greyluxmobile.invest:pressedTranslationZ}</code></td><td>TranslationZ value for the FAB when pressed</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.greyluxmobile.invest:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_shapeAppearance com.greyluxmobile.invest:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_shapeAppearanceOverlay com.greyluxmobile.invest:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.greyluxmobile.invest:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.greyluxmobile.invest:useCompatPadding}</code></td><td>Enable compat padding.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.ennbee.moonman:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.ennbee.moonman:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.ennbee.moonman:borderWidth}</code></td><td>The width of the border around the FAB.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.ennbee.moonman:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_ensureMinTouchTargetSize com.ennbee.moonman:ensureMinTouchTargetSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.ennbee.moonman:fabCustomSize}</code></td><td>Custom size for the FAB.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.ennbee.moonman:fabSize}</code></td><td>Size for the FAB.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.ennbee.moonman:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.ennbee.moonman:hoveredFocusedTranslationZ}</code></td><td>TranslationZ value for the FAB when hovered, focused, or hovered and focused.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.ennbee.moonman:maxImageSize}</code></td><td>Maximum icon image size.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.ennbee.moonman:pressedTranslationZ}</code></td><td>TranslationZ value for the FAB when pressed</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.ennbee.moonman:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_shapeAppearance com.ennbee.moonman:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_shapeAppearanceOverlay com.ennbee.moonman:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.ennbee.moonman:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.ennbee.moonman:useCompatPadding}</code></td><td>Enable compat padding.</td></tr>
      * </table>
      * @see #FloatingActionButton_android_enabled
      * @see #FloatingActionButton_backgroundTint
@@ -21889,7 +21888,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundTint
+     * @attr name com.ennbee.moonman:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=1;
     /**
@@ -21916,7 +21915,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:backgroundTintMode
+     * @attr name com.ennbee.moonman:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=2;
     /**
@@ -21930,7 +21929,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:borderWidth
+     * @attr name com.ennbee.moonman:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=3;
     /**
@@ -21944,7 +21943,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:elevation
+     * @attr name com.ennbee.moonman:elevation
      */
     public static final int FloatingActionButton_elevation=4;
     /**
@@ -21956,7 +21955,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:ensureMinTouchTargetSize
+     * @attr name com.ennbee.moonman:ensureMinTouchTargetSize
      */
     public static final int FloatingActionButton_ensureMinTouchTargetSize=5;
     /**
@@ -21970,7 +21969,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:fabCustomSize
+     * @attr name com.ennbee.moonman:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=6;
     /**
@@ -21989,7 +21988,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td>The normal sized button.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:fabSize
+     * @attr name com.ennbee.moonman:fabSize
      */
     public static final int FloatingActionButton_fabSize=7;
     /**
@@ -22002,7 +22001,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:hideMotionSpec
+     * @attr name com.ennbee.moonman:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=8;
     /**
@@ -22016,7 +22015,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:hoveredFocusedTranslationZ
+     * @attr name com.ennbee.moonman:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=9;
     /**
@@ -22030,7 +22029,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:maxImageSize
+     * @attr name com.ennbee.moonman:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=10;
     /**
@@ -22044,7 +22043,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:pressedTranslationZ
+     * @attr name com.ennbee.moonman:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=11;
     /**
@@ -22056,7 +22055,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:rippleColor
+     * @attr name com.ennbee.moonman:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=12;
     /**
@@ -22070,7 +22069,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearance
+     * @attr name com.ennbee.moonman:shapeAppearance
      */
     public static final int FloatingActionButton_shapeAppearance=13;
     /**
@@ -22083,7 +22082,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearanceOverlay
+     * @attr name com.ennbee.moonman:shapeAppearanceOverlay
      */
     public static final int FloatingActionButton_shapeAppearanceOverlay=14;
     /**
@@ -22096,7 +22095,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:showMotionSpec
+     * @attr name com.ennbee.moonman:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=15;
     /**
@@ -22107,7 +22106,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:useCompatPadding
+     * @attr name com.ennbee.moonman:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=16;
     /**
@@ -22117,7 +22116,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.greyluxmobile.invest:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.ennbee.moonman:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -22132,7 +22131,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:behavior_autoHide
+     * @attr name com.ennbee.moonman:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -22142,8 +22141,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing com.greyluxmobile.invest:itemSpacing}</code></td><td>Horizontal spacing between two items being laid out.</td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing com.greyluxmobile.invest:lineSpacing}</code></td><td>Vertical Spacing between two lines of items being laid out.</td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing com.ennbee.moonman:itemSpacing}</code></td><td>Horizontal spacing between two items being laid out.</td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing com.ennbee.moonman:lineSpacing}</code></td><td>Vertical Spacing between two lines of items being laid out.</td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -22162,7 +22161,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemSpacing
+     * @attr name com.ennbee.moonman:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
@@ -22176,7 +22175,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:lineSpacing
+     * @attr name com.ennbee.moonman:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -22186,12 +22185,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.greyluxmobile.invest:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.greyluxmobile.invest:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.greyluxmobile.invest:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.greyluxmobile.invest:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.greyluxmobile.invest:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.greyluxmobile.invest:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.ennbee.moonman:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.ennbee.moonman:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.ennbee.moonman:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.ennbee.moonman:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.ennbee.moonman:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.ennbee.moonman:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -22212,7 +22211,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:fontProviderAuthority
+     * @attr name com.ennbee.moonman:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -22229,7 +22228,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:fontProviderCerts
+     * @attr name com.ennbee.moonman:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -22261,7 +22260,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:fontProviderFetchStrategy
+     * @attr name com.ennbee.moonman:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -22280,7 +22279,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:fontProviderFetchTimeout
+     * @attr name com.ennbee.moonman:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -22292,7 +22291,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:fontProviderPackage
+     * @attr name com.ennbee.moonman:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -22304,7 +22303,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:fontProviderQuery
+     * @attr name com.ennbee.moonman:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -22319,11 +22318,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.greyluxmobile.invest:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.greyluxmobile.invest:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.greyluxmobile.invest:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.greyluxmobile.invest:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.greyluxmobile.invest:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.ennbee.moonman:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.ennbee.moonman:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.ennbee.moonman:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.ennbee.moonman:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.ennbee.moonman:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -22410,7 +22409,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:font
+     * @attr name com.ennbee.moonman:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -22430,7 +22429,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:fontStyle
+     * @attr name com.ennbee.moonman:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -22444,7 +22443,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:fontVariationSettings
+     * @attr name com.ennbee.moonman:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -22458,7 +22457,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:fontWeight
+     * @attr name com.ennbee.moonman:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -22469,7 +22468,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:ttcIndex
+     * @attr name com.ennbee.moonman:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -22481,7 +22480,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.greyluxmobile.invest:foregroundInsidePadding}</code></td><td>Do not expose publicly, used by ForegroundLinearLayout but never set by any style.</td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.ennbee.moonman:foregroundInsidePadding}</code></td><td>Do not expose publicly, used by ForegroundLinearLayout but never set by any style.</td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -22540,7 +22539,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:foregroundInsidePadding
+     * @attr name com.ennbee.moonman:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -22793,15 +22792,15 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ImageFilterView_altSrc com.greyluxmobile.invest:altSrc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_brightness com.greyluxmobile.invest:brightness}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_contrast com.greyluxmobile.invest:contrast}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_crossfade com.greyluxmobile.invest:crossfade}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_overlay com.greyluxmobile.invest:overlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_round com.greyluxmobile.invest:round}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_roundPercent com.greyluxmobile.invest:roundPercent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_saturation com.greyluxmobile.invest:saturation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ImageFilterView_warmth com.greyluxmobile.invest:warmth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_altSrc com.ennbee.moonman:altSrc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_brightness com.ennbee.moonman:brightness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_contrast com.ennbee.moonman:contrast}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_crossfade com.ennbee.moonman:crossfade}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_overlay com.ennbee.moonman:overlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_round com.ennbee.moonman:round}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_roundPercent com.ennbee.moonman:roundPercent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_saturation com.ennbee.moonman:saturation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ImageFilterView_warmth com.ennbee.moonman:warmth}</code></td><td></td></tr>
      * </table>
      * @see #ImageFilterView_altSrc
      * @see #ImageFilterView_brightness
@@ -22819,7 +22818,7 @@ public final class R {
       0x7f03034c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#altSrc}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#altSrc}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22827,48 +22826,48 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:altSrc
+     * @attr name com.ennbee.moonman:altSrc
      */
     public static final int ImageFilterView_altSrc=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#brightness}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#brightness}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:brightness
+     * @attr name com.ennbee.moonman:brightness
      */
     public static final int ImageFilterView_brightness=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#contrast}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#contrast}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:contrast
+     * @attr name com.ennbee.moonman:contrast
      */
     public static final int ImageFilterView_contrast=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#crossfade}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#crossfade}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:crossfade
+     * @attr name com.ennbee.moonman:crossfade
      */
     public static final int ImageFilterView_crossfade=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#overlay}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#overlay}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:overlay
+     * @attr name com.ennbee.moonman:overlay
      */
     public static final int ImageFilterView_overlay=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#round}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#round}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -22877,34 +22876,34 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:round
+     * @attr name com.ennbee.moonman:round
      */
     public static final int ImageFilterView_round=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#roundPercent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#roundPercent}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:roundPercent
+     * @attr name com.ennbee.moonman:roundPercent
      */
     public static final int ImageFilterView_roundPercent=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#saturation}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#saturation}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:saturation
+     * @attr name com.ennbee.moonman:saturation
      */
     public static final int ImageFilterView_saturation=7;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#warmth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#warmth}
      * attribute's value can be found in the {@link #ImageFilterView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:warmth
+     * @attr name com.ennbee.moonman:warmth
      */
     public static final int ImageFilterView_warmth=8;
     /**
@@ -22914,9 +22913,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Insets_paddingBottomSystemWindowInsets com.greyluxmobile.invest:paddingBottomSystemWindowInsets}</code></td><td>Just adding the parameters that we need for now.</td></tr>
-     * <tr><td><code>{@link #Insets_paddingLeftSystemWindowInsets com.greyluxmobile.invest:paddingLeftSystemWindowInsets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Insets_paddingRightSystemWindowInsets com.greyluxmobile.invest:paddingRightSystemWindowInsets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Insets_paddingBottomSystemWindowInsets com.ennbee.moonman:paddingBottomSystemWindowInsets}</code></td><td>Just adding the parameters that we need for now.</td></tr>
+     * <tr><td><code>{@link #Insets_paddingLeftSystemWindowInsets com.ennbee.moonman:paddingLeftSystemWindowInsets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Insets_paddingRightSystemWindowInsets com.ennbee.moonman:paddingRightSystemWindowInsets}</code></td><td></td></tr>
      * </table>
      * @see #Insets_paddingBottomSystemWindowInsets
      * @see #Insets_paddingLeftSystemWindowInsets
@@ -22934,27 +22933,27 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:paddingBottomSystemWindowInsets
+     * @attr name com.ennbee.moonman:paddingBottomSystemWindowInsets
      */
     public static final int Insets_paddingBottomSystemWindowInsets=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#paddingLeftSystemWindowInsets}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#paddingLeftSystemWindowInsets}
      * attribute's value can be found in the {@link #Insets} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:paddingLeftSystemWindowInsets
+     * @attr name com.ennbee.moonman:paddingLeftSystemWindowInsets
      */
     public static final int Insets_paddingLeftSystemWindowInsets=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#paddingRightSystemWindowInsets}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#paddingRightSystemWindowInsets}
      * attribute's value can be found in the {@link #Insets} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:paddingRightSystemWindowInsets
+     * @attr name com.ennbee.moonman:paddingRightSystemWindowInsets
      */
     public static final int Insets_paddingRightSystemWindowInsets=2;
     /**
@@ -22974,12 +22973,12 @@ public final class R {
      * <tr><td><code>{@link #KeyAttribute_android_rotationY android:rotationY}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyAttribute_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyAttribute_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_curveFit com.greyluxmobile.invest:curveFit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_framePosition com.greyluxmobile.invest:framePosition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_motionProgress com.greyluxmobile.invest:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_motionTarget com.greyluxmobile.invest:motionTarget}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_transitionEasing com.greyluxmobile.invest:transitionEasing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyAttribute_transitionPathRotate com.greyluxmobile.invest:transitionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_curveFit com.ennbee.moonman:curveFit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_framePosition com.ennbee.moonman:framePosition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_motionProgress com.ennbee.moonman:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_motionTarget com.ennbee.moonman:motionTarget}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_transitionEasing com.ennbee.moonman:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyAttribute_transitionPathRotate com.ennbee.moonman:transitionPathRotate}</code></td><td></td></tr>
      * </table>
      * @see #KeyAttribute_android_alpha
      * @see #KeyAttribute_android_translationX
@@ -23111,7 +23110,7 @@ public final class R {
      */
     public static final int KeyAttribute_android_elevation=9;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#curveFit}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#curveFit}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23124,29 +23123,29 @@ public final class R {
      * <tr><td>spline</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:curveFit
+     * @attr name com.ennbee.moonman:curveFit
      */
     public static final int KeyAttribute_curveFit=10;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#framePosition}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#framePosition}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:framePosition
+     * @attr name com.ennbee.moonman:framePosition
      */
     public static final int KeyAttribute_framePosition=11;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionProgress}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:motionProgress
+     * @attr name com.ennbee.moonman:motionProgress
      */
     public static final int KeyAttribute_motionProgress=12;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionTarget}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionTarget}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23156,11 +23155,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:motionTarget
+     * @attr name com.ennbee.moonman:motionTarget
      */
     public static final int KeyAttribute_motionTarget=13;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -23177,16 +23176,16 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:transitionEasing
+     * @attr name com.ennbee.moonman:transitionEasing
      */
     public static final int KeyAttribute_transitionEasing=14;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionPathRotate}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionPathRotate}
      * attribute's value can be found in the {@link #KeyAttribute} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:transitionPathRotate
+     * @attr name com.ennbee.moonman:transitionPathRotate
      */
     public static final int KeyAttribute_transitionPathRotate=15;
     /**
@@ -23206,16 +23205,16 @@ public final class R {
      * <tr><td><code>{@link #KeyCycle_android_rotationY android:rotationY}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyCycle_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyCycle_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_curveFit com.greyluxmobile.invest:curveFit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_framePosition com.greyluxmobile.invest:framePosition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_motionProgress com.greyluxmobile.invest:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_motionTarget com.greyluxmobile.invest:motionTarget}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_transitionEasing com.greyluxmobile.invest:transitionEasing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_transitionPathRotate com.greyluxmobile.invest:transitionPathRotate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_waveOffset com.greyluxmobile.invest:waveOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_wavePeriod com.greyluxmobile.invest:wavePeriod}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_waveShape com.greyluxmobile.invest:waveShape}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyCycle_waveVariesBy com.greyluxmobile.invest:waveVariesBy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_curveFit com.ennbee.moonman:curveFit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_framePosition com.ennbee.moonman:framePosition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_motionProgress com.ennbee.moonman:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_motionTarget com.ennbee.moonman:motionTarget}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_transitionEasing com.ennbee.moonman:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_transitionPathRotate com.ennbee.moonman:transitionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_waveOffset com.ennbee.moonman:waveOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_wavePeriod com.ennbee.moonman:wavePeriod}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_waveShape com.ennbee.moonman:waveShape}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyCycle_waveVariesBy com.ennbee.moonman:waveVariesBy}</code></td><td></td></tr>
      * </table>
      * @see #KeyCycle_android_alpha
      * @see #KeyCycle_android_translationX
@@ -23352,7 +23351,7 @@ public final class R {
      */
     public static final int KeyCycle_android_elevation=9;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#curveFit}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#curveFit}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23365,29 +23364,29 @@ public final class R {
      * <tr><td>spline</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:curveFit
+     * @attr name com.ennbee.moonman:curveFit
      */
     public static final int KeyCycle_curveFit=10;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#framePosition}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#framePosition}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:framePosition
+     * @attr name com.ennbee.moonman:framePosition
      */
     public static final int KeyCycle_framePosition=11;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionProgress}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:motionProgress
+     * @attr name com.ennbee.moonman:motionProgress
      */
     public static final int KeyCycle_motionProgress=12;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionTarget}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionTarget}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23397,11 +23396,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:motionTarget
+     * @attr name com.ennbee.moonman:motionTarget
      */
     public static final int KeyCycle_motionTarget=13;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -23418,20 +23417,20 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:transitionEasing
+     * @attr name com.ennbee.moonman:transitionEasing
      */
     public static final int KeyCycle_transitionEasing=14;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionPathRotate}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionPathRotate}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:transitionPathRotate
+     * @attr name com.ennbee.moonman:transitionPathRotate
      */
     public static final int KeyCycle_transitionPathRotate=15;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#waveOffset}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#waveOffset}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -23441,20 +23440,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:waveOffset
+     * @attr name com.ennbee.moonman:waveOffset
      */
     public static final int KeyCycle_waveOffset=16;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#wavePeriod}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#wavePeriod}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:wavePeriod
+     * @attr name com.ennbee.moonman:wavePeriod
      */
     public static final int KeyCycle_wavePeriod=17;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#waveShape}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#waveShape}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23472,11 +23471,11 @@ public final class R {
      * <tr><td>triangle</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:waveShape
+     * @attr name com.ennbee.moonman:waveShape
      */
     public static final int KeyCycle_waveShape=18;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#waveVariesBy}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#waveVariesBy}
      * attribute's value can be found in the {@link #KeyCycle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23489,7 +23488,7 @@ public final class R {
      * <tr><td>position</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:waveVariesBy
+     * @attr name com.ennbee.moonman:waveVariesBy
      */
     public static final int KeyCycle_waveVariesBy=19;
     public static final int[] KeyFrame={
@@ -23505,18 +23504,18 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #KeyPosition_curveFit com.greyluxmobile.invest:curveFit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_drawPath com.greyluxmobile.invest:drawPath}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_framePosition com.greyluxmobile.invest:framePosition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_keyPositionType com.greyluxmobile.invest:keyPositionType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_motionTarget com.greyluxmobile.invest:motionTarget}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_pathMotionArc com.greyluxmobile.invest:pathMotionArc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_percentHeight com.greyluxmobile.invest:percentHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_percentWidth com.greyluxmobile.invest:percentWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_percentX com.greyluxmobile.invest:percentX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_percentY com.greyluxmobile.invest:percentY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_sizePercent com.greyluxmobile.invest:sizePercent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyPosition_transitionEasing com.greyluxmobile.invest:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_curveFit com.ennbee.moonman:curveFit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_drawPath com.ennbee.moonman:drawPath}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_framePosition com.ennbee.moonman:framePosition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_keyPositionType com.ennbee.moonman:keyPositionType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_motionTarget com.ennbee.moonman:motionTarget}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_pathMotionArc com.ennbee.moonman:pathMotionArc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_percentHeight com.ennbee.moonman:percentHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_percentWidth com.ennbee.moonman:percentWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_percentX com.ennbee.moonman:percentX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_percentY com.ennbee.moonman:percentY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_sizePercent com.ennbee.moonman:sizePercent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyPosition_transitionEasing com.ennbee.moonman:transitionEasing}</code></td><td></td></tr>
      * </table>
      * @see #KeyPosition_curveFit
      * @see #KeyPosition_drawPath
@@ -23537,7 +23536,7 @@ public final class R {
       0x7f030265, 0x7f030266, 0x7f0302a8, 0x7f03033d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#curveFit}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#curveFit}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23550,11 +23549,11 @@ public final class R {
      * <tr><td>spline</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:curveFit
+     * @attr name com.ennbee.moonman:curveFit
      */
     public static final int KeyPosition_curveFit=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#drawPath}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#drawPath}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23571,20 +23570,20 @@ public final class R {
      * <tr><td>rectangles</td><td>5</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:drawPath
+     * @attr name com.ennbee.moonman:drawPath
      */
     public static final int KeyPosition_drawPath=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#framePosition}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#framePosition}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:framePosition
+     * @attr name com.ennbee.moonman:framePosition
      */
     public static final int KeyPosition_framePosition=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#keyPositionType}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#keyPositionType}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23598,11 +23597,11 @@ public final class R {
      * <tr><td>pathRelative</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:keyPositionType
+     * @attr name com.ennbee.moonman:keyPositionType
      */
     public static final int KeyPosition_keyPositionType=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionTarget}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionTarget}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23612,11 +23611,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:motionTarget
+     * @attr name com.ennbee.moonman:motionTarget
      */
     public static final int KeyPosition_motionTarget=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#pathMotionArc}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#pathMotionArc}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23631,56 +23630,56 @@ public final class R {
      * <tr><td>startVertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:pathMotionArc
+     * @attr name com.ennbee.moonman:pathMotionArc
      */
     public static final int KeyPosition_pathMotionArc=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#percentHeight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#percentHeight}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:percentHeight
+     * @attr name com.ennbee.moonman:percentHeight
      */
     public static final int KeyPosition_percentHeight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#percentWidth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#percentWidth}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:percentWidth
+     * @attr name com.ennbee.moonman:percentWidth
      */
     public static final int KeyPosition_percentWidth=7;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#percentX}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#percentX}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:percentX
+     * @attr name com.ennbee.moonman:percentX
      */
     public static final int KeyPosition_percentX=8;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#percentY}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#percentY}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:percentY
+     * @attr name com.ennbee.moonman:percentY
      */
     public static final int KeyPosition_percentY=9;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#sizePercent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#sizePercent}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:sizePercent
+     * @attr name com.ennbee.moonman:sizePercent
      */
     public static final int KeyPosition_sizePercent=10;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #KeyPosition} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -23697,7 +23696,7 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:transitionEasing
+     * @attr name com.ennbee.moonman:transitionEasing
      */
     public static final int KeyPosition_transitionEasing=11;
     /**
@@ -23717,16 +23716,16 @@ public final class R {
      * <tr><td><code>{@link #KeyTimeCycle_android_rotationY android:rotationY}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyTimeCycle_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #KeyTimeCycle_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_curveFit com.greyluxmobile.invest:curveFit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_framePosition com.greyluxmobile.invest:framePosition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_motionProgress com.greyluxmobile.invest:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_motionTarget com.greyluxmobile.invest:motionTarget}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_transitionEasing com.greyluxmobile.invest:transitionEasing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_transitionPathRotate com.greyluxmobile.invest:transitionPathRotate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_waveDecay com.greyluxmobile.invest:waveDecay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_waveOffset com.greyluxmobile.invest:waveOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_wavePeriod com.greyluxmobile.invest:wavePeriod}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTimeCycle_waveShape com.greyluxmobile.invest:waveShape}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_curveFit com.ennbee.moonman:curveFit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_framePosition com.ennbee.moonman:framePosition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_motionProgress com.ennbee.moonman:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_motionTarget com.ennbee.moonman:motionTarget}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_transitionEasing com.ennbee.moonman:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_transitionPathRotate com.ennbee.moonman:transitionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_waveDecay com.ennbee.moonman:waveDecay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_waveOffset com.ennbee.moonman:waveOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_wavePeriod com.ennbee.moonman:wavePeriod}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTimeCycle_waveShape com.ennbee.moonman:waveShape}</code></td><td></td></tr>
      * </table>
      * @see #KeyTimeCycle_android_alpha
      * @see #KeyTimeCycle_android_translationX
@@ -23863,7 +23862,7 @@ public final class R {
      */
     public static final int KeyTimeCycle_android_elevation=9;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#curveFit}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#curveFit}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23876,29 +23875,29 @@ public final class R {
      * <tr><td>spline</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:curveFit
+     * @attr name com.ennbee.moonman:curveFit
      */
     public static final int KeyTimeCycle_curveFit=10;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#framePosition}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#framePosition}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:framePosition
+     * @attr name com.ennbee.moonman:framePosition
      */
     public static final int KeyTimeCycle_framePosition=11;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionProgress}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:motionProgress
+     * @attr name com.ennbee.moonman:motionProgress
      */
     public static final int KeyTimeCycle_motionProgress=12;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionTarget}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionTarget}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23908,11 +23907,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:motionTarget
+     * @attr name com.ennbee.moonman:motionTarget
      */
     public static final int KeyTimeCycle_motionTarget=13;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -23929,29 +23928,29 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:transitionEasing
+     * @attr name com.ennbee.moonman:transitionEasing
      */
     public static final int KeyTimeCycle_transitionEasing=14;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionPathRotate}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionPathRotate}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:transitionPathRotate
+     * @attr name com.ennbee.moonman:transitionPathRotate
      */
     public static final int KeyTimeCycle_transitionPathRotate=15;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#waveDecay}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#waveDecay}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:waveDecay
+     * @attr name com.ennbee.moonman:waveDecay
      */
     public static final int KeyTimeCycle_waveDecay=16;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#waveOffset}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#waveOffset}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -23961,20 +23960,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:waveOffset
+     * @attr name com.ennbee.moonman:waveOffset
      */
     public static final int KeyTimeCycle_waveOffset=17;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#wavePeriod}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#wavePeriod}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:wavePeriod
+     * @attr name com.ennbee.moonman:wavePeriod
      */
     public static final int KeyTimeCycle_wavePeriod=18;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#waveShape}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#waveShape}
      * attribute's value can be found in the {@link #KeyTimeCycle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23992,7 +23991,7 @@ public final class R {
      * <tr><td>triangle</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:waveShape
+     * @attr name com.ennbee.moonman:waveShape
      */
     public static final int KeyTimeCycle_waveShape=19;
     /**
@@ -24002,16 +24001,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #KeyTrigger_framePosition com.greyluxmobile.invest:framePosition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_motionTarget com.greyluxmobile.invest:motionTarget}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_motion_postLayoutCollision com.greyluxmobile.invest:motion_postLayoutCollision}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_motion_triggerOnCollision com.greyluxmobile.invest:motion_triggerOnCollision}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_onCross com.greyluxmobile.invest:onCross}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_onNegativeCross com.greyluxmobile.invest:onNegativeCross}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_onPositiveCross com.greyluxmobile.invest:onPositiveCross}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_triggerId com.greyluxmobile.invest:triggerId}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_triggerReceiver com.greyluxmobile.invest:triggerReceiver}</code></td><td></td></tr>
-     * <tr><td><code>{@link #KeyTrigger_triggerSlack com.greyluxmobile.invest:triggerSlack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_framePosition com.ennbee.moonman:framePosition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_motionTarget com.ennbee.moonman:motionTarget}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_motion_postLayoutCollision com.ennbee.moonman:motion_postLayoutCollision}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_motion_triggerOnCollision com.ennbee.moonman:motion_triggerOnCollision}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_onCross com.ennbee.moonman:onCross}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_onNegativeCross com.ennbee.moonman:onNegativeCross}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_onPositiveCross com.ennbee.moonman:onPositiveCross}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_triggerId com.ennbee.moonman:triggerId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_triggerReceiver com.ennbee.moonman:triggerReceiver}</code></td><td></td></tr>
+     * <tr><td><code>{@link #KeyTrigger_triggerSlack com.ennbee.moonman:triggerSlack}</code></td><td></td></tr>
      * </table>
      * @see #KeyTrigger_framePosition
      * @see #KeyTrigger_motionTarget
@@ -24030,16 +24029,16 @@ public final class R {
       0x7f030341, 0x7f030342
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#framePosition}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#framePosition}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:framePosition
+     * @attr name com.ennbee.moonman:framePosition
      */
     public static final int KeyTrigger_framePosition=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionTarget}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionTarget}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24049,21 +24048,21 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:motionTarget
+     * @attr name com.ennbee.moonman:motionTarget
      */
     public static final int KeyTrigger_motionTarget=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motion_postLayoutCollision}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motion_postLayoutCollision}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:motion_postLayoutCollision
+     * @attr name com.ennbee.moonman:motion_postLayoutCollision
      */
     public static final int KeyTrigger_motion_postLayoutCollision=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motion_triggerOnCollision}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motion_triggerOnCollision}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24071,41 +24070,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:motion_triggerOnCollision
+     * @attr name com.ennbee.moonman:motion_triggerOnCollision
      */
     public static final int KeyTrigger_motion_triggerOnCollision=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#onCross}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#onCross}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:onCross
+     * @attr name com.ennbee.moonman:onCross
      */
     public static final int KeyTrigger_onCross=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#onNegativeCross}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#onNegativeCross}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:onNegativeCross
+     * @attr name com.ennbee.moonman:onNegativeCross
      */
     public static final int KeyTrigger_onNegativeCross=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#onPositiveCross}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#onPositiveCross}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:onPositiveCross
+     * @attr name com.ennbee.moonman:onPositiveCross
      */
     public static final int KeyTrigger_onPositiveCross=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#triggerId}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#triggerId}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24113,11 +24112,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:triggerId
+     * @attr name com.ennbee.moonman:triggerId
      */
     public static final int KeyTrigger_triggerId=7;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#triggerReceiver}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#triggerReceiver}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24125,16 +24124,16 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:triggerReceiver
+     * @attr name com.ennbee.moonman:triggerReceiver
      */
     public static final int KeyTrigger_triggerReceiver=8;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#triggerSlack}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#triggerSlack}
      * attribute's value can be found in the {@link #KeyTrigger} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:triggerSlack
+     * @attr name com.ennbee.moonman:triggerSlack
      */
     public static final int KeyTrigger_triggerSlack=9;
     /**
@@ -24153,64 +24152,64 @@ public final class R {
      * <tr><td><code>{@link #Layout_android_layout_marginBottom android:layout_marginBottom}</code></td><td></td></tr>
      * <tr><td><code>{@link #Layout_android_layout_marginStart android:layout_marginStart}</code></td><td></td></tr>
      * <tr><td><code>{@link #Layout_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_barrierAllowsGoneWidgets com.greyluxmobile.invest:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_barrierDirection com.greyluxmobile.invest:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_barrierMargin com.greyluxmobile.invest:barrierMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_chainUseRtl com.greyluxmobile.invest:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_constraint_referenced_ids com.greyluxmobile.invest:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constrainedHeight com.greyluxmobile.invest:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constrainedWidth com.greyluxmobile.invest:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintBaseline_creator com.greyluxmobile.invest:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintBaseline_toBaselineOf com.greyluxmobile.invest:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintBottom_creator com.greyluxmobile.invest:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintBottom_toBottomOf com.greyluxmobile.invest:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintBottom_toTopOf com.greyluxmobile.invest:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintCircle com.greyluxmobile.invest:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintCircleAngle com.greyluxmobile.invest:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintCircleRadius com.greyluxmobile.invest:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintDimensionRatio com.greyluxmobile.invest:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintEnd_toEndOf com.greyluxmobile.invest:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintEnd_toStartOf com.greyluxmobile.invest:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintGuide_begin com.greyluxmobile.invest:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintGuide_end com.greyluxmobile.invest:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintGuide_percent com.greyluxmobile.invest:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHeight_default com.greyluxmobile.invest:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHeight_max com.greyluxmobile.invest:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHeight_min com.greyluxmobile.invest:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHeight_percent com.greyluxmobile.invest:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_bias com.greyluxmobile.invest:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_chainStyle com.greyluxmobile.invest:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_weight com.greyluxmobile.invest:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintLeft_creator com.greyluxmobile.invest:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintLeft_toLeftOf com.greyluxmobile.invest:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintLeft_toRightOf com.greyluxmobile.invest:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintRight_creator com.greyluxmobile.invest:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintRight_toLeftOf com.greyluxmobile.invest:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintRight_toRightOf com.greyluxmobile.invest:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintStart_toEndOf com.greyluxmobile.invest:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintStart_toStartOf com.greyluxmobile.invest:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintTop_creator com.greyluxmobile.invest:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintTop_toBottomOf com.greyluxmobile.invest:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintTop_toTopOf com.greyluxmobile.invest:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintVertical_bias com.greyluxmobile.invest:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintVertical_chainStyle com.greyluxmobile.invest:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintVertical_weight com.greyluxmobile.invest:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintWidth_default com.greyluxmobile.invest:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintWidth_max com.greyluxmobile.invest:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintWidth_min com.greyluxmobile.invest:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_constraintWidth_percent com.greyluxmobile.invest:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_editor_absoluteX com.greyluxmobile.invest:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_editor_absoluteY com.greyluxmobile.invest:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginBottom com.greyluxmobile.invest:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginEnd com.greyluxmobile.invest:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginLeft com.greyluxmobile.invest:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginRight com.greyluxmobile.invest:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginStart com.greyluxmobile.invest:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_layout_goneMarginTop com.greyluxmobile.invest:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_maxHeight com.greyluxmobile.invest:maxHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_maxWidth com.greyluxmobile.invest:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_minHeight com.greyluxmobile.invest:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Layout_minWidth com.greyluxmobile.invest:minWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_barrierAllowsGoneWidgets com.ennbee.moonman:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_barrierDirection com.ennbee.moonman:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_barrierMargin com.ennbee.moonman:barrierMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_chainUseRtl com.ennbee.moonman:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_constraint_referenced_ids com.ennbee.moonman:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constrainedHeight com.ennbee.moonman:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constrainedWidth com.ennbee.moonman:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintBaseline_creator com.ennbee.moonman:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintBaseline_toBaselineOf com.ennbee.moonman:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintBottom_creator com.ennbee.moonman:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintBottom_toBottomOf com.ennbee.moonman:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintBottom_toTopOf com.ennbee.moonman:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintCircle com.ennbee.moonman:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintCircleAngle com.ennbee.moonman:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintCircleRadius com.ennbee.moonman:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintDimensionRatio com.ennbee.moonman:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintEnd_toEndOf com.ennbee.moonman:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintEnd_toStartOf com.ennbee.moonman:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintGuide_begin com.ennbee.moonman:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintGuide_end com.ennbee.moonman:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintGuide_percent com.ennbee.moonman:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHeight_default com.ennbee.moonman:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHeight_max com.ennbee.moonman:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHeight_min com.ennbee.moonman:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHeight_percent com.ennbee.moonman:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_bias com.ennbee.moonman:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_chainStyle com.ennbee.moonman:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintHorizontal_weight com.ennbee.moonman:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintLeft_creator com.ennbee.moonman:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintLeft_toLeftOf com.ennbee.moonman:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintLeft_toRightOf com.ennbee.moonman:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintRight_creator com.ennbee.moonman:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintRight_toLeftOf com.ennbee.moonman:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintRight_toRightOf com.ennbee.moonman:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintStart_toEndOf com.ennbee.moonman:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintStart_toStartOf com.ennbee.moonman:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintTop_creator com.ennbee.moonman:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintTop_toBottomOf com.ennbee.moonman:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintTop_toTopOf com.ennbee.moonman:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintVertical_bias com.ennbee.moonman:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintVertical_chainStyle com.ennbee.moonman:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintVertical_weight com.ennbee.moonman:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintWidth_default com.ennbee.moonman:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintWidth_max com.ennbee.moonman:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintWidth_min com.ennbee.moonman:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_constraintWidth_percent com.ennbee.moonman:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_editor_absoluteX com.ennbee.moonman:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_editor_absoluteY com.ennbee.moonman:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginBottom com.ennbee.moonman:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginEnd com.ennbee.moonman:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginLeft com.ennbee.moonman:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginRight com.ennbee.moonman:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginStart com.ennbee.moonman:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_layout_goneMarginTop com.ennbee.moonman:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_maxHeight com.ennbee.moonman:maxHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_maxWidth com.ennbee.moonman:maxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_minHeight com.ennbee.moonman:minHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Layout_minWidth com.ennbee.moonman:minWidth}</code></td><td></td></tr>
      * </table>
      * @see #Layout_android_orientation
      * @see #Layout_android_layout_width
@@ -24441,17 +24440,17 @@ public final class R {
      */
     public static final int Layout_android_layout_marginEnd=8;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:barrierAllowsGoneWidgets
+     * @attr name com.ennbee.moonman:barrierAllowsGoneWidgets
      */
     public static final int Layout_barrierAllowsGoneWidgets=9;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -24468,11 +24467,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:barrierDirection
+     * @attr name com.ennbee.moonman:barrierDirection
      */
     public static final int Layout_barrierDirection=10;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#barrierMargin}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#barrierMargin}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -24481,60 +24480,60 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:barrierMargin
+     * @attr name com.ennbee.moonman:barrierMargin
      */
     public static final int Layout_barrierMargin=11;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:chainUseRtl
+     * @attr name com.ennbee.moonman:chainUseRtl
      */
     public static final int Layout_chainUseRtl=12;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:constraint_referenced_ids
+     * @attr name com.ennbee.moonman:constraint_referenced_ids
      */
     public static final int Layout_constraint_referenced_ids=13;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constrainedHeight
+     * @attr name com.ennbee.moonman:layout_constrainedHeight
      */
     public static final int Layout_layout_constrainedHeight=14;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constrainedWidth
+     * @attr name com.ennbee.moonman:layout_constrainedWidth
      */
     public static final int Layout_layout_constrainedWidth=15;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBaseline_creator
+     * @attr name com.ennbee.moonman:layout_constraintBaseline_creator
      */
     public static final int Layout_layout_constraintBaseline_creator=16;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24550,20 +24549,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBaseline_toBaselineOf
+     * @attr name com.ennbee.moonman:layout_constraintBaseline_toBaselineOf
      */
     public static final int Layout_layout_constraintBaseline_toBaselineOf=17;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_creator
+     * @attr name com.ennbee.moonman:layout_constraintBottom_creator
      */
     public static final int Layout_layout_constraintBottom_creator=18;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24579,11 +24578,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_toBottomOf
+     * @attr name com.ennbee.moonman:layout_constraintBottom_toBottomOf
      */
     public static final int Layout_layout_constraintBottom_toBottomOf=19;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24599,11 +24598,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintBottom_toTopOf
+     * @attr name com.ennbee.moonman:layout_constraintBottom_toTopOf
      */
     public static final int Layout_layout_constraintBottom_toTopOf=20;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24611,20 +24610,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircle
+     * @attr name com.ennbee.moonman:layout_constraintCircle
      */
     public static final int Layout_layout_constraintCircle=21;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircleAngle
+     * @attr name com.ennbee.moonman:layout_constraintCircleAngle
      */
     public static final int Layout_layout_constraintCircleAngle=22;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -24633,21 +24632,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintCircleRadius
+     * @attr name com.ennbee.moonman:layout_constraintCircleRadius
      */
     public static final int Layout_layout_constraintCircleRadius=23;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintDimensionRatio
+     * @attr name com.ennbee.moonman:layout_constraintDimensionRatio
      */
     public static final int Layout_layout_constraintDimensionRatio=24;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24663,11 +24662,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintEnd_toEndOf
+     * @attr name com.ennbee.moonman:layout_constraintEnd_toEndOf
      */
     public static final int Layout_layout_constraintEnd_toEndOf=25;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24683,11 +24682,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintEnd_toStartOf
+     * @attr name com.ennbee.moonman:layout_constraintEnd_toStartOf
      */
     public static final int Layout_layout_constraintEnd_toStartOf=26;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -24696,11 +24695,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_begin
+     * @attr name com.ennbee.moonman:layout_constraintGuide_begin
      */
     public static final int Layout_layout_constraintGuide_begin=27;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -24709,20 +24708,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_end
+     * @attr name com.ennbee.moonman:layout_constraintGuide_end
      */
     public static final int Layout_layout_constraintGuide_end=28;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintGuide_percent
+     * @attr name com.ennbee.moonman:layout_constraintGuide_percent
      */
     public static final int Layout_layout_constraintGuide_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -24736,11 +24735,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_default
+     * @attr name com.ennbee.moonman:layout_constraintHeight_default
      */
     public static final int Layout_layout_constraintHeight_default=30;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -24757,11 +24756,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_max
+     * @attr name com.ennbee.moonman:layout_constraintHeight_max
      */
     public static final int Layout_layout_constraintHeight_max=31;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -24778,29 +24777,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_min
+     * @attr name com.ennbee.moonman:layout_constraintHeight_min
      */
     public static final int Layout_layout_constraintHeight_min=32;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHeight_percent
+     * @attr name com.ennbee.moonman:layout_constraintHeight_percent
      */
     public static final int Layout_layout_constraintHeight_percent=33;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_bias
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_bias
      */
     public static final int Layout_layout_constraintHorizontal_bias=34;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -24814,29 +24813,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_chainStyle
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_chainStyle
      */
     public static final int Layout_layout_constraintHorizontal_chainStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintHorizontal_weight
+     * @attr name com.ennbee.moonman:layout_constraintHorizontal_weight
      */
     public static final int Layout_layout_constraintHorizontal_weight=36;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_creator
+     * @attr name com.ennbee.moonman:layout_constraintLeft_creator
      */
     public static final int Layout_layout_constraintLeft_creator=37;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24852,11 +24851,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_toLeftOf
+     * @attr name com.ennbee.moonman:layout_constraintLeft_toLeftOf
      */
     public static final int Layout_layout_constraintLeft_toLeftOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24872,20 +24871,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintLeft_toRightOf
+     * @attr name com.ennbee.moonman:layout_constraintLeft_toRightOf
      */
     public static final int Layout_layout_constraintLeft_toRightOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_creator
+     * @attr name com.ennbee.moonman:layout_constraintRight_creator
      */
     public static final int Layout_layout_constraintRight_creator=40;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24901,11 +24900,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_toLeftOf
+     * @attr name com.ennbee.moonman:layout_constraintRight_toLeftOf
      */
     public static final int Layout_layout_constraintRight_toLeftOf=41;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24921,11 +24920,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintRight_toRightOf
+     * @attr name com.ennbee.moonman:layout_constraintRight_toRightOf
      */
     public static final int Layout_layout_constraintRight_toRightOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24941,11 +24940,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintStart_toEndOf
+     * @attr name com.ennbee.moonman:layout_constraintStart_toEndOf
      */
     public static final int Layout_layout_constraintStart_toEndOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24961,20 +24960,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintStart_toStartOf
+     * @attr name com.ennbee.moonman:layout_constraintStart_toStartOf
      */
     public static final int Layout_layout_constraintStart_toStartOf=44;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_creator
+     * @attr name com.ennbee.moonman:layout_constraintTop_creator
      */
     public static final int Layout_layout_constraintTop_creator=45;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24990,11 +24989,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_toBottomOf
+     * @attr name com.ennbee.moonman:layout_constraintTop_toBottomOf
      */
     public static final int Layout_layout_constraintTop_toBottomOf=46;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25010,20 +25009,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTop_toTopOf
+     * @attr name com.ennbee.moonman:layout_constraintTop_toTopOf
      */
     public static final int Layout_layout_constraintTop_toTopOf=47;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_bias
+     * @attr name com.ennbee.moonman:layout_constraintVertical_bias
      */
     public static final int Layout_layout_constraintVertical_bias=48;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -25037,20 +25036,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_chainStyle
+     * @attr name com.ennbee.moonman:layout_constraintVertical_chainStyle
      */
     public static final int Layout_layout_constraintVertical_chainStyle=49;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintVertical_weight
+     * @attr name com.ennbee.moonman:layout_constraintVertical_weight
      */
     public static final int Layout_layout_constraintVertical_weight=50;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -25064,11 +25063,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_default
+     * @attr name com.ennbee.moonman:layout_constraintWidth_default
      */
     public static final int Layout_layout_constraintWidth_default=51;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25085,11 +25084,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_max
+     * @attr name com.ennbee.moonman:layout_constraintWidth_max
      */
     public static final int Layout_layout_constraintWidth_max=52;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25106,20 +25105,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_min
+     * @attr name com.ennbee.moonman:layout_constraintWidth_min
      */
     public static final int Layout_layout_constraintWidth_min=53;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintWidth_percent
+     * @attr name com.ennbee.moonman:layout_constraintWidth_percent
      */
     public static final int Layout_layout_constraintWidth_percent=54;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25128,11 +25127,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_editor_absoluteX
+     * @attr name com.ennbee.moonman:layout_editor_absoluteX
      */
     public static final int Layout_layout_editor_absoluteX=55;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25141,11 +25140,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_editor_absoluteY
+     * @attr name com.ennbee.moonman:layout_editor_absoluteY
      */
     public static final int Layout_layout_editor_absoluteY=56;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25154,11 +25153,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginBottom
+     * @attr name com.ennbee.moonman:layout_goneMarginBottom
      */
     public static final int Layout_layout_goneMarginBottom=57;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25167,11 +25166,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginEnd
+     * @attr name com.ennbee.moonman:layout_goneMarginEnd
      */
     public static final int Layout_layout_goneMarginEnd=58;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25180,11 +25179,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginLeft
+     * @attr name com.ennbee.moonman:layout_goneMarginLeft
      */
     public static final int Layout_layout_goneMarginLeft=59;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25193,11 +25192,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginRight
+     * @attr name com.ennbee.moonman:layout_goneMarginRight
      */
     public static final int Layout_layout_goneMarginRight=60;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25206,11 +25205,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginStart
+     * @attr name com.ennbee.moonman:layout_goneMarginStart
      */
     public static final int Layout_layout_goneMarginStart=61;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25219,11 +25218,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:layout_goneMarginTop
+     * @attr name com.ennbee.moonman:layout_goneMarginTop
      */
     public static final int Layout_layout_goneMarginTop=62;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#maxHeight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#maxHeight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25232,11 +25231,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:maxHeight
+     * @attr name com.ennbee.moonman:maxHeight
      */
     public static final int Layout_maxHeight=63;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#maxWidth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#maxWidth}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25245,11 +25244,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:maxWidth
+     * @attr name com.ennbee.moonman:maxWidth
      */
     public static final int Layout_maxWidth=64;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#minHeight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#minHeight}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25258,11 +25257,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:minHeight
+     * @attr name com.ennbee.moonman:minHeight
      */
     public static final int Layout_minHeight=65;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#minWidth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#minWidth}
      * attribute's value can be found in the {@link #Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25271,7 +25270,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:minWidth
+     * @attr name com.ennbee.moonman:minWidth
      */
     public static final int Layout_minWidth=66;
     /**
@@ -25286,11 +25285,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.greyluxmobile.invest:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.greyluxmobile.invest:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.greyluxmobile.invest:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.ennbee.moonman:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.ennbee.moonman:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.ennbee.moonman:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.greyluxmobile.invest:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.ennbee.moonman:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -25405,7 +25404,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:divider
+     * @attr name com.ennbee.moonman:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -25419,7 +25418,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:dividerPadding
+     * @attr name com.ennbee.moonman:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -25432,7 +25431,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:measureWithLargestChild
+     * @attr name com.ennbee.moonman:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -25452,7 +25451,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:showDividers
+     * @attr name com.ennbee.moonman:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -25610,9 +25609,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop com.greyluxmobile.invest:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.greyluxmobile.invest:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.greyluxmobile.invest:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop com.ennbee.moonman:circleCrop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.ennbee.moonman:imageAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.ennbee.moonman:imageAspectRatioAdjust}</code></td><td></td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -25622,26 +25621,26 @@ public final class R {
       0x7f03009c, 0x7f030189, 0x7f03018a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#circleCrop}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:circleCrop
+     * @attr name com.ennbee.moonman:circleCrop
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#imageAspectRatio}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#imageAspectRatio}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:imageAspectRatio
+     * @attr name com.ennbee.moonman:imageAspectRatio
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#imageAspectRatioAdjust}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#imageAspectRatioAdjust}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -25655,7 +25654,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:imageAspectRatioAdjust
+     * @attr name com.ennbee.moonman:imageAspectRatioAdjust
      */
     public static final int LoadingImageView_imageAspectRatioAdjust=2;
     /**
@@ -25665,10 +25664,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetBottom com.greyluxmobile.invest:backgroundInsetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetEnd com.greyluxmobile.invest:backgroundInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetStart com.greyluxmobile.invest:backgroundInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetTop com.greyluxmobile.invest:backgroundInsetTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetBottom com.ennbee.moonman:backgroundInsetBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetEnd com.ennbee.moonman:backgroundInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetStart com.ennbee.moonman:backgroundInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetTop com.ennbee.moonman:backgroundInsetTop}</code></td><td></td></tr>
      * </table>
      * @see #MaterialAlertDialog_backgroundInsetBottom
      * @see #MaterialAlertDialog_backgroundInsetEnd
@@ -25679,7 +25678,7 @@ public final class R {
       0x7f03003c, 0x7f03003d, 0x7f03003e, 0x7f03003f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#backgroundInsetBottom}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#backgroundInsetBottom}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25688,11 +25687,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:backgroundInsetBottom
+     * @attr name com.ennbee.moonman:backgroundInsetBottom
      */
     public static final int MaterialAlertDialog_backgroundInsetBottom=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#backgroundInsetEnd}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#backgroundInsetEnd}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25701,11 +25700,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:backgroundInsetEnd
+     * @attr name com.ennbee.moonman:backgroundInsetEnd
      */
     public static final int MaterialAlertDialog_backgroundInsetEnd=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#backgroundInsetStart}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#backgroundInsetStart}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25714,11 +25713,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:backgroundInsetStart
+     * @attr name com.ennbee.moonman:backgroundInsetStart
      */
     public static final int MaterialAlertDialog_backgroundInsetStart=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#backgroundInsetTop}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#backgroundInsetTop}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25727,7 +25726,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:backgroundInsetTop
+     * @attr name com.ennbee.moonman:backgroundInsetTop
      */
     public static final int MaterialAlertDialog_backgroundInsetTop=3;
     /**
@@ -25737,11 +25736,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle com.greyluxmobile.invest:materialAlertDialogBodyTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTheme com.greyluxmobile.invest:materialAlertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle com.greyluxmobile.invest:materialAlertDialogTitleIconStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle com.greyluxmobile.invest:materialAlertDialogTitlePanelStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle com.greyluxmobile.invest:materialAlertDialogTitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle com.ennbee.moonman:materialAlertDialogBodyTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTheme com.ennbee.moonman:materialAlertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle com.ennbee.moonman:materialAlertDialogTitleIconStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle com.ennbee.moonman:materialAlertDialogTitlePanelStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle com.ennbee.moonman:materialAlertDialogTitleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle
      * @see #MaterialAlertDialogTheme_materialAlertDialogTheme
@@ -25754,7 +25753,7 @@ public final class R {
       0x7f030211
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#materialAlertDialogBodyTextStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#materialAlertDialogBodyTextStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25762,11 +25761,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:materialAlertDialogBodyTextStyle
+     * @attr name com.ennbee.moonman:materialAlertDialogBodyTextStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#materialAlertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#materialAlertDialogTheme}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25774,11 +25773,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:materialAlertDialogTheme
+     * @attr name com.ennbee.moonman:materialAlertDialogTheme
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#materialAlertDialogTitleIconStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#materialAlertDialogTitleIconStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25786,11 +25785,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:materialAlertDialogTitleIconStyle
+     * @attr name com.ennbee.moonman:materialAlertDialogTitleIconStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#materialAlertDialogTitlePanelStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#materialAlertDialogTitlePanelStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25798,11 +25797,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:materialAlertDialogTitlePanelStyle
+     * @attr name com.ennbee.moonman:materialAlertDialogTitlePanelStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#materialAlertDialogTitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#materialAlertDialogTitleTextStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25810,7 +25809,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:materialAlertDialogTitleTextStyle
+     * @attr name com.ennbee.moonman:materialAlertDialogTitleTextStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle=4;
     /**
@@ -25887,21 +25886,21 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint com.greyluxmobile.invest:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.greyluxmobile.invest:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius com.greyluxmobile.invest:cornerRadius}</code></td><td>Specifies the radius for the corners of the button.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_elevation com.greyluxmobile.invest:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon com.greyluxmobile.invest:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity com.greyluxmobile.invest:iconGravity}</code></td><td>Specifies how the icon should be positioned on the X axis.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding com.greyluxmobile.invest:iconPadding}</code></td><td>Padding between icon and button text.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize com.greyluxmobile.invest:iconSize}</code></td><td>Specifies the width and height to use for the icon drawable.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint com.greyluxmobile.invest:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode com.greyluxmobile.invest:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor com.greyluxmobile.invest:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_shapeAppearance com.greyluxmobile.invest:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_shapeAppearanceOverlay com.greyluxmobile.invest:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor com.greyluxmobile.invest:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth com.greyluxmobile.invest:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.ennbee.moonman:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.ennbee.moonman:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius com.ennbee.moonman:cornerRadius}</code></td><td>Specifies the radius for the corners of the button.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_elevation com.ennbee.moonman:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon com.ennbee.moonman:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity com.ennbee.moonman:iconGravity}</code></td><td>Specifies how the icon should be positioned on the X axis.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding com.ennbee.moonman:iconPadding}</code></td><td>Padding between icon and button text.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize com.ennbee.moonman:iconSize}</code></td><td>Specifies the width and height to use for the icon drawable.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint com.ennbee.moonman:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.ennbee.moonman:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor com.ennbee.moonman:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_shapeAppearance com.ennbee.moonman:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_shapeAppearanceOverlay com.ennbee.moonman:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor com.ennbee.moonman:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth com.ennbee.moonman:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_background
      * @see #MaterialButton_android_insetLeft
@@ -26041,7 +26040,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundTint
+     * @attr name com.ennbee.moonman:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=6;
     /**
@@ -26068,7 +26067,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:backgroundTintMode
+     * @attr name com.ennbee.moonman:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=7;
     /**
@@ -26082,7 +26081,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:cornerRadius
+     * @attr name com.ennbee.moonman:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=8;
     /**
@@ -26096,7 +26095,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:elevation
+     * @attr name com.ennbee.moonman:elevation
      */
     public static final int MaterialButton_elevation=9;
     /**
@@ -26109,7 +26108,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:icon
+     * @attr name com.ennbee.moonman:icon
      */
     public static final int MaterialButton_icon=10;
     /**
@@ -26134,7 +26133,7 @@ public final class R {
      * <tr><td>top</td><td>10</td><td>Push the icon to the top of the button.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:iconGravity
+     * @attr name com.ennbee.moonman:iconGravity
      */
     public static final int MaterialButton_iconGravity=11;
     /**
@@ -26148,7 +26147,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:iconPadding
+     * @attr name com.ennbee.moonman:iconPadding
      */
     public static final int MaterialButton_iconPadding=12;
     /**
@@ -26162,7 +26161,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:iconSize
+     * @attr name com.ennbee.moonman:iconSize
      */
     public static final int MaterialButton_iconSize=13;
     /**
@@ -26174,7 +26173,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:iconTint
+     * @attr name com.ennbee.moonman:iconTint
      */
     public static final int MaterialButton_iconTint=14;
     /**
@@ -26201,7 +26200,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:iconTintMode
+     * @attr name com.ennbee.moonman:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=15;
     /**
@@ -26214,7 +26213,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:rippleColor
+     * @attr name com.ennbee.moonman:rippleColor
      */
     public static final int MaterialButton_rippleColor=16;
     /**
@@ -26228,7 +26227,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearance
+     * @attr name com.ennbee.moonman:shapeAppearance
      */
     public static final int MaterialButton_shapeAppearance=17;
     /**
@@ -26242,7 +26241,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearanceOverlay
+     * @attr name com.ennbee.moonman:shapeAppearanceOverlay
      */
     public static final int MaterialButton_shapeAppearanceOverlay=18;
     /**
@@ -26255,7 +26254,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:strokeColor
+     * @attr name com.ennbee.moonman:strokeColor
      */
     public static final int MaterialButton_strokeColor=19;
     /**
@@ -26270,7 +26269,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:strokeWidth
+     * @attr name com.ennbee.moonman:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=20;
     /**
@@ -26280,9 +26279,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialButtonToggleGroup_checkedButton com.greyluxmobile.invest:checkedButton}</code></td><td>The id of the child button that should be checked by default within this button group.</td></tr>
-     * <tr><td><code>{@link #MaterialButtonToggleGroup_selectionRequired com.greyluxmobile.invest:selectionRequired}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButtonToggleGroup_singleSelection com.greyluxmobile.invest:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButtonToggleGroup_checkedButton com.ennbee.moonman:checkedButton}</code></td><td>The id of the child button that should be checked by default within this button group.</td></tr>
+     * <tr><td><code>{@link #MaterialButtonToggleGroup_selectionRequired com.ennbee.moonman:selectionRequired}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButtonToggleGroup_singleSelection com.ennbee.moonman:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButtonToggleGroup_checkedButton
      * @see #MaterialButtonToggleGroup_selectionRequired
@@ -26301,7 +26300,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:checkedButton
+     * @attr name com.ennbee.moonman:checkedButton
      */
     public static final int MaterialButtonToggleGroup_checkedButton=0;
     /**
@@ -26313,7 +26312,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:selectionRequired
+     * @attr name com.ennbee.moonman:selectionRequired
      */
     public static final int MaterialButtonToggleGroup_selectionRequired=1;
     /**
@@ -26326,7 +26325,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:singleSelection
+     * @attr name com.ennbee.moonman:singleSelection
      */
     public static final int MaterialButtonToggleGroup_singleSelection=2;
     /**
@@ -26337,14 +26336,14 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialCalendar_android_windowFullscreen android:windowFullscreen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_dayInvalidStyle com.greyluxmobile.invest:dayInvalidStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_daySelectedStyle com.greyluxmobile.invest:daySelectedStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_dayStyle com.greyluxmobile.invest:dayStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_dayTodayStyle com.greyluxmobile.invest:dayTodayStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_rangeFillColor com.greyluxmobile.invest:rangeFillColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_yearSelectedStyle com.greyluxmobile.invest:yearSelectedStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_yearStyle com.greyluxmobile.invest:yearStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_yearTodayStyle com.greyluxmobile.invest:yearTodayStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_dayInvalidStyle com.ennbee.moonman:dayInvalidStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_daySelectedStyle com.ennbee.moonman:daySelectedStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_dayStyle com.ennbee.moonman:dayStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_dayTodayStyle com.ennbee.moonman:dayTodayStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_rangeFillColor com.ennbee.moonman:rangeFillColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_yearSelectedStyle com.ennbee.moonman:yearSelectedStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_yearStyle com.ennbee.moonman:yearStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_yearTodayStyle com.ennbee.moonman:yearTodayStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCalendar_android_windowFullscreen
      * @see #MaterialCalendar_dayInvalidStyle
@@ -26372,7 +26371,7 @@ public final class R {
      */
     public static final int MaterialCalendar_android_windowFullscreen=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#dayInvalidStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#dayInvalidStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -26380,11 +26379,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:dayInvalidStyle
+     * @attr name com.ennbee.moonman:dayInvalidStyle
      */
     public static final int MaterialCalendar_dayInvalidStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#daySelectedStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#daySelectedStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -26392,11 +26391,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:daySelectedStyle
+     * @attr name com.ennbee.moonman:daySelectedStyle
      */
     public static final int MaterialCalendar_daySelectedStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#dayStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#dayStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -26404,11 +26403,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:dayStyle
+     * @attr name com.ennbee.moonman:dayStyle
      */
     public static final int MaterialCalendar_dayStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#dayTodayStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#dayTodayStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -26416,22 +26415,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:dayTodayStyle
+     * @attr name com.ennbee.moonman:dayTodayStyle
      */
     public static final int MaterialCalendar_dayTodayStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#rangeFillColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#rangeFillColor}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:rangeFillColor
+     * @attr name com.ennbee.moonman:rangeFillColor
      */
     public static final int MaterialCalendar_rangeFillColor=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#yearSelectedStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#yearSelectedStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -26439,11 +26438,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:yearSelectedStyle
+     * @attr name com.ennbee.moonman:yearSelectedStyle
      */
     public static final int MaterialCalendar_yearSelectedStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#yearStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#yearStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -26451,11 +26450,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:yearStyle
+     * @attr name com.ennbee.moonman:yearStyle
      */
     public static final int MaterialCalendar_yearStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#yearTodayStyle}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#yearTodayStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -26463,7 +26462,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:yearTodayStyle
+     * @attr name com.ennbee.moonman:yearTodayStyle
      */
     public static final int MaterialCalendar_yearTodayStyle=8;
     /**
@@ -26477,12 +26476,12 @@ public final class R {
      * <tr><td><code>{@link #MaterialCalendarItem_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialCalendarItem_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialCalendarItem_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemFillColor com.greyluxmobile.invest:itemFillColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearance com.greyluxmobile.invest:itemShapeAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearanceOverlay com.greyluxmobile.invest:itemShapeAppearanceOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeColor com.greyluxmobile.invest:itemStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeWidth com.greyluxmobile.invest:itemStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemTextColor com.greyluxmobile.invest:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemFillColor com.ennbee.moonman:itemFillColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearance com.ennbee.moonman:itemShapeAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearanceOverlay com.ennbee.moonman:itemShapeAppearanceOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeColor com.ennbee.moonman:itemStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeWidth com.ennbee.moonman:itemStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemTextColor com.ennbee.moonman:itemTextColor}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCalendarItem_android_insetLeft
      * @see #MaterialCalendarItem_android_insetRight
@@ -26569,18 +26568,18 @@ public final class R {
      */
     public static final int MaterialCalendarItem_android_insetBottom=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#itemFillColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#itemFillColor}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemFillColor
+     * @attr name com.ennbee.moonman:itemFillColor
      */
     public static final int MaterialCalendarItem_itemFillColor=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#itemShapeAppearance}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#itemShapeAppearance}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -26588,11 +26587,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemShapeAppearance
+     * @attr name com.ennbee.moonman:itemShapeAppearance
      */
     public static final int MaterialCalendarItem_itemShapeAppearance=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#itemShapeAppearanceOverlay}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#itemShapeAppearanceOverlay}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -26600,22 +26599,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemShapeAppearanceOverlay
+     * @attr name com.ennbee.moonman:itemShapeAppearanceOverlay
      */
     public static final int MaterialCalendarItem_itemShapeAppearanceOverlay=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#itemStrokeColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#itemStrokeColor}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemStrokeColor
+     * @attr name com.ennbee.moonman:itemStrokeColor
      */
     public static final int MaterialCalendarItem_itemStrokeColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#itemStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#itemStrokeWidth}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -26624,18 +26623,18 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemStrokeWidth
+     * @attr name com.ennbee.moonman:itemStrokeWidth
      */
     public static final int MaterialCalendarItem_itemStrokeWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemTextColor
+     * @attr name com.ennbee.moonman:itemTextColor
      */
     public static final int MaterialCalendarItem_itemTextColor=9;
     /**
@@ -26646,15 +26645,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialCardView_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_cardForegroundColor com.greyluxmobile.invest:cardForegroundColor}</code></td><td>Foreground color for CardView.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_checkedIcon com.greyluxmobile.invest:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_checkedIconTint com.greyluxmobile.invest:checkedIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_rippleColor com.greyluxmobile.invest:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_shapeAppearance com.greyluxmobile.invest:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_shapeAppearanceOverlay com.greyluxmobile.invest:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_state_dragged com.greyluxmobile.invest:state_dragged}</code></td><td>State when a Card is being dragged.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor com.greyluxmobile.invest:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.greyluxmobile.invest:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_cardForegroundColor com.ennbee.moonman:cardForegroundColor}</code></td><td>Foreground color for CardView.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_checkedIcon com.ennbee.moonman:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_checkedIconTint com.ennbee.moonman:checkedIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_rippleColor com.ennbee.moonman:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_shapeAppearance com.ennbee.moonman:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_shapeAppearanceOverlay com.ennbee.moonman:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_state_dragged com.ennbee.moonman:state_dragged}</code></td><td>State when a Card is being dragged.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor com.ennbee.moonman:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.ennbee.moonman:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_android_checkable
      * @see #MaterialCardView_cardForegroundColor
@@ -26692,7 +26691,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:cardForegroundColor
+     * @attr name com.ennbee.moonman:cardForegroundColor
      */
     public static final int MaterialCardView_cardForegroundColor=1;
     /**
@@ -26705,7 +26704,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:checkedIcon
+     * @attr name com.ennbee.moonman:checkedIcon
      */
     public static final int MaterialCardView_checkedIcon=2;
     /**
@@ -26717,7 +26716,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:checkedIconTint
+     * @attr name com.ennbee.moonman:checkedIconTint
      */
     public static final int MaterialCardView_checkedIconTint=3;
     /**
@@ -26729,7 +26728,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:rippleColor
+     * @attr name com.ennbee.moonman:rippleColor
      */
     public static final int MaterialCardView_rippleColor=4;
     /**
@@ -26743,7 +26742,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearance
+     * @attr name com.ennbee.moonman:shapeAppearance
      */
     public static final int MaterialCardView_shapeAppearance=5;
     /**
@@ -26757,7 +26756,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearanceOverlay
+     * @attr name com.ennbee.moonman:shapeAppearanceOverlay
      */
     public static final int MaterialCardView_shapeAppearanceOverlay=6;
     /**
@@ -26768,7 +26767,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:state_dragged
+     * @attr name com.ennbee.moonman:state_dragged
      */
     public static final int MaterialCardView_state_dragged=7;
     /**
@@ -26781,7 +26780,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:strokeColor
+     * @attr name com.ennbee.moonman:strokeColor
      */
     public static final int MaterialCardView_strokeColor=8;
     /**
@@ -26796,7 +26795,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:strokeWidth
+     * @attr name com.ennbee.moonman:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=9;
     /**
@@ -26806,8 +26805,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCheckBox_buttonTint com.greyluxmobile.invest:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #MaterialCheckBox_useMaterialThemeColors com.greyluxmobile.invest:useMaterialThemeColors}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCheckBox_buttonTint com.ennbee.moonman:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #MaterialCheckBox_useMaterialThemeColors com.ennbee.moonman:useMaterialThemeColors}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCheckBox_buttonTint
      * @see #MaterialCheckBox_useMaterialThemeColors
@@ -26824,7 +26823,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonTint
+     * @attr name com.ennbee.moonman:buttonTint
      */
     public static final int MaterialCheckBox_buttonTint=0;
     /**
@@ -26838,7 +26837,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:useMaterialThemeColors
+     * @attr name com.ennbee.moonman:useMaterialThemeColors
      */
     public static final int MaterialCheckBox_useMaterialThemeColors=1;
     /**
@@ -26848,8 +26847,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialRadioButton_buttonTint com.greyluxmobile.invest:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #MaterialRadioButton_useMaterialThemeColors com.greyluxmobile.invest:useMaterialThemeColors}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialRadioButton_buttonTint com.ennbee.moonman:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #MaterialRadioButton_useMaterialThemeColors com.ennbee.moonman:useMaterialThemeColors}</code></td><td></td></tr>
      * </table>
      * @see #MaterialRadioButton_buttonTint
      * @see #MaterialRadioButton_useMaterialThemeColors
@@ -26866,7 +26865,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:buttonTint
+     * @attr name com.ennbee.moonman:buttonTint
      */
     public static final int MaterialRadioButton_buttonTint=0;
     /**
@@ -26880,7 +26879,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:useMaterialThemeColors
+     * @attr name com.ennbee.moonman:useMaterialThemeColors
      */
     public static final int MaterialRadioButton_useMaterialThemeColors=1;
     /**
@@ -26890,8 +26889,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialShape_shapeAppearance com.greyluxmobile.invest:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #MaterialShape_shapeAppearanceOverlay com.greyluxmobile.invest:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #MaterialShape_shapeAppearance com.ennbee.moonman:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #MaterialShape_shapeAppearanceOverlay com.ennbee.moonman:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
      * </table>
      * @see #MaterialShape_shapeAppearance
      * @see #MaterialShape_shapeAppearanceOverlay
@@ -26909,7 +26908,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearance
+     * @attr name com.ennbee.moonman:shapeAppearance
      */
     public static final int MaterialShape_shapeAppearance=0;
     /**
@@ -26922,7 +26921,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearanceOverlay
+     * @attr name com.ennbee.moonman:shapeAppearanceOverlay
      */
     public static final int MaterialShape_shapeAppearanceOverlay=1;
     /**
@@ -26933,7 +26932,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialTextAppearance_android_lineHeight android:lineHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialTextAppearance_lineHeight com.greyluxmobile.invest:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #MaterialTextAppearance_lineHeight com.ennbee.moonman:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
      * </table>
      * @see #MaterialTextAppearance_android_lineHeight
      * @see #MaterialTextAppearance_lineHeight
@@ -26968,7 +26967,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:lineHeight
+     * @attr name com.ennbee.moonman:lineHeight
      */
     public static final int MaterialTextAppearance_lineHeight=1;
     /**
@@ -26980,7 +26979,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialTextView_android_lineHeight android:lineHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialTextView_lineHeight com.greyluxmobile.invest:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #MaterialTextView_lineHeight com.ennbee.moonman:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
      * </table>
      * @see #MaterialTextView_android_textAppearance
      * @see #MaterialTextView_android_lineHeight
@@ -27026,7 +27025,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:lineHeight
+     * @attr name com.ennbee.moonman:lineHeight
      */
     public static final int MaterialTextView_lineHeight=2;
     /**
@@ -27160,18 +27159,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.greyluxmobile.invest:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.greyluxmobile.invest:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout com.ennbee.moonman:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.ennbee.moonman:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.greyluxmobile.invest:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.ennbee.moonman:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.greyluxmobile.invest:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.greyluxmobile.invest:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.greyluxmobile.invest:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.greyluxmobile.invest:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.greyluxmobile.invest:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.greyluxmobile.invest:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.greyluxmobile.invest:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.ennbee.moonman:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.ennbee.moonman:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.ennbee.moonman:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.ennbee.moonman:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.ennbee.moonman:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.ennbee.moonman:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.ennbee.moonman:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -27380,7 +27379,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:actionLayout
+     * @attr name com.ennbee.moonman:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -27394,7 +27393,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:actionProviderClass
+     * @attr name com.ennbee.moonman:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -27407,7 +27406,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:actionViewClass
+     * @attr name com.ennbee.moonman:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -27430,7 +27429,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:alphabeticModifiers
+     * @attr name com.ennbee.moonman:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -27441,7 +27440,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:contentDescription
+     * @attr name com.ennbee.moonman:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -27453,7 +27452,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:iconTint
+     * @attr name com.ennbee.moonman:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -27480,7 +27479,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:iconTintMode
+     * @attr name com.ennbee.moonman:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -27503,7 +27502,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:numericModifiers
+     * @attr name com.ennbee.moonman:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -27533,7 +27532,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:showAsAction
+     * @attr name com.ennbee.moonman:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -27544,7 +27543,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:tooltipText
+     * @attr name com.ennbee.moonman:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -27561,8 +27560,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.greyluxmobile.invest:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.greyluxmobile.invest:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.ennbee.moonman:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.ennbee.moonman:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -27681,7 +27680,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:preserveIconSpacing
+     * @attr name com.ennbee.moonman:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -27694,7 +27693,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:subMenuArrow
+     * @attr name com.ennbee.moonman:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -27704,12 +27703,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MockView_mock_diagonalsColor com.greyluxmobile.invest:mock_diagonalsColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MockView_mock_label com.greyluxmobile.invest:mock_label}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MockView_mock_labelBackgroundColor com.greyluxmobile.invest:mock_labelBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MockView_mock_labelColor com.greyluxmobile.invest:mock_labelColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MockView_mock_showDiagonals com.greyluxmobile.invest:mock_showDiagonals}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MockView_mock_showLabel com.greyluxmobile.invest:mock_showLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_diagonalsColor com.ennbee.moonman:mock_diagonalsColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_label com.ennbee.moonman:mock_label}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_labelBackgroundColor com.ennbee.moonman:mock_labelBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_labelColor com.ennbee.moonman:mock_labelColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_showDiagonals com.ennbee.moonman:mock_showDiagonals}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MockView_mock_showLabel com.ennbee.moonman:mock_showLabel}</code></td><td></td></tr>
      * </table>
      * @see #MockView_mock_diagonalsColor
      * @see #MockView_mock_label
@@ -27723,66 +27722,66 @@ public final class R {
       0x7f030237, 0x7f030238
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#mock_diagonalsColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#mock_diagonalsColor}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:mock_diagonalsColor
+     * @attr name com.ennbee.moonman:mock_diagonalsColor
      */
     public static final int MockView_mock_diagonalsColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#mock_label}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#mock_label}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:mock_label
+     * @attr name com.ennbee.moonman:mock_label
      */
     public static final int MockView_mock_label=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#mock_labelBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#mock_labelBackgroundColor}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:mock_labelBackgroundColor
+     * @attr name com.ennbee.moonman:mock_labelBackgroundColor
      */
     public static final int MockView_mock_labelBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#mock_labelColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#mock_labelColor}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:mock_labelColor
+     * @attr name com.ennbee.moonman:mock_labelColor
      */
     public static final int MockView_mock_labelColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#mock_showDiagonals}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#mock_showDiagonals}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:mock_showDiagonals
+     * @attr name com.ennbee.moonman:mock_showDiagonals
      */
     public static final int MockView_mock_showDiagonals=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#mock_showLabel}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#mock_showLabel}
      * attribute's value can be found in the {@link #MockView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:mock_showLabel
+     * @attr name com.ennbee.moonman:mock_showLabel
      */
     public static final int MockView_mock_showLabel=5;
     /**
@@ -27792,12 +27791,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Motion_animate_relativeTo com.greyluxmobile.invest:animate_relativeTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Motion_drawPath com.greyluxmobile.invest:drawPath}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Motion_motionPathRotate com.greyluxmobile.invest:motionPathRotate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Motion_motionStagger com.greyluxmobile.invest:motionStagger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Motion_pathMotionArc com.greyluxmobile.invest:pathMotionArc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Motion_transitionEasing com.greyluxmobile.invest:transitionEasing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_animate_relativeTo com.ennbee.moonman:animate_relativeTo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_drawPath com.ennbee.moonman:drawPath}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_motionPathRotate com.ennbee.moonman:motionPathRotate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_motionStagger com.ennbee.moonman:motionStagger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_pathMotionArc com.ennbee.moonman:pathMotionArc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Motion_transitionEasing com.ennbee.moonman:transitionEasing}</code></td><td></td></tr>
      * </table>
      * @see #Motion_animate_relativeTo
      * @see #Motion_drawPath
@@ -27811,7 +27810,7 @@ public final class R {
       0x7f030261, 0x7f03033d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#animate_relativeTo}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#animate_relativeTo}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -27819,11 +27818,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:animate_relativeTo
+     * @attr name com.ennbee.moonman:animate_relativeTo
      */
     public static final int Motion_animate_relativeTo=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#drawPath}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#drawPath}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -27840,29 +27839,29 @@ public final class R {
      * <tr><td>rectangles</td><td>5</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:drawPath
+     * @attr name com.ennbee.moonman:drawPath
      */
     public static final int Motion_drawPath=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionPathRotate}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionPathRotate}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:motionPathRotate
+     * @attr name com.ennbee.moonman:motionPathRotate
      */
     public static final int Motion_motionPathRotate=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionStagger}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionStagger}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:motionStagger
+     * @attr name com.ennbee.moonman:motionStagger
      */
     public static final int Motion_motionStagger=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#pathMotionArc}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#pathMotionArc}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -27877,11 +27876,11 @@ public final class R {
      * <tr><td>startVertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:pathMotionArc
+     * @attr name com.ennbee.moonman:pathMotionArc
      */
     public static final int Motion_pathMotionArc=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionEasing}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionEasing}
      * attribute's value can be found in the {@link #Motion} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
@@ -27898,7 +27897,7 @@ public final class R {
      * <tr><td>standard</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:transitionEasing
+     * @attr name com.ennbee.moonman:transitionEasing
      */
     public static final int Motion_transitionEasing=5;
     /**
@@ -27908,8 +27907,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MotionHelper_onHide com.greyluxmobile.invest:onHide}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionHelper_onShow com.greyluxmobile.invest:onShow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionHelper_onHide com.ennbee.moonman:onHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionHelper_onShow com.ennbee.moonman:onShow}</code></td><td></td></tr>
      * </table>
      * @see #MotionHelper_onHide
      * @see #MotionHelper_onShow
@@ -27918,23 +27917,23 @@ public final class R {
       0x7f03024b, 0x7f03024e
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#onHide}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#onHide}
      * attribute's value can be found in the {@link #MotionHelper} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:onHide
+     * @attr name com.ennbee.moonman:onHide
      */
     public static final int MotionHelper_onHide=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#onShow}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#onShow}
      * attribute's value can be found in the {@link #MotionHelper} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:onShow
+     * @attr name com.ennbee.moonman:onShow
      */
     public static final int MotionHelper_onShow=1;
     /**
@@ -27944,12 +27943,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MotionLayout_applyMotionScene com.greyluxmobile.invest:applyMotionScene}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionLayout_currentState com.greyluxmobile.invest:currentState}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionLayout_layoutDescription com.greyluxmobile.invest:layoutDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionLayout_motionDebug com.greyluxmobile.invest:motionDebug}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionLayout_motionProgress com.greyluxmobile.invest:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionLayout_showPaths com.greyluxmobile.invest:showPaths}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_applyMotionScene com.ennbee.moonman:applyMotionScene}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_currentState com.ennbee.moonman:currentState}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_layoutDescription com.ennbee.moonman:layoutDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_motionDebug com.ennbee.moonman:motionDebug}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_motionProgress com.ennbee.moonman:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionLayout_showPaths com.ennbee.moonman:showPaths}</code></td><td></td></tr>
      * </table>
      * @see #MotionLayout_applyMotionScene
      * @see #MotionLayout_currentState
@@ -27963,17 +27962,17 @@ public final class R {
       0x7f03023c, 0x7f0302a1
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#applyMotionScene}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#applyMotionScene}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:applyMotionScene
+     * @attr name com.ennbee.moonman:applyMotionScene
      */
     public static final int MotionLayout_applyMotionScene=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#currentState}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#currentState}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -27981,11 +27980,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:currentState
+     * @attr name com.ennbee.moonman:currentState
      */
     public static final int MotionLayout_currentState=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layoutDescription}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layoutDescription}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -27993,11 +27992,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:layoutDescription
+     * @attr name com.ennbee.moonman:layoutDescription
      */
     public static final int MotionLayout_layoutDescription=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionDebug}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionDebug}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -28012,26 +28011,26 @@ public final class R {
      * <tr><td>SHOW_PROGRESS</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:motionDebug
+     * @attr name com.ennbee.moonman:motionDebug
      */
     public static final int MotionLayout_motionDebug=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionProgress}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:motionProgress
+     * @attr name com.ennbee.moonman:motionProgress
      */
     public static final int MotionLayout_motionProgress=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#showPaths}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#showPaths}
      * attribute's value can be found in the {@link #MotionLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:showPaths
+     * @attr name com.ennbee.moonman:showPaths
      */
     public static final int MotionLayout_showPaths=5;
     /**
@@ -28041,8 +28040,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MotionScene_defaultDuration com.greyluxmobile.invest:defaultDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionScene_layoutDuringTransition com.greyluxmobile.invest:layoutDuringTransition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionScene_defaultDuration com.ennbee.moonman:defaultDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionScene_layoutDuringTransition com.ennbee.moonman:layoutDuringTransition}</code></td><td></td></tr>
      * </table>
      * @see #MotionScene_defaultDuration
      * @see #MotionScene_layoutDuringTransition
@@ -28051,16 +28050,16 @@ public final class R {
       0x7f0300fc, 0x7f0301b7
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#defaultDuration}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#defaultDuration}
      * attribute's value can be found in the {@link #MotionScene} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:defaultDuration
+     * @attr name com.ennbee.moonman:defaultDuration
      */
     public static final int MotionScene_defaultDuration=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layoutDuringTransition}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layoutDuringTransition}
      * attribute's value can be found in the {@link #MotionScene} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -28073,7 +28072,7 @@ public final class R {
      * <tr><td>ignoreRequest</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layoutDuringTransition
+     * @attr name com.ennbee.moonman:layoutDuringTransition
      */
     public static final int MotionScene_layoutDuringTransition=1;
     /**
@@ -28083,9 +28082,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MotionTelltales_telltales_tailColor com.greyluxmobile.invest:telltales_tailColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionTelltales_telltales_tailScale com.greyluxmobile.invest:telltales_tailScale}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MotionTelltales_telltales_velocityMode com.greyluxmobile.invest:telltales_velocityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionTelltales_telltales_tailColor com.ennbee.moonman:telltales_tailColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionTelltales_telltales_tailScale com.ennbee.moonman:telltales_tailScale}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MotionTelltales_telltales_velocityMode com.ennbee.moonman:telltales_velocityMode}</code></td><td></td></tr>
      * </table>
      * @see #MotionTelltales_telltales_tailColor
      * @see #MotionTelltales_telltales_tailScale
@@ -28095,27 +28094,27 @@ public final class R {
       0x7f0302ee, 0x7f0302ef, 0x7f0302f0
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#telltales_tailColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#telltales_tailColor}
      * attribute's value can be found in the {@link #MotionTelltales} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:telltales_tailColor
+     * @attr name com.ennbee.moonman:telltales_tailColor
      */
     public static final int MotionTelltales_telltales_tailColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#telltales_tailScale}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#telltales_tailScale}
      * attribute's value can be found in the {@link #MotionTelltales} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:telltales_tailScale
+     * @attr name com.ennbee.moonman:telltales_tailScale
      */
     public static final int MotionTelltales_telltales_tailScale=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#telltales_velocityMode}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#telltales_velocityMode}
      * attribute's value can be found in the {@link #MotionTelltales} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -28130,7 +28129,7 @@ public final class R {
      * <tr><td>staticPostLayout</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:telltales_velocityMode
+     * @attr name com.ennbee.moonman:telltales_velocityMode
      */
     public static final int MotionTelltales_telltales_velocityMode=2;
     /**
@@ -28143,24 +28142,24 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.greyluxmobile.invest:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.greyluxmobile.invest:headerLayout}</code></td><td>Layout resource to inflate as the header</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.greyluxmobile.invest:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.greyluxmobile.invest:itemHorizontalPadding}</code></td><td>Horizontal padding (left and right) of navigation items, around the icon & text</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding com.greyluxmobile.invest:itemIconPadding}</code></td><td>Padding between the icon and the text for navigation items that display an icon</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconSize com.greyluxmobile.invest:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.greyluxmobile.invest:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemMaxLines com.greyluxmobile.invest:itemMaxLines}</code></td><td>Makes the TextView of the item text be at most this many lines tall.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeAppearance com.greyluxmobile.invest:itemShapeAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeAppearanceOverlay com.greyluxmobile.invest:itemShapeAppearanceOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeFillColor com.greyluxmobile.invest:itemShapeFillColor}</code></td><td>Fill color for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetBottom com.greyluxmobile.invest:itemShapeInsetBottom}</code></td><td>Inset bottom margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetEnd com.greyluxmobile.invest:itemShapeInsetEnd}</code></td><td>Inset end margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetStart com.greyluxmobile.invest:itemShapeInsetStart}</code></td><td>Inset start margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetTop com.greyluxmobile.invest:itemShapeInsetTop}</code></td><td>Inset top margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.greyluxmobile.invest:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.greyluxmobile.invest:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.greyluxmobile.invest:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.ennbee.moonman:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.ennbee.moonman:headerLayout}</code></td><td>Layout resource to inflate as the header</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.ennbee.moonman:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.ennbee.moonman:itemHorizontalPadding}</code></td><td>Horizontal padding (left and right) of navigation items, around the icon & text</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding com.ennbee.moonman:itemIconPadding}</code></td><td>Padding between the icon and the text for navigation items that display an icon</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconSize com.ennbee.moonman:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.ennbee.moonman:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemMaxLines com.ennbee.moonman:itemMaxLines}</code></td><td>Makes the TextView of the item text be at most this many lines tall.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeAppearance com.ennbee.moonman:itemShapeAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeAppearanceOverlay com.ennbee.moonman:itemShapeAppearanceOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeFillColor com.ennbee.moonman:itemShapeFillColor}</code></td><td>Fill color for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetBottom com.ennbee.moonman:itemShapeInsetBottom}</code></td><td>Inset bottom margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetEnd com.ennbee.moonman:itemShapeInsetEnd}</code></td><td>Inset end margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetStart com.ennbee.moonman:itemShapeInsetStart}</code></td><td>Inset start margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetTop com.ennbee.moonman:itemShapeInsetTop}</code></td><td>Inset top margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.ennbee.moonman:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.ennbee.moonman:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.ennbee.moonman:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -28241,7 +28240,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:elevation
+     * @attr name com.ennbee.moonman:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
@@ -28254,7 +28253,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:headerLayout
+     * @attr name com.ennbee.moonman:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
@@ -28268,7 +28267,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemBackground
+     * @attr name com.ennbee.moonman:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
@@ -28282,7 +28281,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemHorizontalPadding
+     * @attr name com.ennbee.moonman:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
@@ -28296,7 +28295,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemIconPadding
+     * @attr name com.ennbee.moonman:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
@@ -28310,18 +28309,18 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemIconSize
+     * @attr name com.ennbee.moonman:itemIconSize
      */
     public static final int NavigationView_itemIconSize=8;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemIconTint
+     * @attr name com.ennbee.moonman:itemIconTint
      */
     public static final int NavigationView_itemIconTint=9;
     /**
@@ -28331,7 +28330,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:itemMaxLines
+     * @attr name com.ennbee.moonman:itemMaxLines
      */
     public static final int NavigationView_itemMaxLines=10;
     /**
@@ -28346,7 +28345,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemShapeAppearance
+     * @attr name com.ennbee.moonman:itemShapeAppearance
      */
     public static final int NavigationView_itemShapeAppearance=11;
     /**
@@ -28362,7 +28361,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemShapeAppearanceOverlay
+     * @attr name com.ennbee.moonman:itemShapeAppearanceOverlay
      */
     public static final int NavigationView_itemShapeAppearanceOverlay=12;
     /**
@@ -28375,7 +28374,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemShapeFillColor
+     * @attr name com.ennbee.moonman:itemShapeFillColor
      */
     public static final int NavigationView_itemShapeFillColor=13;
     /**
@@ -28390,7 +28389,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemShapeInsetBottom
+     * @attr name com.ennbee.moonman:itemShapeInsetBottom
      */
     public static final int NavigationView_itemShapeInsetBottom=14;
     /**
@@ -28405,7 +28404,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemShapeInsetEnd
+     * @attr name com.ennbee.moonman:itemShapeInsetEnd
      */
     public static final int NavigationView_itemShapeInsetEnd=15;
     /**
@@ -28420,7 +28419,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemShapeInsetStart
+     * @attr name com.ennbee.moonman:itemShapeInsetStart
      */
     public static final int NavigationView_itemShapeInsetStart=16;
     /**
@@ -28435,11 +28434,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:itemShapeInsetTop
+     * @attr name com.ennbee.moonman:itemShapeInsetTop
      */
     public static final int NavigationView_itemShapeInsetTop=17;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -28447,18 +28446,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemTextAppearance
+     * @attr name com.ennbee.moonman:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:itemTextColor
+     * @attr name com.ennbee.moonman:itemTextColor
      */
     public static final int NavigationView_itemTextColor=19;
     /**
@@ -28471,7 +28470,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:menu
+     * @attr name com.ennbee.moonman:menu
      */
     public static final int NavigationView_menu=20;
     /**
@@ -28481,8 +28480,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #OnClick_clickAction com.greyluxmobile.invest:clickAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnClick_targetId com.greyluxmobile.invest:targetId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnClick_clickAction com.ennbee.moonman:clickAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnClick_targetId com.ennbee.moonman:targetId}</code></td><td></td></tr>
      * </table>
      * @see #OnClick_clickAction
      * @see #OnClick_targetId
@@ -28491,7 +28490,7 @@ public final class R {
       0x7f0300a0, 0x7f0302ed
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#clickAction}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#clickAction}
      * attribute's value can be found in the {@link #OnClick} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -28507,11 +28506,11 @@ public final class R {
      * <tr><td>transitionToStart</td><td>10</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:clickAction
+     * @attr name com.ennbee.moonman:clickAction
      */
     public static final int OnClick_clickAction=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#targetId}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#targetId}
      * attribute's value can be found in the {@link #OnClick} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -28519,7 +28518,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:targetId
+     * @attr name com.ennbee.moonman:targetId
      */
     public static final int OnClick_targetId=1;
     /**
@@ -28529,17 +28528,17 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #OnSwipe_dragDirection com.greyluxmobile.invest:dragDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_dragScale com.greyluxmobile.invest:dragScale}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_limitBoundsTo com.greyluxmobile.invest:limitBoundsTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_maxAcceleration com.greyluxmobile.invest:maxAcceleration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_maxVelocity com.greyluxmobile.invest:maxVelocity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_moveWhenScrollAtTop com.greyluxmobile.invest:moveWhenScrollAtTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_nestedScrollFlags com.greyluxmobile.invest:nestedScrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_onTouchUp com.greyluxmobile.invest:onTouchUp}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_touchAnchorId com.greyluxmobile.invest:touchAnchorId}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_touchAnchorSide com.greyluxmobile.invest:touchAnchorSide}</code></td><td></td></tr>
-     * <tr><td><code>{@link #OnSwipe_touchRegionId com.greyluxmobile.invest:touchRegionId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_dragDirection com.ennbee.moonman:dragDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_dragScale com.ennbee.moonman:dragScale}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_limitBoundsTo com.ennbee.moonman:limitBoundsTo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_maxAcceleration com.ennbee.moonman:maxAcceleration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_maxVelocity com.ennbee.moonman:maxVelocity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_moveWhenScrollAtTop com.ennbee.moonman:moveWhenScrollAtTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_nestedScrollFlags com.ennbee.moonman:nestedScrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_onTouchUp com.ennbee.moonman:onTouchUp}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_touchAnchorId com.ennbee.moonman:touchAnchorId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_touchAnchorSide com.ennbee.moonman:touchAnchorSide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #OnSwipe_touchRegionId com.ennbee.moonman:touchRegionId}</code></td><td></td></tr>
      * </table>
      * @see #OnSwipe_dragDirection
      * @see #OnSwipe_dragScale
@@ -28559,7 +28558,7 @@ public final class R {
       0x7f030332, 0x7f030333, 0x7f030334
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#dragDirection}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#dragDirection}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -28576,20 +28575,20 @@ public final class R {
      * <tr><td>dragUp</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:dragDirection
+     * @attr name com.ennbee.moonman:dragDirection
      */
     public static final int OnSwipe_dragDirection=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#dragScale}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#dragScale}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:dragScale
+     * @attr name com.ennbee.moonman:dragScale
      */
     public static final int OnSwipe_dragScale=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#limitBoundsTo}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#limitBoundsTo}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -28597,39 +28596,39 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:limitBoundsTo
+     * @attr name com.ennbee.moonman:limitBoundsTo
      */
     public static final int OnSwipe_limitBoundsTo=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#maxAcceleration}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#maxAcceleration}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:maxAcceleration
+     * @attr name com.ennbee.moonman:maxAcceleration
      */
     public static final int OnSwipe_maxAcceleration=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#maxVelocity}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#maxVelocity}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:maxVelocity
+     * @attr name com.ennbee.moonman:maxVelocity
      */
     public static final int OnSwipe_maxVelocity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#moveWhenScrollAtTop}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#moveWhenScrollAtTop}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:moveWhenScrollAtTop
+     * @attr name com.ennbee.moonman:moveWhenScrollAtTop
      */
     public static final int OnSwipe_moveWhenScrollAtTop=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#nestedScrollFlags}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#nestedScrollFlags}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -28643,11 +28642,11 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:nestedScrollFlags
+     * @attr name com.ennbee.moonman:nestedScrollFlags
      */
     public static final int OnSwipe_nestedScrollFlags=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#onTouchUp}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#onTouchUp}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -28664,11 +28663,11 @@ public final class R {
      * <tr><td>stop</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:onTouchUp
+     * @attr name com.ennbee.moonman:onTouchUp
      */
     public static final int OnSwipe_onTouchUp=7;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#touchAnchorId}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#touchAnchorId}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -28676,11 +28675,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:touchAnchorId
+     * @attr name com.ennbee.moonman:touchAnchorId
      */
     public static final int OnSwipe_touchAnchorId=8;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#touchAnchorSide}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#touchAnchorSide}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -28698,11 +28697,11 @@ public final class R {
      * <tr><td>top</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:touchAnchorSide
+     * @attr name com.ennbee.moonman:touchAnchorSide
      */
     public static final int OnSwipe_touchAnchorSide=9;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#touchRegionId}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#touchRegionId}
      * attribute's value can be found in the {@link #OnSwipe} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -28710,7 +28709,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:touchRegionId
+     * @attr name com.ennbee.moonman:touchRegionId
      */
     public static final int OnSwipe_touchRegionId=10;
     /**
@@ -28722,7 +28721,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.greyluxmobile.invest:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.ennbee.moonman:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -28766,7 +28765,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:overlapAnchor
+     * @attr name com.ennbee.moonman:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -28776,7 +28775,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.greyluxmobile.invest:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.ennbee.moonman:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -28791,7 +28790,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:state_above_anchor
+     * @attr name com.ennbee.moonman:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -28802,22 +28801,22 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ProgressIndicator_android_indeterminate android:indeterminate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_circularInset com.greyluxmobile.invest:circularInset}</code></td><td>The extra space from the outer edge of the indicator to the edge of the
+     * <tr><td><code>{@link #ProgressIndicator_circularInset com.ennbee.moonman:circularInset}</code></td><td>The extra space from the outer edge of the indicator to the edge of the
      * canvas.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_circularRadius com.greyluxmobile.invest:circularRadius}</code></td><td>Defines the radius of the circular progress indicator.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_growMode com.greyluxmobile.invest:growMode}</code></td><td>How the progress indicator appears and disappears.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_indicatorColor com.greyluxmobile.invest:indicatorColor}</code></td><td>The single color used for the indicator in determinate/indeterminate mode.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_indicatorColors com.greyluxmobile.invest:indicatorColors}</code></td><td>A color array used for multiple color indeterminate indicator.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_indicatorCornerRadius com.greyluxmobile.invest:indicatorCornerRadius}</code></td><td>The radius of each corner of both the indicator and the track.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_indicatorType com.greyluxmobile.invest:indicatorType}</code></td><td>The type of the progress indicator, either linear or circular.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_indicatorWidth com.greyluxmobile.invest:indicatorWidth}</code></td><td>The width of the progress track and indicator.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_inverse com.greyluxmobile.invest:inverse}</code></td><td>Whether to inverse the progress direction.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_linearSeamless com.greyluxmobile.invest:linearSeamless}</code></td><td>Whether to use seamless style animation on linear indicator in different
+     * <tr><td><code>{@link #ProgressIndicator_circularRadius com.ennbee.moonman:circularRadius}</code></td><td>Defines the radius of the circular progress indicator.</td></tr>
+     * <tr><td><code>{@link #ProgressIndicator_growMode com.ennbee.moonman:growMode}</code></td><td>How the progress indicator appears and disappears.</td></tr>
+     * <tr><td><code>{@link #ProgressIndicator_indicatorColor com.ennbee.moonman:indicatorColor}</code></td><td>The single color used for the indicator in determinate/indeterminate mode.</td></tr>
+     * <tr><td><code>{@link #ProgressIndicator_indicatorColors com.ennbee.moonman:indicatorColors}</code></td><td>A color array used for multiple color indeterminate indicator.</td></tr>
+     * <tr><td><code>{@link #ProgressIndicator_indicatorCornerRadius com.ennbee.moonman:indicatorCornerRadius}</code></td><td>The radius of each corner of both the indicator and the track.</td></tr>
+     * <tr><td><code>{@link #ProgressIndicator_indicatorType com.ennbee.moonman:indicatorType}</code></td><td>The type of the progress indicator, either linear or circular.</td></tr>
+     * <tr><td><code>{@link #ProgressIndicator_indicatorWidth com.ennbee.moonman:indicatorWidth}</code></td><td>The width of the progress track and indicator.</td></tr>
+     * <tr><td><code>{@link #ProgressIndicator_inverse com.ennbee.moonman:inverse}</code></td><td>Whether to inverse the progress direction.</td></tr>
+     * <tr><td><code>{@link #ProgressIndicator_linearSeamless com.ennbee.moonman:linearSeamless}</code></td><td>Whether to use seamless style animation on linear indicator in different
      * colors when it's possible, i.e., in linear indeterminate mode with more
      * than 3 colors (inclusive) are defined.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_minHideDelay com.greyluxmobile.invest:minHideDelay}</code></td><td>The minimum time, in milliseconds, that the requested hide action will
+     * <tr><td><code>{@link #ProgressIndicator_minHideDelay com.ennbee.moonman:minHideDelay}</code></td><td>The minimum time, in milliseconds, that the requested hide action will
      * wait to start once show action is started.</td></tr>
-     * <tr><td><code>{@link #ProgressIndicator_trackColor com.greyluxmobile.invest:trackColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ProgressIndicator_trackColor com.ennbee.moonman:trackColor}</code></td><td></td></tr>
      * </table>
      * @see #ProgressIndicator_android_indeterminate
      * @see #ProgressIndicator_circularInset
@@ -28862,7 +28861,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:circularInset
+     * @attr name com.ennbee.moonman:circularInset
      */
     public static final int ProgressIndicator_circularInset=1;
     /**
@@ -28878,7 +28877,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:circularRadius
+     * @attr name com.ennbee.moonman:circularRadius
      */
     public static final int ProgressIndicator_circularRadius=2;
     /**
@@ -28907,7 +28906,7 @@ public final class R {
      * with a reversed animation.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:growMode
+     * @attr name com.ennbee.moonman:growMode
      */
     public static final int ProgressIndicator_growMode=3;
     /**
@@ -28920,7 +28919,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:indicatorColor
+     * @attr name com.ennbee.moonman:indicatorColor
      */
     public static final int ProgressIndicator_indicatorColor=4;
     /**
@@ -28935,7 +28934,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:indicatorColors
+     * @attr name com.ennbee.moonman:indicatorColors
      */
     public static final int ProgressIndicator_indicatorColors=5;
     /**
@@ -28951,7 +28950,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:indicatorCornerRadius
+     * @attr name com.ennbee.moonman:indicatorCornerRadius
      */
     public static final int ProgressIndicator_indicatorCornerRadius=6;
     /**
@@ -28971,7 +28970,7 @@ public final class R {
      * <tr><td>linear</td><td>0</td><td>The indicator appears as a horizontal bar.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:indicatorType
+     * @attr name com.ennbee.moonman:indicatorType
      */
     public static final int ProgressIndicator_indicatorType=7;
     /**
@@ -28985,7 +28984,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:indicatorWidth
+     * @attr name com.ennbee.moonman:indicatorWidth
      */
     public static final int ProgressIndicator_indicatorWidth=8;
     /**
@@ -28997,7 +28996,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:inverse
+     * @attr name com.ennbee.moonman:inverse
      */
     public static final int ProgressIndicator_inverse=9;
     /**
@@ -29011,7 +29010,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:linearSeamless
+     * @attr name com.ennbee.moonman:linearSeamless
      */
     public static final int ProgressIndicator_linearSeamless=10;
     /**
@@ -29024,7 +29023,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:minHideDelay
+     * @attr name com.ennbee.moonman:minHideDelay
      */
     public static final int ProgressIndicator_minHideDelay=11;
     /**
@@ -29037,7 +29036,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:trackColor
+     * @attr name com.ennbee.moonman:trackColor
      */
     public static final int ProgressIndicator_trackColor=12;
     /**
@@ -29049,9 +29048,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PropertySet_android_visibility android:visibility}</code></td><td></td></tr>
      * <tr><td><code>{@link #PropertySet_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PropertySet_layout_constraintTag com.greyluxmobile.invest:layout_constraintTag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PropertySet_motionProgress com.greyluxmobile.invest:motionProgress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PropertySet_visibilityMode com.greyluxmobile.invest:visibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PropertySet_layout_constraintTag com.ennbee.moonman:layout_constraintTag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PropertySet_motionProgress com.ennbee.moonman:motionProgress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PropertySet_visibilityMode com.ennbee.moonman:visibilityMode}</code></td><td></td></tr>
      * </table>
      * @see #PropertySet_android_visibility
      * @see #PropertySet_android_alpha
@@ -29091,26 +29090,26 @@ public final class R {
      */
     public static final int PropertySet_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layout_constraintTag}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layout_constraintTag}
      * attribute's value can be found in the {@link #PropertySet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:layout_constraintTag
+     * @attr name com.ennbee.moonman:layout_constraintTag
      */
     public static final int PropertySet_layout_constraintTag=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionProgress}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionProgress}
      * attribute's value can be found in the {@link #PropertySet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:motionProgress
+     * @attr name com.ennbee.moonman:motionProgress
      */
     public static final int PropertySet_motionProgress=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#visibilityMode}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#visibilityMode}
      * attribute's value can be found in the {@link #PropertySet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -29123,7 +29122,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:visibilityMode
+     * @attr name com.ennbee.moonman:visibilityMode
      */
     public static final int PropertySet_visibilityMode=4;
     /**
@@ -29133,7 +29132,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RadialViewGroup_materialCircleRadius com.greyluxmobile.invest:materialCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RadialViewGroup_materialCircleRadius com.ennbee.moonman:materialCircleRadius}</code></td><td></td></tr>
      * </table>
      * @see #RadialViewGroup_materialCircleRadius
      */
@@ -29152,7 +29151,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:materialCircleRadius
+     * @attr name com.ennbee.moonman:materialCircleRadius
      */
     public static final int RadialViewGroup_materialCircleRadius=0;
     /**
@@ -29162,9 +29161,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RangeSlider_minSeparation com.greyluxmobile.invest:minSeparation}</code></td><td>If there is more than one thumb, and the slider is
+     * <tr><td><code>{@link #RangeSlider_minSeparation com.ennbee.moonman:minSeparation}</code></td><td>If there is more than one thumb, and the slider is
      * not discrete the thumbs will be separated by this dimen</td></tr>
-     * <tr><td><code>{@link #RangeSlider_values com.greyluxmobile.invest:values}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RangeSlider_values com.ennbee.moonman:values}</code></td><td></td></tr>
      * </table>
      * @see #RangeSlider_minSeparation
      * @see #RangeSlider_values
@@ -29184,11 +29183,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:minSeparation
+     * @attr name com.ennbee.moonman:minSeparation
      */
     public static final int RangeSlider_minSeparation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#values}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#values}
      * attribute's value can be found in the {@link #RangeSlider} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -29196,7 +29195,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:values
+     * @attr name com.ennbee.moonman:values
      */
     public static final int RangeSlider_values=1;
     /**
@@ -29206,8 +29205,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.greyluxmobile.invest:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.greyluxmobile.invest:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.ennbee.moonman:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.ennbee.moonman:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -29226,7 +29225,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:paddingBottomNoButtons
+     * @attr name com.ennbee.moonman:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -29240,7 +29239,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:paddingTopNoTitle
+     * @attr name com.ennbee.moonman:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -29253,15 +29252,15 @@ public final class R {
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_clipToPadding android:clipToPadding}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.greyluxmobile.invest:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.greyluxmobile.invest:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.greyluxmobile.invest:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.greyluxmobile.invest:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.greyluxmobile.invest:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.greyluxmobile.invest:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.greyluxmobile.invest:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.greyluxmobile.invest:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.greyluxmobile.invest:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.ennbee.moonman:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.ennbee.moonman:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.ennbee.moonman:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.ennbee.moonman:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.ennbee.moonman:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.ennbee.moonman:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.ennbee.moonman:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.ennbee.moonman:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.ennbee.moonman:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_clipToPadding
@@ -29327,17 +29326,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:fastScrollEnabled
+     * @attr name com.ennbee.moonman:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -29345,11 +29344,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:fastScrollHorizontalThumbDrawable
+     * @attr name com.ennbee.moonman:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -29357,11 +29356,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:fastScrollHorizontalTrackDrawable
+     * @attr name com.ennbee.moonman:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -29369,11 +29368,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:fastScrollVerticalThumbDrawable
+     * @attr name com.ennbee.moonman:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -29381,7 +29380,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:fastScrollVerticalTrackDrawable
+     * @attr name com.ennbee.moonman:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=7;
     /**
@@ -29400,36 +29399,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:layoutManager
+     * @attr name com.ennbee.moonman:layoutManager
      */
     public static final int RecyclerView_layoutManager=8;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:reverseLayout
+     * @attr name com.ennbee.moonman:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:spanCount
+     * @attr name com.ennbee.moonman:spanCount
      */
     public static final int RecyclerView_spanCount=10;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:stackFromEnd
+     * @attr name com.ennbee.moonman:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=11;
     /**
@@ -29439,7 +29438,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.greyluxmobile.invest:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.ennbee.moonman:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -29447,7 +29446,7 @@ public final class R {
       0x7f030193
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -29458,7 +29457,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:insetForeground
+     * @attr name com.ennbee.moonman:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -29468,7 +29467,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.greyluxmobile.invest:behavior_overlapTop}</code></td><td>The amount that the scrolling view should overlap the bottom of any AppBarLayout</td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.ennbee.moonman:behavior_overlapTop}</code></td><td>The amount that the scrolling view should overlap the bottom of any AppBarLayout</td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -29486,7 +29485,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:behavior_overlapTop
+     * @attr name com.ennbee.moonman:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -29500,20 +29499,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.greyluxmobile.invest:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.greyluxmobile.invest:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.greyluxmobile.invest:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon com.ennbee.moonman:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.ennbee.moonman:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.ennbee.moonman:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.greyluxmobile.invest:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.greyluxmobile.invest:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.greyluxmobile.invest:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.greyluxmobile.invest:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.greyluxmobile.invest:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.greyluxmobile.invest:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.greyluxmobile.invest:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.greyluxmobile.invest:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.greyluxmobile.invest:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.greyluxmobile.invest:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.ennbee.moonman:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.ennbee.moonman:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.ennbee.moonman:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.ennbee.moonman:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.ennbee.moonman:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.ennbee.moonman:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.ennbee.moonman:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.ennbee.moonman:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.ennbee.moonman:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.ennbee.moonman:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -29663,7 +29662,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:closeIcon
+     * @attr name com.ennbee.moonman:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -29676,7 +29675,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:commitIcon
+     * @attr name com.ennbee.moonman:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -29688,7 +29687,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:defaultQueryHint
+     * @attr name com.ennbee.moonman:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -29701,7 +29700,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:goIcon
+     * @attr name com.ennbee.moonman:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -29713,7 +29712,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:iconifiedByDefault
+     * @attr name com.ennbee.moonman:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -29726,7 +29725,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:layout
+     * @attr name com.ennbee.moonman:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -29739,7 +29738,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:queryBackground
+     * @attr name com.ennbee.moonman:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -29750,7 +29749,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:queryHint
+     * @attr name com.ennbee.moonman:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -29763,7 +29762,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:searchHintIcon
+     * @attr name com.ennbee.moonman:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -29776,7 +29775,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:searchIcon
+     * @attr name com.ennbee.moonman:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -29789,7 +29788,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:submitBackground
+     * @attr name com.ennbee.moonman:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -29802,7 +29801,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:suggestionRowLayout
+     * @attr name com.ennbee.moonman:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -29815,7 +29814,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:voiceIcon
+     * @attr name com.ennbee.moonman:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -29825,16 +29824,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamily com.greyluxmobile.invest:cornerFamily}</code></td><td>Corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomLeft com.greyluxmobile.invest:cornerFamilyBottomLeft}</code></td><td>Bottom left corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomRight com.greyluxmobile.invest:cornerFamilyBottomRight}</code></td><td>Bottom right corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopLeft com.greyluxmobile.invest:cornerFamilyTopLeft}</code></td><td>Top left corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopRight com.greyluxmobile.invest:cornerFamilyTopRight}</code></td><td>Top right corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSize com.greyluxmobile.invest:cornerSize}</code></td><td>Corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomLeft com.greyluxmobile.invest:cornerSizeBottomLeft}</code></td><td>Bottom left corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomRight com.greyluxmobile.invest:cornerSizeBottomRight}</code></td><td>Bottom right corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopLeft com.greyluxmobile.invest:cornerSizeTopLeft}</code></td><td>Top left corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopRight com.greyluxmobile.invest:cornerSizeTopRight}</code></td><td>Top right corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamily com.ennbee.moonman:cornerFamily}</code></td><td>Corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomLeft com.ennbee.moonman:cornerFamilyBottomLeft}</code></td><td>Bottom left corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomRight com.ennbee.moonman:cornerFamilyBottomRight}</code></td><td>Bottom right corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopLeft com.ennbee.moonman:cornerFamilyTopLeft}</code></td><td>Top left corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopRight com.ennbee.moonman:cornerFamilyTopRight}</code></td><td>Top right corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSize com.ennbee.moonman:cornerSize}</code></td><td>Corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomLeft com.ennbee.moonman:cornerSizeBottomLeft}</code></td><td>Bottom left corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomRight com.ennbee.moonman:cornerSizeBottomRight}</code></td><td>Bottom right corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopLeft com.ennbee.moonman:cornerSizeTopLeft}</code></td><td>Top left corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopRight com.ennbee.moonman:cornerSizeTopRight}</code></td><td>Top right corner size to be used in the ShapeAppearance.</td></tr>
      * </table>
      * @see #ShapeAppearance_cornerFamily
      * @see #ShapeAppearance_cornerFamilyBottomLeft
@@ -29867,7 +29866,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:cornerFamily
+     * @attr name com.ennbee.moonman:cornerFamily
      */
     public static final int ShapeAppearance_cornerFamily=0;
     /**
@@ -29885,7 +29884,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:cornerFamilyBottomLeft
+     * @attr name com.ennbee.moonman:cornerFamilyBottomLeft
      */
     public static final int ShapeAppearance_cornerFamilyBottomLeft=1;
     /**
@@ -29903,7 +29902,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:cornerFamilyBottomRight
+     * @attr name com.ennbee.moonman:cornerFamilyBottomRight
      */
     public static final int ShapeAppearance_cornerFamilyBottomRight=2;
     /**
@@ -29921,7 +29920,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:cornerFamilyTopLeft
+     * @attr name com.ennbee.moonman:cornerFamilyTopLeft
      */
     public static final int ShapeAppearance_cornerFamilyTopLeft=3;
     /**
@@ -29939,7 +29938,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:cornerFamilyTopRight
+     * @attr name com.ennbee.moonman:cornerFamilyTopRight
      */
     public static final int ShapeAppearance_cornerFamilyTopRight=4;
     /**
@@ -29957,7 +29956,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:cornerSize
+     * @attr name com.ennbee.moonman:cornerSize
      */
     public static final int ShapeAppearance_cornerSize=5;
     /**
@@ -29975,7 +29974,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:cornerSizeBottomLeft
+     * @attr name com.ennbee.moonman:cornerSizeBottomLeft
      */
     public static final int ShapeAppearance_cornerSizeBottomLeft=6;
     /**
@@ -29993,7 +29992,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:cornerSizeBottomRight
+     * @attr name com.ennbee.moonman:cornerSizeBottomRight
      */
     public static final int ShapeAppearance_cornerSizeBottomRight=7;
     /**
@@ -30011,7 +30010,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:cornerSizeTopLeft
+     * @attr name com.ennbee.moonman:cornerSizeTopLeft
      */
     public static final int ShapeAppearance_cornerSizeTopLeft=8;
     /**
@@ -30029,7 +30028,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:cornerSizeTopRight
+     * @attr name com.ennbee.moonman:cornerSizeTopRight
      */
     public static final int ShapeAppearance_cornerSizeTopRight=9;
     /**
@@ -30039,10 +30038,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ShapeableImageView_shapeAppearance com.greyluxmobile.invest:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #ShapeableImageView_shapeAppearanceOverlay com.greyluxmobile.invest:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeableImageView_strokeColor com.greyluxmobile.invest:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ShapeableImageView_strokeWidth com.greyluxmobile.invest:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ShapeableImageView_shapeAppearance com.ennbee.moonman:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #ShapeableImageView_shapeAppearanceOverlay com.ennbee.moonman:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeableImageView_strokeColor com.ennbee.moonman:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ShapeableImageView_strokeWidth com.ennbee.moonman:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #ShapeableImageView_shapeAppearance
      * @see #ShapeableImageView_shapeAppearanceOverlay
@@ -30063,7 +30062,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearance
+     * @attr name com.ennbee.moonman:shapeAppearance
      */
     public static final int ShapeableImageView_shapeAppearance=0;
     /**
@@ -30077,22 +30076,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearanceOverlay
+     * @attr name com.ennbee.moonman:shapeAppearanceOverlay
      */
     public static final int ShapeableImageView_shapeAppearanceOverlay=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#strokeColor}
      * attribute's value can be found in the {@link #ShapeableImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:strokeColor
+     * @attr name com.ennbee.moonman:strokeColor
      */
     public static final int ShapeableImageView_strokeColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #ShapeableImageView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -30101,7 +30100,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:strokeWidth
+     * @attr name com.ennbee.moonman:strokeWidth
      */
     public static final int ShapeableImageView_strokeWidth=3;
     /**
@@ -30111,9 +30110,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SignInButton_buttonSize com.greyluxmobile.invest:buttonSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_colorScheme com.greyluxmobile.invest:colorScheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_scopeUris com.greyluxmobile.invest:scopeUris}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_buttonSize com.ennbee.moonman:buttonSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_colorScheme com.ennbee.moonman:colorScheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_scopeUris com.ennbee.moonman:scopeUris}</code></td><td></td></tr>
      * </table>
      * @see #SignInButton_buttonSize
      * @see #SignInButton_colorScheme
@@ -30123,7 +30122,7 @@ public final class R {
       0x7f030072, 0x7f0300bf, 0x7f03028d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#buttonSize}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -30141,11 +30140,11 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:buttonSize
+     * @attr name com.ennbee.moonman:buttonSize
      */
     public static final int SignInButton_buttonSize=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#colorScheme}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#colorScheme}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -30163,11 +30162,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:colorScheme
+     * @attr name com.ennbee.moonman:colorScheme
      */
     public static final int SignInButton_colorScheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#scopeUris}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#scopeUris}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -30177,7 +30176,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:scopeUris
+     * @attr name com.ennbee.moonman:scopeUris
      */
     public static final int SignInButton_scopeUris=2;
     /**
@@ -30191,20 +30190,20 @@ public final class R {
      * <tr><td><code>{@link #Slider_android_stepSize android:stepSize}</code></td><td></td></tr>
      * <tr><td><code>{@link #Slider_android_valueFrom android:valueFrom}</code></td><td></td></tr>
      * <tr><td><code>{@link #Slider_android_valueTo android:valueTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Slider_haloColor com.greyluxmobile.invest:haloColor}</code></td><td>The color of the slider's halo.</td></tr>
-     * <tr><td><code>{@link #Slider_haloRadius com.greyluxmobile.invest:haloRadius}</code></td><td>The radius of the halo.</td></tr>
-     * <tr><td><code>{@link #Slider_labelBehavior com.greyluxmobile.invest:labelBehavior}</code></td><td>Determines if Slider should increase its default height to include space for the label.</td></tr>
-     * <tr><td><code>{@link #Slider_labelStyle com.greyluxmobile.invest:labelStyle}</code></td><td>The style used for the label TooltipDrawable.</td></tr>
-     * <tr><td><code>{@link #Slider_thumbColor com.greyluxmobile.invest:thumbColor}</code></td><td>The color of the slider's thumb.</td></tr>
-     * <tr><td><code>{@link #Slider_thumbElevation com.greyluxmobile.invest:thumbElevation}</code></td><td>The elevation of the thumb.</td></tr>
-     * <tr><td><code>{@link #Slider_thumbRadius com.greyluxmobile.invest:thumbRadius}</code></td><td>The radius of the thumb.</td></tr>
-     * <tr><td><code>{@link #Slider_tickColor com.greyluxmobile.invest:tickColor}</code></td><td>The color of the slider's tick marks.</td></tr>
-     * <tr><td><code>{@link #Slider_tickColorActive com.greyluxmobile.invest:tickColorActive}</code></td><td>The color of the slider's tick marks for the active portion of the track.</td></tr>
-     * <tr><td><code>{@link #Slider_tickColorInactive com.greyluxmobile.invest:tickColorInactive}</code></td><td>The color of the slider's tick marks for the inactive portion of the track.</td></tr>
-     * <tr><td><code>{@link #Slider_trackColor com.greyluxmobile.invest:trackColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Slider_trackColorActive com.greyluxmobile.invest:trackColorActive}</code></td><td>The color of active portion of the track.</td></tr>
-     * <tr><td><code>{@link #Slider_trackColorInactive com.greyluxmobile.invest:trackColorInactive}</code></td><td>The color of inactive portion of the track.</td></tr>
-     * <tr><td><code>{@link #Slider_trackHeight com.greyluxmobile.invest:trackHeight}</code></td><td>The height of the track.</td></tr>
+     * <tr><td><code>{@link #Slider_haloColor com.ennbee.moonman:haloColor}</code></td><td>The color of the slider's halo.</td></tr>
+     * <tr><td><code>{@link #Slider_haloRadius com.ennbee.moonman:haloRadius}</code></td><td>The radius of the halo.</td></tr>
+     * <tr><td><code>{@link #Slider_labelBehavior com.ennbee.moonman:labelBehavior}</code></td><td>Determines if Slider should increase its default height to include space for the label.</td></tr>
+     * <tr><td><code>{@link #Slider_labelStyle com.ennbee.moonman:labelStyle}</code></td><td>The style used for the label TooltipDrawable.</td></tr>
+     * <tr><td><code>{@link #Slider_thumbColor com.ennbee.moonman:thumbColor}</code></td><td>The color of the slider's thumb.</td></tr>
+     * <tr><td><code>{@link #Slider_thumbElevation com.ennbee.moonman:thumbElevation}</code></td><td>The elevation of the thumb.</td></tr>
+     * <tr><td><code>{@link #Slider_thumbRadius com.ennbee.moonman:thumbRadius}</code></td><td>The radius of the thumb.</td></tr>
+     * <tr><td><code>{@link #Slider_tickColor com.ennbee.moonman:tickColor}</code></td><td>The color of the slider's tick marks.</td></tr>
+     * <tr><td><code>{@link #Slider_tickColorActive com.ennbee.moonman:tickColorActive}</code></td><td>The color of the slider's tick marks for the active portion of the track.</td></tr>
+     * <tr><td><code>{@link #Slider_tickColorInactive com.ennbee.moonman:tickColorInactive}</code></td><td>The color of the slider's tick marks for the inactive portion of the track.</td></tr>
+     * <tr><td><code>{@link #Slider_trackColor com.ennbee.moonman:trackColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Slider_trackColorActive com.ennbee.moonman:trackColorActive}</code></td><td>The color of active portion of the track.</td></tr>
+     * <tr><td><code>{@link #Slider_trackColorInactive com.ennbee.moonman:trackColorInactive}</code></td><td>The color of inactive portion of the track.</td></tr>
+     * <tr><td><code>{@link #Slider_trackHeight com.ennbee.moonman:trackHeight}</code></td><td>The height of the track.</td></tr>
      * </table>
      * @see #Slider_android_value
      * @see #Slider_android_stepSize
@@ -30307,7 +30306,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:haloColor
+     * @attr name com.ennbee.moonman:haloColor
      */
     public static final int Slider_haloColor=4;
     /**
@@ -30321,7 +30320,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:haloRadius
+     * @attr name com.ennbee.moonman:haloRadius
      */
     public static final int Slider_haloRadius=5;
     /**
@@ -30340,7 +30339,7 @@ public final class R {
      * <tr><td>withinBounds</td><td>1</td><td>Mode that draws the label within the bounds of the view.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:labelBehavior
+     * @attr name com.ennbee.moonman:labelBehavior
      */
     public static final int Slider_labelBehavior=6;
     /**
@@ -30353,7 +30352,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:labelStyle
+     * @attr name com.ennbee.moonman:labelStyle
      */
     public static final int Slider_labelStyle=7;
     /**
@@ -30365,7 +30364,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:thumbColor
+     * @attr name com.ennbee.moonman:thumbColor
      */
     public static final int Slider_thumbColor=8;
     /**
@@ -30379,7 +30378,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:thumbElevation
+     * @attr name com.ennbee.moonman:thumbElevation
      */
     public static final int Slider_thumbElevation=9;
     /**
@@ -30393,7 +30392,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:thumbRadius
+     * @attr name com.ennbee.moonman:thumbRadius
      */
     public static final int Slider_thumbRadius=10;
     /**
@@ -30405,7 +30404,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tickColor
+     * @attr name com.ennbee.moonman:tickColor
      */
     public static final int Slider_tickColor=11;
     /**
@@ -30418,7 +30417,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tickColorActive
+     * @attr name com.ennbee.moonman:tickColorActive
      */
     public static final int Slider_tickColorActive=12;
     /**
@@ -30431,7 +30430,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tickColorInactive
+     * @attr name com.ennbee.moonman:tickColorInactive
      */
     public static final int Slider_tickColorInactive=13;
     /**
@@ -30443,7 +30442,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:trackColor
+     * @attr name com.ennbee.moonman:trackColor
      */
     public static final int Slider_trackColor=14;
     /**
@@ -30455,7 +30454,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:trackColorActive
+     * @attr name com.ennbee.moonman:trackColorActive
      */
     public static final int Slider_trackColorActive=15;
     /**
@@ -30467,7 +30466,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:trackColorInactive
+     * @attr name com.ennbee.moonman:trackColorInactive
      */
     public static final int Slider_trackColorInactive=16;
     /**
@@ -30481,7 +30480,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:trackHeight
+     * @attr name com.ennbee.moonman:trackHeight
      */
     public static final int Slider_trackHeight=17;
     /**
@@ -30491,9 +30490,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.greyluxmobile.invest:snackbarButtonStyle}</code></td><td>Style to use for action button within a Snackbar in this theme.</td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle com.greyluxmobile.invest:snackbarStyle}</code></td><td>Style to use for Snackbars in this theme.</td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarTextViewStyle com.greyluxmobile.invest:snackbarTextViewStyle}</code></td><td>Style to use for message text within a Snackbar in this theme.</td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.ennbee.moonman:snackbarButtonStyle}</code></td><td>Style to use for action button within a Snackbar in this theme.</td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle com.ennbee.moonman:snackbarStyle}</code></td><td>Style to use for Snackbars in this theme.</td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarTextViewStyle com.ennbee.moonman:snackbarTextViewStyle}</code></td><td>Style to use for message text within a Snackbar in this theme.</td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -30512,7 +30511,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:snackbarButtonStyle
+     * @attr name com.ennbee.moonman:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
@@ -30525,7 +30524,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:snackbarStyle
+     * @attr name com.ennbee.moonman:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -30538,7 +30537,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:snackbarTextViewStyle
+     * @attr name com.ennbee.moonman:snackbarTextViewStyle
      */
     public static final int Snackbar_snackbarTextViewStyle=2;
     /**
@@ -30549,14 +30548,14 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_actionTextColorAlpha com.greyluxmobile.invest:actionTextColorAlpha}</code></td><td>Alpha level for the action button text, to allow for adjusting the lightness or darkness of
+     * <tr><td><code>{@link #SnackbarLayout_actionTextColorAlpha com.ennbee.moonman:actionTextColorAlpha}</code></td><td>Alpha level for the action button text, to allow for adjusting the lightness or darkness of
      * the theme color used for Snackbar text buttons (e.g., colorPrimary).</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_animationMode com.greyluxmobile.invest:animationMode}</code></td><td>Sets the enter and exit animations for a Snackbar.</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_backgroundOverlayColorAlpha com.greyluxmobile.invest:backgroundOverlayColorAlpha}</code></td><td>Alpha level for the color that is overlaid on top of the background color.</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_backgroundTint com.greyluxmobile.invest:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_backgroundTintMode com.greyluxmobile.invest:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.greyluxmobile.invest:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.greyluxmobile.invest:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_animationMode com.ennbee.moonman:animationMode}</code></td><td>Sets the enter and exit animations for a Snackbar.</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_backgroundOverlayColorAlpha com.ennbee.moonman:backgroundOverlayColorAlpha}</code></td><td>Alpha level for the color that is overlaid on top of the background color.</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_backgroundTint com.ennbee.moonman:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_backgroundTintMode com.ennbee.moonman:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.ennbee.moonman:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.ennbee.moonman:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_actionTextColorAlpha
@@ -30592,7 +30591,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:actionTextColorAlpha
+     * @attr name com.ennbee.moonman:actionTextColorAlpha
      */
     public static final int SnackbarLayout_actionTextColorAlpha=1;
     /**
@@ -30610,7 +30609,7 @@ public final class R {
      * <tr><td>slide</td><td>0</td><td>Mode that corresponds to the slide in and out animations.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:animationMode
+     * @attr name com.ennbee.moonman:animationMode
      */
     public static final int SnackbarLayout_animationMode=2;
     /**
@@ -30621,7 +30620,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundOverlayColorAlpha
+     * @attr name com.ennbee.moonman:backgroundOverlayColorAlpha
      */
     public static final int SnackbarLayout_backgroundOverlayColorAlpha=3;
     /**
@@ -30634,7 +30633,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundTint
+     * @attr name com.ennbee.moonman:backgroundTint
      */
     public static final int SnackbarLayout_backgroundTint=4;
     /**
@@ -30661,7 +30660,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:backgroundTintMode
+     * @attr name com.ennbee.moonman:backgroundTintMode
      */
     public static final int SnackbarLayout_backgroundTintMode=5;
     /**
@@ -30675,11 +30674,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:elevation
+     * @attr name com.ennbee.moonman:elevation
      */
     public static final int SnackbarLayout_elevation=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -30688,7 +30687,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:maxActionInlineWidth
+     * @attr name com.ennbee.moonman:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=7;
     /**
@@ -30702,7 +30701,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.greyluxmobile.invest:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme com.ennbee.moonman:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -30791,7 +30790,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:popupTheme
+     * @attr name com.ennbee.moonman:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -30802,7 +30801,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #State_android_id android:id}</code></td><td></td></tr>
-     * <tr><td><code>{@link #State_constraints com.greyluxmobile.invest:constraints}</code></td><td></td></tr>
+     * <tr><td><code>{@link #State_constraints com.ennbee.moonman:constraints}</code></td><td></td></tr>
      * </table>
      * @see #State_android_id
      * @see #State_constraints
@@ -30823,7 +30822,7 @@ public final class R {
      */
     public static final int State_android_id=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#constraints}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#constraints}
      * attribute's value can be found in the {@link #State} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -30831,7 +30830,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:constraints
+     * @attr name com.ennbee.moonman:constraints
      */
     public static final int State_constraints=1;
     /**
@@ -30968,7 +30967,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #StateSet_defaultState com.greyluxmobile.invest:defaultState}</code></td><td></td></tr>
+     * <tr><td><code>{@link #StateSet_defaultState com.ennbee.moonman:defaultState}</code></td><td></td></tr>
      * </table>
      * @see #StateSet_defaultState
      */
@@ -30976,7 +30975,7 @@ public final class R {
       0x7f0300fe
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#defaultState}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#defaultState}
      * attribute's value can be found in the {@link #StateSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -30984,7 +30983,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:defaultState
+     * @attr name com.ennbee.moonman:defaultState
      */
     public static final int StateSet_defaultState=0;
     /**
@@ -30997,17 +30996,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.greyluxmobile.invest:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.greyluxmobile.invest:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.greyluxmobile.invest:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.greyluxmobile.invest:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.greyluxmobile.invest:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.greyluxmobile.invest:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.greyluxmobile.invest:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.greyluxmobile.invest:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.greyluxmobile.invest:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.greyluxmobile.invest:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.greyluxmobile.invest:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.ennbee.moonman:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.ennbee.moonman:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.ennbee.moonman:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.ennbee.moonman:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.ennbee.moonman:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.ennbee.moonman:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.ennbee.moonman:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.ennbee.moonman:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.ennbee.moonman:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.ennbee.moonman:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.ennbee.moonman:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -31073,7 +31072,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:showText
+     * @attr name com.ennbee.moonman:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -31084,7 +31083,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:splitTrack
+     * @attr name com.ennbee.moonman:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -31098,7 +31097,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:switchMinWidth
+     * @attr name com.ennbee.moonman:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -31112,7 +31111,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:switchPadding
+     * @attr name com.ennbee.moonman:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -31125,7 +31124,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:switchTextAppearance
+     * @attr name com.ennbee.moonman:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -31139,7 +31138,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:thumbTextPadding
+     * @attr name com.ennbee.moonman:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -31151,7 +31150,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:thumbTint
+     * @attr name com.ennbee.moonman:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -31178,7 +31177,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:thumbTintMode
+     * @attr name com.ennbee.moonman:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -31191,7 +31190,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:track
+     * @attr name com.ennbee.moonman:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -31203,7 +31202,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:trackTint
+     * @attr name com.ennbee.moonman:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -31230,7 +31229,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:trackTintMode
+     * @attr name com.ennbee.moonman:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -31240,7 +31239,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SwitchMaterial_useMaterialThemeColors com.greyluxmobile.invest:useMaterialThemeColors}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchMaterial_useMaterialThemeColors com.ennbee.moonman:useMaterialThemeColors}</code></td><td></td></tr>
      * </table>
      * @see #SwitchMaterial_useMaterialThemeColors
      */
@@ -31258,7 +31257,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:useMaterialThemeColors
+     * @attr name com.ennbee.moonman:useMaterialThemeColors
      */
     public static final int SwitchMaterial_useMaterialThemeColors=0;
     /**
@@ -31323,35 +31322,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.greyluxmobile.invest:tabBackground}</code></td><td>Reference to a background to be applied to tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.greyluxmobile.invest:tabContentStart}</code></td><td>Position in the Y axis from the starting edge that tabs should be positioned from.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.greyluxmobile.invest:tabGravity}</code></td><td>Gravity constant for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint com.greyluxmobile.invest:tabIconTint}</code></td><td>Tint to apply to tab icons, if present.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.greyluxmobile.invest:tabIconTintMode}</code></td><td>Blending mode to apply to tab icons.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator com.greyluxmobile.invest:tabIndicator}</code></td><td>Reference to a drawable to use as selection indicator for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.greyluxmobile.invest:tabIndicatorAnimationDuration}</code></td><td>Duration in milliseconds for the animation of the selection indicator from one tab item
+     * <tr><td><code>{@link #TabLayout_tabBackground com.ennbee.moonman:tabBackground}</code></td><td>Reference to a background to be applied to tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.ennbee.moonman:tabContentStart}</code></td><td>Position in the Y axis from the starting edge that tabs should be positioned from.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.ennbee.moonman:tabGravity}</code></td><td>Gravity constant for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint com.ennbee.moonman:tabIconTint}</code></td><td>Tint to apply to tab icons, if present.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.ennbee.moonman:tabIconTintMode}</code></td><td>Blending mode to apply to tab icons.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator com.ennbee.moonman:tabIndicator}</code></td><td>Reference to a drawable to use as selection indicator for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.ennbee.moonman:tabIndicatorAnimationDuration}</code></td><td>Duration in milliseconds for the animation of the selection indicator from one tab item
      * to another.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.greyluxmobile.invest:tabIndicatorColor}</code></td><td>Color of the indicator used to show the currently selected tab.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.greyluxmobile.invest:tabIndicatorFullWidth}</code></td><td>Whether the selection indicator width should fill the full width of the tab item,
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.ennbee.moonman:tabIndicatorColor}</code></td><td>Color of the indicator used to show the currently selected tab.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.ennbee.moonman:tabIndicatorFullWidth}</code></td><td>Whether the selection indicator width should fill the full width of the tab item,
      * or if it should be fitted to the content of the tab text label.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.greyluxmobile.invest:tabIndicatorGravity}</code></td><td>Gravity constant for tab selection indicator.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.greyluxmobile.invest:tabIndicatorHeight}</code></td><td>{@deprecated Instead, set the intrinsic size of the custom drawable provided to the
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.ennbee.moonman:tabIndicatorGravity}</code></td><td>Gravity constant for tab selection indicator.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.ennbee.moonman:tabIndicatorHeight}</code></td><td>{@deprecated Instead, set the intrinsic size of the custom drawable provided to the
      * tabIndicator attribute in order to change the indicator height.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.greyluxmobile.invest:tabInlineLabel}</code></td><td>Whether to display tab labels horizontally inline with icons, or underneath icons.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.greyluxmobile.invest:tabMaxWidth}</code></td><td>The maximum width for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.greyluxmobile.invest:tabMinWidth}</code></td><td>The minimum width for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.greyluxmobile.invest:tabMode}</code></td><td>The behavior mode for the Tabs in this layout</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.greyluxmobile.invest:tabPadding}</code></td><td>The preferred padding along all edges of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.greyluxmobile.invest:tabPaddingBottom}</code></td><td>The preferred padding along the bottom edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.greyluxmobile.invest:tabPaddingEnd}</code></td><td>The preferred padding along the end edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.greyluxmobile.invest:tabPaddingStart}</code></td><td>The preferred padding along the start edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.greyluxmobile.invest:tabPaddingTop}</code></td><td>The preferred padding along the top edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor com.greyluxmobile.invest:tabRippleColor}</code></td><td>Ripple color for the tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.greyluxmobile.invest:tabSelectedTextColor}</code></td><td>{@deprecated Instead, provide a ColorStateList to the tabTextColor attribute with a
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.ennbee.moonman:tabInlineLabel}</code></td><td>Whether to display tab labels horizontally inline with icons, or underneath icons.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.ennbee.moonman:tabMaxWidth}</code></td><td>The maximum width for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.ennbee.moonman:tabMinWidth}</code></td><td>The minimum width for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.ennbee.moonman:tabMode}</code></td><td>The behavior mode for the Tabs in this layout</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.ennbee.moonman:tabPadding}</code></td><td>The preferred padding along all edges of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.ennbee.moonman:tabPaddingBottom}</code></td><td>The preferred padding along the bottom edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.ennbee.moonman:tabPaddingEnd}</code></td><td>The preferred padding along the end edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.ennbee.moonman:tabPaddingStart}</code></td><td>The preferred padding along the start edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.ennbee.moonman:tabPaddingTop}</code></td><td>The preferred padding along the top edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor com.ennbee.moonman:tabRippleColor}</code></td><td>Ripple color for the tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.ennbee.moonman:tabSelectedTextColor}</code></td><td>{@deprecated Instead, provide a ColorStateList to the tabTextColor attribute with a
      * selected color set.}</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.greyluxmobile.invest:tabTextAppearance}</code></td><td>A reference to a TextAppearance style to be applied to tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.greyluxmobile.invest:tabTextColor}</code></td><td>The default text color to be applied to tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.greyluxmobile.invest:tabUnboundedRipple}</code></td><td>Whether to use unbounded ripple effect for tabs, or if ripple should instead be bound to
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.ennbee.moonman:tabTextAppearance}</code></td><td>A reference to a TextAppearance style to be applied to tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.ennbee.moonman:tabTextColor}</code></td><td>The default text color to be applied to tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.ennbee.moonman:tabUnboundedRipple}</code></td><td>Whether to use unbounded ripple effect for tabs, or if ripple should instead be bound to
      * tab item bounds.</td></tr>
      * </table>
      * @see #TabLayout_tabBackground
@@ -31400,7 +31399,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tabBackground
+     * @attr name com.ennbee.moonman:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
@@ -31414,7 +31413,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:tabContentStart
+     * @attr name com.ennbee.moonman:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
@@ -31433,7 +31432,7 @@ public final class R {
      * <tr><td>start</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:tabGravity
+     * @attr name com.ennbee.moonman:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
@@ -31445,7 +31444,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tabIconTint
+     * @attr name com.ennbee.moonman:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
@@ -31467,7 +31466,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:tabIconTintMode
+     * @attr name com.ennbee.moonman:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
@@ -31481,7 +31480,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tabIndicator
+     * @attr name com.ennbee.moonman:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
@@ -31492,7 +31491,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:tabIndicatorAnimationDuration
+     * @attr name com.ennbee.moonman:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
@@ -31504,7 +31503,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tabIndicatorColor
+     * @attr name com.ennbee.moonman:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
@@ -31517,7 +31516,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:tabIndicatorFullWidth
+     * @attr name com.ennbee.moonman:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
@@ -31537,7 +31536,7 @@ public final class R {
      * <tr><td>top</td><td>2</td><td>Align indicator to the top of this tab layout.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:tabIndicatorGravity
+     * @attr name com.ennbee.moonman:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
@@ -31553,7 +31552,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:tabIndicatorHeight
+     * @attr name com.ennbee.moonman:tabIndicatorHeight
      */
     @Deprecated
     public static final int TabLayout_tabIndicatorHeight=10;
@@ -31565,7 +31564,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:tabInlineLabel
+     * @attr name com.ennbee.moonman:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
@@ -31579,7 +31578,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:tabMaxWidth
+     * @attr name com.ennbee.moonman:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
@@ -31593,7 +31592,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:tabMinWidth
+     * @attr name com.ennbee.moonman:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
@@ -31612,7 +31611,7 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:tabMode
+     * @attr name com.ennbee.moonman:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
@@ -31626,7 +31625,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:tabPadding
+     * @attr name com.ennbee.moonman:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
@@ -31640,7 +31639,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:tabPaddingBottom
+     * @attr name com.ennbee.moonman:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
@@ -31654,7 +31653,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:tabPaddingEnd
+     * @attr name com.ennbee.moonman:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
@@ -31668,7 +31667,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:tabPaddingStart
+     * @attr name com.ennbee.moonman:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
@@ -31682,7 +31681,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:tabPaddingTop
+     * @attr name com.ennbee.moonman:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
@@ -31695,7 +31694,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tabRippleColor
+     * @attr name com.ennbee.moonman:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
@@ -31708,7 +31707,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tabSelectedTextColor
+     * @attr name com.ennbee.moonman:tabSelectedTextColor
      */
     @Deprecated
     public static final int TabLayout_tabSelectedTextColor=21;
@@ -31722,7 +31721,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tabTextAppearance
+     * @attr name com.ennbee.moonman:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
@@ -31734,7 +31733,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:tabTextColor
+     * @attr name com.ennbee.moonman:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
@@ -31746,7 +31745,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:tabUnboundedRipple
+     * @attr name com.ennbee.moonman:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -31768,10 +31767,10 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_textFontWeight android:textFontWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.greyluxmobile.invest:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.greyluxmobile.invest:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.greyluxmobile.invest:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textLocale com.greyluxmobile.invest:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.ennbee.moonman:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.ennbee.moonman:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.ennbee.moonman:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textLocale com.ennbee.moonman:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
@@ -31957,7 +31956,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:fontFamily
+     * @attr name com.ennbee.moonman:fontFamily
      */
     public static final int TextAppearance_fontFamily=12;
     /**
@@ -31968,7 +31967,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:fontVariationSettings
+     * @attr name com.ennbee.moonman:fontVariationSettings
      */
     public static final int TextAppearance_fontVariationSettings=13;
     /**
@@ -31983,7 +31982,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:textAllCaps
+     * @attr name com.ennbee.moonman:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=14;
     /**
@@ -31998,7 +31997,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:textLocale
+     * @attr name com.ennbee.moonman:textLocale
      */
     public static final int TextAppearance_textLocale=15;
     /**
@@ -32008,7 +32007,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TextInputEditText_textInputLayoutFocusedRectEnabled com.greyluxmobile.invest:textInputLayoutFocusedRectEnabled}</code></td><td>Whether the TextInputEditText should use the TextInputLayout's focused
+     * <tr><td><code>{@link #TextInputEditText_textInputLayoutFocusedRectEnabled com.ennbee.moonman:textInputLayoutFocusedRectEnabled}</code></td><td>Whether the TextInputEditText should use the TextInputLayout's focused
      * rectangle instead of its own.</td></tr>
      * </table>
      * @see #TextInputEditText_textInputLayoutFocusedRectEnabled
@@ -32025,7 +32024,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:textInputLayoutFocusedRectEnabled
+     * @attr name com.ennbee.moonman:textInputLayoutFocusedRectEnabled
      */
     public static final int TextInputEditText_textInputLayoutFocusedRectEnabled=0;
     /**
@@ -32038,69 +32037,69 @@ public final class R {
      * <tr><td><code>{@link #TextInputLayout_android_enabled android:enabled}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.greyluxmobile.invest:boxBackgroundColor}</code></td><td>The color to use for the box's background color when in filled box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.greyluxmobile.invest:boxBackgroundMode}</code></td><td>Whether the text input area should be drawn as a filled box, an outline box, or not as a box.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.greyluxmobile.invest:boxCollapsedPaddingTop}</code></td><td>Value to use for the EditText's collapsed top padding in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.greyluxmobile.invest:boxCornerRadiusBottomEnd}</code></td><td>The value to use for the box's bottom end corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.greyluxmobile.invest:boxCornerRadiusBottomStart}</code></td><td>The value to use for the box's bottom start corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.greyluxmobile.invest:boxCornerRadiusTopEnd}</code></td><td>The value to use for the box's top end corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.greyluxmobile.invest:boxCornerRadiusTopStart}</code></td><td>The value to use for the box's top start corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.greyluxmobile.invest:boxStrokeColor}</code></td><td>The color to use for the box's stroke when in outline box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeErrorColor com.greyluxmobile.invest:boxStrokeErrorColor}</code></td><td>The color to use for the box's stroke in outline box mode when an error
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.ennbee.moonman:boxBackgroundColor}</code></td><td>The color to use for the box's background color when in filled box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.ennbee.moonman:boxBackgroundMode}</code></td><td>Whether the text input area should be drawn as a filled box, an outline box, or not as a box.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.ennbee.moonman:boxCollapsedPaddingTop}</code></td><td>Value to use for the EditText's collapsed top padding in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.ennbee.moonman:boxCornerRadiusBottomEnd}</code></td><td>The value to use for the box's bottom end corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.ennbee.moonman:boxCornerRadiusBottomStart}</code></td><td>The value to use for the box's bottom start corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.ennbee.moonman:boxCornerRadiusTopEnd}</code></td><td>The value to use for the box's top end corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.ennbee.moonman:boxCornerRadiusTopStart}</code></td><td>The value to use for the box's top start corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.ennbee.moonman:boxStrokeColor}</code></td><td>The color to use for the box's stroke when in outline box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeErrorColor com.ennbee.moonman:boxStrokeErrorColor}</code></td><td>The color to use for the box's stroke in outline box mode when an error
      * is being displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.greyluxmobile.invest:boxStrokeWidth}</code></td><td>The value to use for the box's stroke when in outline box mode, or for the underline stroke
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.ennbee.moonman:boxStrokeWidth}</code></td><td>The value to use for the box's stroke when in outline box mode, or for the underline stroke
      * in filled mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidthFocused com.greyluxmobile.invest:boxStrokeWidthFocused}</code></td><td>The value to use for the focused box's stroke when in outline box mode, or for the focused
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidthFocused com.ennbee.moonman:boxStrokeWidthFocused}</code></td><td>The value to use for the focused box's stroke when in outline box mode, or for the focused
      * underline stroke in filled mode..</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.greyluxmobile.invest:counterEnabled}</code></td><td>Whether the layout is laid out as if the character counter will be displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.greyluxmobile.invest:counterMaxLength}</code></td><td>The max length to display in the character counter.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.greyluxmobile.invest:counterOverflowTextAppearance}</code></td><td>TextAppearance of the character counter when the text is longer than the max.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextColor com.greyluxmobile.invest:counterOverflowTextColor}</code></td><td>Text color of the character counter when the text is longer than the max.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.greyluxmobile.invest:counterTextAppearance}</code></td><td>TextAppearance of the character counter.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextColor com.greyluxmobile.invest:counterTextColor}</code></td><td>Text color of the character counter.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconCheckable com.greyluxmobile.invest:endIconCheckable}</code></td><td>Whether the end icon is checkable.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconContentDescription com.greyluxmobile.invest:endIconContentDescription}</code></td><td>Text to set as the content description for the end icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconDrawable com.greyluxmobile.invest:endIconDrawable}</code></td><td>Drawable to use for the end icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconMode com.greyluxmobile.invest:endIconMode}</code></td><td>The end icon mode of the TextInputLayout.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconTint com.greyluxmobile.invest:endIconTint}</code></td><td>Tint color to use for the end icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconTintMode com.greyluxmobile.invest:endIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorContentDescription com.greyluxmobile.invest:errorContentDescription}</code></td><td>Text to set as the content description for the error view.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.greyluxmobile.invest:errorEnabled}</code></td><td>Whether the layout is laid out as if an error will be displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorIconDrawable com.greyluxmobile.invest:errorIconDrawable}</code></td><td>End icon to be shown when an error is displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorIconTint com.greyluxmobile.invest:errorIconTint}</code></td><td>Tint color to use for the error icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorIconTintMode com.greyluxmobile.invest:errorIconTintMode}</code></td><td>Blending mode used to apply the error icon tint.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.greyluxmobile.invest:errorTextAppearance}</code></td><td>TextAppearance of any error message displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextColor com.greyluxmobile.invest:errorTextColor}</code></td><td>Text color for any error message displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText com.greyluxmobile.invest:helperText}</code></td><td>The text to display as helper text underneath the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.greyluxmobile.invest:helperTextEnabled}</code></td><td>Whether the layout's helper text functionality is enabled.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.greyluxmobile.invest:helperTextTextAppearance}</code></td><td>TextAppearance of the helper text displayed underneath the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextColor com.greyluxmobile.invest:helperTextTextColor}</code></td><td>Text color of the helper text displayed underneath the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.greyluxmobile.invest:hintAnimationEnabled}</code></td><td>Whether to animate hint state changes.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.greyluxmobile.invest:hintEnabled}</code></td><td>Whether the layout's floating label functionality is enabled.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.greyluxmobile.invest:hintTextAppearance}</code></td><td>TextAppearance of the hint in the collapsed floating label.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextColor com.greyluxmobile.invest:hintTextColor}</code></td><td>Text color of the hint in the collapsed floating label.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.greyluxmobile.invest:passwordToggleContentDescription}</code></td><td>Text to set as the content description for the password input visibility toggle.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.greyluxmobile.invest:passwordToggleDrawable}</code></td><td>Drawable to use as the password input visibility toggle icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.greyluxmobile.invest:passwordToggleEnabled}</code></td><td>Whether the view will display a toggle when the EditText has a password.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.greyluxmobile.invest:passwordToggleTint}</code></td><td>Icon to use for the password input visibility toggle
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.ennbee.moonman:counterEnabled}</code></td><td>Whether the layout is laid out as if the character counter will be displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.ennbee.moonman:counterMaxLength}</code></td><td>The max length to display in the character counter.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.ennbee.moonman:counterOverflowTextAppearance}</code></td><td>TextAppearance of the character counter when the text is longer than the max.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextColor com.ennbee.moonman:counterOverflowTextColor}</code></td><td>Text color of the character counter when the text is longer than the max.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.ennbee.moonman:counterTextAppearance}</code></td><td>TextAppearance of the character counter.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextColor com.ennbee.moonman:counterTextColor}</code></td><td>Text color of the character counter.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconCheckable com.ennbee.moonman:endIconCheckable}</code></td><td>Whether the end icon is checkable.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconContentDescription com.ennbee.moonman:endIconContentDescription}</code></td><td>Text to set as the content description for the end icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconDrawable com.ennbee.moonman:endIconDrawable}</code></td><td>Drawable to use for the end icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconMode com.ennbee.moonman:endIconMode}</code></td><td>The end icon mode of the TextInputLayout.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconTint com.ennbee.moonman:endIconTint}</code></td><td>Tint color to use for the end icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconTintMode com.ennbee.moonman:endIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorContentDescription com.ennbee.moonman:errorContentDescription}</code></td><td>Text to set as the content description for the error view.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.ennbee.moonman:errorEnabled}</code></td><td>Whether the layout is laid out as if an error will be displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorIconDrawable com.ennbee.moonman:errorIconDrawable}</code></td><td>End icon to be shown when an error is displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorIconTint com.ennbee.moonman:errorIconTint}</code></td><td>Tint color to use for the error icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorIconTintMode com.ennbee.moonman:errorIconTintMode}</code></td><td>Blending mode used to apply the error icon tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.ennbee.moonman:errorTextAppearance}</code></td><td>TextAppearance of any error message displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextColor com.ennbee.moonman:errorTextColor}</code></td><td>Text color for any error message displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText com.ennbee.moonman:helperText}</code></td><td>The text to display as helper text underneath the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.ennbee.moonman:helperTextEnabled}</code></td><td>Whether the layout's helper text functionality is enabled.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.ennbee.moonman:helperTextTextAppearance}</code></td><td>TextAppearance of the helper text displayed underneath the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextColor com.ennbee.moonman:helperTextTextColor}</code></td><td>Text color of the helper text displayed underneath the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.ennbee.moonman:hintAnimationEnabled}</code></td><td>Whether to animate hint state changes.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.ennbee.moonman:hintEnabled}</code></td><td>Whether the layout's floating label functionality is enabled.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.ennbee.moonman:hintTextAppearance}</code></td><td>TextAppearance of the hint in the collapsed floating label.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextColor com.ennbee.moonman:hintTextColor}</code></td><td>Text color of the hint in the collapsed floating label.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.ennbee.moonman:passwordToggleContentDescription}</code></td><td>Text to set as the content description for the password input visibility toggle.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.ennbee.moonman:passwordToggleDrawable}</code></td><td>Drawable to use as the password input visibility toggle icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.ennbee.moonman:passwordToggleEnabled}</code></td><td>Whether the view will display a toggle when the EditText has a password.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.ennbee.moonman:passwordToggleTint}</code></td><td>Icon to use for the password input visibility toggle
      * Deprecated.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.greyluxmobile.invest:passwordToggleTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_placeholderText com.greyluxmobile.invest:placeholderText}</code></td><td>The text to display as placeholder text in the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_placeholderTextAppearance com.greyluxmobile.invest:placeholderTextAppearance}</code></td><td>TextAppearance of the placeholder text displayed in the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_placeholderTextColor com.greyluxmobile.invest:placeholderTextColor}</code></td><td>Text color of the placeholder text displayed in the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_prefixText com.greyluxmobile.invest:prefixText}</code></td><td>The text to display as prefix text in the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_prefixTextAppearance com.greyluxmobile.invest:prefixTextAppearance}</code></td><td>TextAppearance of the prefix text displayed in the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_prefixTextColor com.greyluxmobile.invest:prefixTextColor}</code></td><td>Text color of the prefix text displayed in the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_shapeAppearance com.greyluxmobile.invest:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_shapeAppearanceOverlay com.greyluxmobile.invest:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconCheckable com.greyluxmobile.invest:startIconCheckable}</code></td><td>Whether the start icon is checkable.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconContentDescription com.greyluxmobile.invest:startIconContentDescription}</code></td><td>Text to set as the content description for the start icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconDrawable com.greyluxmobile.invest:startIconDrawable}</code></td><td>Drawable to use for the start icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconTint com.greyluxmobile.invest:startIconTint}</code></td><td>Tint color to use for the start icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconTintMode com.greyluxmobile.invest:startIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_suffixText com.greyluxmobile.invest:suffixText}</code></td><td>The text to display as suffix text in the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_suffixTextAppearance com.greyluxmobile.invest:suffixTextAppearance}</code></td><td>TextAppearance of the suffix text displayed in the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_suffixTextColor com.greyluxmobile.invest:suffixTextColor}</code></td><td>Text color of the suffix text displayed in the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.ennbee.moonman:passwordToggleTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_placeholderText com.ennbee.moonman:placeholderText}</code></td><td>The text to display as placeholder text in the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_placeholderTextAppearance com.ennbee.moonman:placeholderTextAppearance}</code></td><td>TextAppearance of the placeholder text displayed in the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_placeholderTextColor com.ennbee.moonman:placeholderTextColor}</code></td><td>Text color of the placeholder text displayed in the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_prefixText com.ennbee.moonman:prefixText}</code></td><td>The text to display as prefix text in the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_prefixTextAppearance com.ennbee.moonman:prefixTextAppearance}</code></td><td>TextAppearance of the prefix text displayed in the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_prefixTextColor com.ennbee.moonman:prefixTextColor}</code></td><td>Text color of the prefix text displayed in the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_shapeAppearance com.ennbee.moonman:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_shapeAppearanceOverlay com.ennbee.moonman:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconCheckable com.ennbee.moonman:startIconCheckable}</code></td><td>Whether the start icon is checkable.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconContentDescription com.ennbee.moonman:startIconContentDescription}</code></td><td>Text to set as the content description for the start icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconDrawable com.ennbee.moonman:startIconDrawable}</code></td><td>Drawable to use for the start icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconTint com.ennbee.moonman:startIconTint}</code></td><td>Tint color to use for the start icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconTintMode com.ennbee.moonman:startIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_suffixText com.ennbee.moonman:suffixText}</code></td><td>The text to display as suffix text in the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_suffixTextAppearance com.ennbee.moonman:suffixTextAppearance}</code></td><td>TextAppearance of the suffix text displayed in the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_suffixTextColor com.ennbee.moonman:suffixTextColor}</code></td><td>Text color of the suffix text displayed in the text input area.</td></tr>
      * </table>
      * @see #TextInputLayout_android_enabled
      * @see #TextInputLayout_android_textColorHint
@@ -32233,7 +32232,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:boxBackgroundColor
+     * @attr name com.ennbee.moonman:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=3;
     /**
@@ -32252,7 +32251,7 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td>Outline box mode for the text input box.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:boxBackgroundMode
+     * @attr name com.ennbee.moonman:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=4;
     /**
@@ -32266,7 +32265,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:boxCollapsedPaddingTop
+     * @attr name com.ennbee.moonman:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=5;
     /**
@@ -32280,7 +32279,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:boxCornerRadiusBottomEnd
+     * @attr name com.ennbee.moonman:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=6;
     /**
@@ -32294,7 +32293,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:boxCornerRadiusBottomStart
+     * @attr name com.ennbee.moonman:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=7;
     /**
@@ -32308,7 +32307,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:boxCornerRadiusTopEnd
+     * @attr name com.ennbee.moonman:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=8;
     /**
@@ -32322,7 +32321,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:boxCornerRadiusTopStart
+     * @attr name com.ennbee.moonman:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=9;
     /**
@@ -32334,7 +32333,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:boxStrokeColor
+     * @attr name com.ennbee.moonman:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=10;
     /**
@@ -32348,7 +32347,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:boxStrokeErrorColor
+     * @attr name com.ennbee.moonman:boxStrokeErrorColor
      */
     public static final int TextInputLayout_boxStrokeErrorColor=11;
     /**
@@ -32363,7 +32362,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:boxStrokeWidth
+     * @attr name com.ennbee.moonman:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=12;
     /**
@@ -32378,7 +32377,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:boxStrokeWidthFocused
+     * @attr name com.ennbee.moonman:boxStrokeWidthFocused
      */
     public static final int TextInputLayout_boxStrokeWidthFocused=13;
     /**
@@ -32389,7 +32388,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:counterEnabled
+     * @attr name com.ennbee.moonman:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=14;
     /**
@@ -32399,7 +32398,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:counterMaxLength
+     * @attr name com.ennbee.moonman:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=15;
     /**
@@ -32412,7 +32411,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:counterOverflowTextAppearance
+     * @attr name com.ennbee.moonman:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=16;
     /**
@@ -32426,7 +32425,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:counterOverflowTextColor
+     * @attr name com.ennbee.moonman:counterOverflowTextColor
      */
     public static final int TextInputLayout_counterOverflowTextColor=17;
     /**
@@ -32439,7 +32438,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:counterTextAppearance
+     * @attr name com.ennbee.moonman:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=18;
     /**
@@ -32453,7 +32452,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:counterTextColor
+     * @attr name com.ennbee.moonman:counterTextColor
      */
     public static final int TextInputLayout_counterTextColor=19;
     /**
@@ -32464,7 +32463,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:endIconCheckable
+     * @attr name com.ennbee.moonman:endIconCheckable
      */
     public static final int TextInputLayout_endIconCheckable=20;
     /**
@@ -32475,7 +32474,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:endIconContentDescription
+     * @attr name com.ennbee.moonman:endIconContentDescription
      */
     public static final int TextInputLayout_endIconContentDescription=21;
     /**
@@ -32488,7 +32487,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:endIconDrawable
+     * @attr name com.ennbee.moonman:endIconDrawable
      */
     public static final int TextInputLayout_endIconDrawable=22;
     /**
@@ -32510,7 +32509,7 @@ public final class R {
      * <tr><td>password_toggle</td><td>1</td><td>The view will display a toggle when the EditText has a password.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:endIconMode
+     * @attr name com.ennbee.moonman:endIconMode
      */
     public static final int TextInputLayout_endIconMode=23;
     /**
@@ -32522,7 +32521,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:endIconTint
+     * @attr name com.ennbee.moonman:endIconTint
      */
     public static final int TextInputLayout_endIconTint=24;
     /**
@@ -32547,7 +32546,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:endIconTintMode
+     * @attr name com.ennbee.moonman:endIconTintMode
      */
     public static final int TextInputLayout_endIconTintMode=25;
     /**
@@ -32560,7 +32559,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:errorContentDescription
+     * @attr name com.ennbee.moonman:errorContentDescription
      */
     public static final int TextInputLayout_errorContentDescription=26;
     /**
@@ -32571,7 +32570,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:errorEnabled
+     * @attr name com.ennbee.moonman:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=27;
     /**
@@ -32584,7 +32583,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:errorIconDrawable
+     * @attr name com.ennbee.moonman:errorIconDrawable
      */
     public static final int TextInputLayout_errorIconDrawable=28;
     /**
@@ -32597,7 +32596,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:errorIconTint
+     * @attr name com.ennbee.moonman:errorIconTint
      */
     public static final int TextInputLayout_errorIconTint=29;
     /**
@@ -32622,7 +32621,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:errorIconTintMode
+     * @attr name com.ennbee.moonman:errorIconTintMode
      */
     public static final int TextInputLayout_errorIconTintMode=30;
     /**
@@ -32635,7 +32634,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:errorTextAppearance
+     * @attr name com.ennbee.moonman:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=31;
     /**
@@ -32648,7 +32647,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:errorTextColor
+     * @attr name com.ennbee.moonman:errorTextColor
      */
     public static final int TextInputLayout_errorTextColor=32;
     /**
@@ -32659,7 +32658,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:helperText
+     * @attr name com.ennbee.moonman:helperText
      */
     public static final int TextInputLayout_helperText=33;
     /**
@@ -32670,7 +32669,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:helperTextEnabled
+     * @attr name com.ennbee.moonman:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=34;
     /**
@@ -32683,7 +32682,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:helperTextTextAppearance
+     * @attr name com.ennbee.moonman:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=35;
     /**
@@ -32696,7 +32695,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:helperTextTextColor
+     * @attr name com.ennbee.moonman:helperTextTextColor
      */
     public static final int TextInputLayout_helperTextTextColor=36;
     /**
@@ -32707,7 +32706,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:hintAnimationEnabled
+     * @attr name com.ennbee.moonman:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=37;
     /**
@@ -32718,7 +32717,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:hintEnabled
+     * @attr name com.ennbee.moonman:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=38;
     /**
@@ -32731,7 +32730,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:hintTextAppearance
+     * @attr name com.ennbee.moonman:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=39;
     /**
@@ -32744,7 +32743,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:hintTextColor
+     * @attr name com.ennbee.moonman:hintTextColor
      */
     public static final int TextInputLayout_hintTextColor=40;
     /**
@@ -32756,7 +32755,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:passwordToggleContentDescription
+     * @attr name com.ennbee.moonman:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=41;
     /**
@@ -32770,7 +32769,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:passwordToggleDrawable
+     * @attr name com.ennbee.moonman:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=42;
     /**
@@ -32782,7 +32781,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:passwordToggleEnabled
+     * @attr name com.ennbee.moonman:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=43;
     /**
@@ -32795,7 +32794,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:passwordToggleTint
+     * @attr name com.ennbee.moonman:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=44;
     /**
@@ -32821,7 +32820,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:passwordToggleTintMode
+     * @attr name com.ennbee.moonman:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=45;
     /**
@@ -32832,7 +32831,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:placeholderText
+     * @attr name com.ennbee.moonman:placeholderText
      */
     public static final int TextInputLayout_placeholderText=46;
     /**
@@ -32845,7 +32844,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:placeholderTextAppearance
+     * @attr name com.ennbee.moonman:placeholderTextAppearance
      */
     public static final int TextInputLayout_placeholderTextAppearance=47;
     /**
@@ -32858,7 +32857,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:placeholderTextColor
+     * @attr name com.ennbee.moonman:placeholderTextColor
      */
     public static final int TextInputLayout_placeholderTextColor=48;
     /**
@@ -32869,7 +32868,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:prefixText
+     * @attr name com.ennbee.moonman:prefixText
      */
     public static final int TextInputLayout_prefixText=49;
     /**
@@ -32882,7 +32881,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:prefixTextAppearance
+     * @attr name com.ennbee.moonman:prefixTextAppearance
      */
     public static final int TextInputLayout_prefixTextAppearance=50;
     /**
@@ -32895,7 +32894,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:prefixTextColor
+     * @attr name com.ennbee.moonman:prefixTextColor
      */
     public static final int TextInputLayout_prefixTextColor=51;
     /**
@@ -32909,7 +32908,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearance
+     * @attr name com.ennbee.moonman:shapeAppearance
      */
     public static final int TextInputLayout_shapeAppearance=52;
     /**
@@ -32924,7 +32923,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:shapeAppearanceOverlay
+     * @attr name com.ennbee.moonman:shapeAppearanceOverlay
      */
     public static final int TextInputLayout_shapeAppearanceOverlay=53;
     /**
@@ -32935,7 +32934,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:startIconCheckable
+     * @attr name com.ennbee.moonman:startIconCheckable
      */
     public static final int TextInputLayout_startIconCheckable=54;
     /**
@@ -32946,7 +32945,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:startIconContentDescription
+     * @attr name com.ennbee.moonman:startIconContentDescription
      */
     public static final int TextInputLayout_startIconContentDescription=55;
     /**
@@ -32959,7 +32958,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:startIconDrawable
+     * @attr name com.ennbee.moonman:startIconDrawable
      */
     public static final int TextInputLayout_startIconDrawable=56;
     /**
@@ -32971,7 +32970,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:startIconTint
+     * @attr name com.ennbee.moonman:startIconTint
      */
     public static final int TextInputLayout_startIconTint=57;
     /**
@@ -32996,7 +32995,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:startIconTintMode
+     * @attr name com.ennbee.moonman:startIconTintMode
      */
     public static final int TextInputLayout_startIconTintMode=58;
     /**
@@ -33007,7 +33006,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:suffixText
+     * @attr name com.ennbee.moonman:suffixText
      */
     public static final int TextInputLayout_suffixText=59;
     /**
@@ -33020,7 +33019,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:suffixTextAppearance
+     * @attr name com.ennbee.moonman:suffixTextAppearance
      */
     public static final int TextInputLayout_suffixTextAppearance=60;
     /**
@@ -33033,7 +33032,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:suffixTextColor
+     * @attr name com.ennbee.moonman:suffixTextColor
      */
     public static final int TextInputLayout_suffixTextColor=61;
     /**
@@ -33044,10 +33043,10 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.greyluxmobile.invest:enforceMaterialTheme}</code></td><td>Internal flag used to denote that a style uses new attributes defined by
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.ennbee.moonman:enforceMaterialTheme}</code></td><td>Internal flag used to denote that a style uses new attributes defined by
      * Theme.MaterialComponents, and that the component should check via ThemeEnforcement that the
      * client's app theme inherits from Theme.MaterialComponents.</td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.greyluxmobile.invest:enforceTextAppearance}</code></td><td>Internal flag used to denote that a style requires that the textAppearance attribute is
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.ennbee.moonman:enforceTextAppearance}</code></td><td>Internal flag used to denote that a style requires that the textAppearance attribute is
      * specified and evaluates to a valid text appearance.</td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
@@ -33084,7 +33083,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:enforceMaterialTheme
+     * @attr name com.ennbee.moonman:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
@@ -33096,7 +33095,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:enforceTextAppearance
+     * @attr name com.ennbee.moonman:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -33108,41 +33107,41 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.greyluxmobile.invest:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.greyluxmobile.invest:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.greyluxmobile.invest:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.greyluxmobile.invest:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.greyluxmobile.invest:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.ennbee.moonman:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.ennbee.moonman:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.ennbee.moonman:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.ennbee.moonman:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.ennbee.moonman:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.greyluxmobile.invest:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.greyluxmobile.invest:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.greyluxmobile.invest:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.greyluxmobile.invest:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.ennbee.moonman:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.ennbee.moonman:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.ennbee.moonman:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.ennbee.moonman:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.greyluxmobile.invest:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.greyluxmobile.invest:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo com.ennbee.moonman:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.ennbee.moonman:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.greyluxmobile.invest:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_menu com.greyluxmobile.invest:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.greyluxmobile.invest:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.ennbee.moonman:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_menu com.ennbee.moonman:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.ennbee.moonman:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.greyluxmobile.invest:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.ennbee.moonman:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.greyluxmobile.invest:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme com.ennbee.moonman:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.greyluxmobile.invest:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.greyluxmobile.invest:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.greyluxmobile.invest:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.greyluxmobile.invest:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.greyluxmobile.invest:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle com.ennbee.moonman:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.ennbee.moonman:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.ennbee.moonman:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.ennbee.moonman:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.ennbee.moonman:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.greyluxmobile.invest:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.greyluxmobile.invest:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.greyluxmobile.invest:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.greyluxmobile.invest:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.greyluxmobile.invest:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.greyluxmobile.invest:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.greyluxmobile.invest:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.ennbee.moonman:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.ennbee.moonman:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.ennbee.moonman:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.ennbee.moonman:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.ennbee.moonman:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.ennbee.moonman:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.ennbee.moonman:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -33229,7 +33228,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -33243,7 +33242,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:buttonGravity
+     * @attr name com.ennbee.moonman:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -33254,7 +33253,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:collapseContentDescription
+     * @attr name com.ennbee.moonman:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -33267,7 +33266,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:collapseIcon
+     * @attr name com.ennbee.moonman:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -33282,7 +33281,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetEnd
+     * @attr name com.ennbee.moonman:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -33297,7 +33296,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetEndWithActions
+     * @attr name com.ennbee.moonman:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -33312,7 +33311,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetLeft
+     * @attr name com.ennbee.moonman:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -33327,7 +33326,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetRight
+     * @attr name com.ennbee.moonman:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -33342,7 +33341,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetStart
+     * @attr name com.ennbee.moonman:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -33357,7 +33356,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:contentInsetStartWithNavigation
+     * @attr name com.ennbee.moonman:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -33371,7 +33370,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:logo
+     * @attr name com.ennbee.moonman:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -33383,11 +33382,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:logoDescription
+     * @attr name com.ennbee.moonman:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -33396,7 +33395,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:maxButtonHeight
+     * @attr name com.ennbee.moonman:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -33409,7 +33408,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:menu
+     * @attr name com.ennbee.moonman:menu
      */
     public static final int Toolbar_menu=14;
     /**
@@ -33421,7 +33420,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:navigationContentDescription
+     * @attr name com.ennbee.moonman:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=15;
     /**
@@ -33435,7 +33434,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:navigationIcon
+     * @attr name com.ennbee.moonman:navigationIcon
      */
     public static final int Toolbar_navigationIcon=16;
     /**
@@ -33449,7 +33448,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:popupTheme
+     * @attr name com.ennbee.moonman:popupTheme
      */
     public static final int Toolbar_popupTheme=17;
     /**
@@ -33460,11 +33459,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:subtitle
+     * @attr name com.ennbee.moonman:subtitle
      */
     public static final int Toolbar_subtitle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -33472,7 +33471,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:subtitleTextAppearance
+     * @attr name com.ennbee.moonman:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=19;
     /**
@@ -33484,17 +33483,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:subtitleTextColor
+     * @attr name com.ennbee.moonman:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.greyluxmobile.invest:title
+     * @attr name com.ennbee.moonman:title
      */
     public static final int Toolbar_title=21;
     /**
@@ -33509,7 +33508,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:titleMargin
+     * @attr name com.ennbee.moonman:titleMargin
      */
     public static final int Toolbar_titleMargin=22;
     /**
@@ -33525,7 +33524,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:titleMarginBottom
+     * @attr name com.ennbee.moonman:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=23;
     /**
@@ -33541,7 +33540,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:titleMarginEnd
+     * @attr name com.ennbee.moonman:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=24;
     /**
@@ -33557,7 +33556,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:titleMarginStart
+     * @attr name com.ennbee.moonman:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=25;
     /**
@@ -33573,7 +33572,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:titleMarginTop
+     * @attr name com.ennbee.moonman:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=26;
     /**
@@ -33587,12 +33586,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:titleMargins
+     * @attr name com.ennbee.moonman:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=27;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -33600,7 +33599,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:titleTextAppearance
+     * @attr name com.ennbee.moonman:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=28;
     /**
@@ -33612,7 +33611,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:titleTextColor
+     * @attr name com.ennbee.moonman:titleTextColor
      */
     public static final int Toolbar_titleTextColor=29;
     /**
@@ -33628,7 +33627,7 @@ public final class R {
      * <tr><td><code>{@link #Tooltip_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Tooltip_android_minHeight android:minHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #Tooltip_android_text android:text}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Tooltip_backgroundTint com.greyluxmobile.invest:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #Tooltip_backgroundTint com.ennbee.moonman:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
      * </table>
      * @see #Tooltip_android_textAppearance
      * @see #Tooltip_android_padding
@@ -33725,7 +33724,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundTint
+     * @attr name com.ennbee.moonman:backgroundTint
      */
     public static final int Tooltip_backgroundTint=6;
     /**
@@ -33746,9 +33745,9 @@ public final class R {
      * <tr><td><code>{@link #Transform_android_rotationY android:rotationY}</code></td><td></td></tr>
      * <tr><td><code>{@link #Transform_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #Transform_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transform_pivotAnchor com.greyluxmobile.invest:pivotAnchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transform_pivotX com.greyluxmobile.invest:pivotX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transform_pivotY com.greyluxmobile.invest:pivotY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transform_pivotAnchor com.ennbee.moonman:pivotAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transform_pivotX com.ennbee.moonman:pivotX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transform_pivotY com.ennbee.moonman:pivotY}</code></td><td></td></tr>
      * </table>
      * @see #Transform_android_transformPivotX
      * @see #Transform_android_transformPivotY
@@ -33895,7 +33894,7 @@ public final class R {
      */
     public static final int Transform_android_elevation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#pivotAnchor}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#pivotAnchor}
      * attribute's value can be found in the {@link #Transform} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -33911,11 +33910,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:pivotAnchor
+     * @attr name com.ennbee.moonman:pivotAnchor
      */
     public static final int Transform_pivotAnchor=11;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#pivotX}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#pivotX}
      * attribute's value can be found in the {@link #Transform} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -33924,11 +33923,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:pivotX
+     * @attr name com.ennbee.moonman:pivotX
      */
     public static final int Transform_pivotX=12;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#pivotY}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#pivotY}
      * attribute's value can be found in the {@link #Transform} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
@@ -33937,7 +33936,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.greyluxmobile.invest:pivotY
+     * @attr name com.ennbee.moonman:pivotY
      */
     public static final int Transform_pivotY=13;
     /**
@@ -33948,15 +33947,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Transition_android_id android:id}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_autoTransition com.greyluxmobile.invest:autoTransition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_constraintSetEnd com.greyluxmobile.invest:constraintSetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_constraintSetStart com.greyluxmobile.invest:constraintSetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_duration com.greyluxmobile.invest:duration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_layoutDuringTransition com.greyluxmobile.invest:layoutDuringTransition}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_motionInterpolator com.greyluxmobile.invest:motionInterpolator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_pathMotionArc com.greyluxmobile.invest:pathMotionArc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_staggered com.greyluxmobile.invest:staggered}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Transition_transitionDisable com.greyluxmobile.invest:transitionDisable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_autoTransition com.ennbee.moonman:autoTransition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_constraintSetEnd com.ennbee.moonman:constraintSetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_constraintSetStart com.ennbee.moonman:constraintSetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_duration com.ennbee.moonman:duration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_layoutDuringTransition com.ennbee.moonman:layoutDuringTransition}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_motionInterpolator com.ennbee.moonman:motionInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_pathMotionArc com.ennbee.moonman:pathMotionArc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_staggered com.ennbee.moonman:staggered}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Transition_transitionDisable com.ennbee.moonman:transitionDisable}</code></td><td></td></tr>
      * </table>
      * @see #Transition_android_id
      * @see #Transition_autoTransition
@@ -33987,7 +33986,7 @@ public final class R {
      */
     public static final int Transition_android_id=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#autoTransition}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#autoTransition}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -34003,11 +34002,11 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:autoTransition
+     * @attr name com.ennbee.moonman:autoTransition
      */
     public static final int Transition_autoTransition=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#constraintSetEnd}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#constraintSetEnd}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -34015,11 +34014,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:constraintSetEnd
+     * @attr name com.ennbee.moonman:constraintSetEnd
      */
     public static final int Transition_constraintSetEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#constraintSetStart}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#constraintSetStart}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -34027,20 +34026,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:constraintSetStart
+     * @attr name com.ennbee.moonman:constraintSetStart
      */
     public static final int Transition_constraintSetStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#duration}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#duration}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.greyluxmobile.invest:duration
+     * @attr name com.ennbee.moonman:duration
      */
     public static final int Transition_duration=4;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#layoutDuringTransition}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#layoutDuringTransition}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -34053,11 +34052,11 @@ public final class R {
      * <tr><td>ignoreRequest</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:layoutDuringTransition
+     * @attr name com.ennbee.moonman:layoutDuringTransition
      */
     public static final int Transition_layoutDuringTransition=5;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#motionInterpolator}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#motionInterpolator}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -34079,11 +34078,11 @@ public final class R {
      * <tr><td>linear</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:motionInterpolator
+     * @attr name com.ennbee.moonman:motionInterpolator
      */
     public static final int Transition_motionInterpolator=6;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#pathMotionArc}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#pathMotionArc}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -34098,26 +34097,26 @@ public final class R {
      * <tr><td>startVertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:pathMotionArc
+     * @attr name com.ennbee.moonman:pathMotionArc
      */
     public static final int Transition_pathMotionArc=7;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#staggered}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#staggered}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.greyluxmobile.invest:staggered
+     * @attr name com.ennbee.moonman:staggered
      */
     public static final int Transition_staggered=8;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#transitionDisable}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#transitionDisable}
      * attribute's value can be found in the {@link #Transition} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.greyluxmobile.invest:transitionDisable
+     * @attr name com.ennbee.moonman:transitionDisable
      */
     public static final int Transition_transitionDisable=9;
     /**
@@ -34127,11 +34126,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Variant_constraints com.greyluxmobile.invest:constraints}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Variant_region_heightLessThan com.greyluxmobile.invest:region_heightLessThan}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Variant_region_heightMoreThan com.greyluxmobile.invest:region_heightMoreThan}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Variant_region_widthLessThan com.greyluxmobile.invest:region_widthLessThan}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Variant_region_widthMoreThan com.greyluxmobile.invest:region_widthMoreThan}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Variant_constraints com.ennbee.moonman:constraints}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Variant_region_heightLessThan com.ennbee.moonman:region_heightLessThan}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Variant_region_heightMoreThan com.ennbee.moonman:region_heightMoreThan}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Variant_region_widthLessThan com.ennbee.moonman:region_widthLessThan}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Variant_region_widthMoreThan com.ennbee.moonman:region_widthMoreThan}</code></td><td></td></tr>
      * </table>
      * @see #Variant_constraints
      * @see #Variant_region_heightLessThan
@@ -34144,7 +34143,7 @@ public final class R {
       0x7f030287
     };
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#constraints}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#constraints}
      * attribute's value can be found in the {@link #Variant} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -34152,11 +34151,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:constraints
+     * @attr name com.ennbee.moonman:constraints
      */
     public static final int Variant_constraints=0;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#region_heightLessThan}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#region_heightLessThan}
      * attribute's value can be found in the {@link #Variant} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -34165,11 +34164,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:region_heightLessThan
+     * @attr name com.ennbee.moonman:region_heightLessThan
      */
     public static final int Variant_region_heightLessThan=1;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#region_heightMoreThan}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#region_heightMoreThan}
      * attribute's value can be found in the {@link #Variant} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -34178,11 +34177,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:region_heightMoreThan
+     * @attr name com.ennbee.moonman:region_heightMoreThan
      */
     public static final int Variant_region_heightMoreThan=2;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#region_widthLessThan}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#region_widthLessThan}
      * attribute's value can be found in the {@link #Variant} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -34191,11 +34190,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:region_widthLessThan
+     * @attr name com.ennbee.moonman:region_widthLessThan
      */
     public static final int Variant_region_widthLessThan=3;
     /**
-     * <p>This symbol is the offset where the {@link com.greyluxmobile.invest.R.attr#region_widthMoreThan}
+     * <p>This symbol is the offset where the {@link com.ennbee.moonman.R.attr#region_widthMoreThan}
      * attribute's value can be found in the {@link #Variant} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -34204,7 +34203,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:region_widthMoreThan
+     * @attr name com.ennbee.moonman:region_widthMoreThan
      */
     public static final int Variant_region_widthMoreThan=4;
     /**
@@ -34216,9 +34215,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.greyluxmobile.invest:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.greyluxmobile.invest:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme com.greyluxmobile.invest:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.ennbee.moonman:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.ennbee.moonman:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.ennbee.moonman:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -34280,7 +34279,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:paddingEnd
+     * @attr name com.ennbee.moonman:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -34294,7 +34293,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.greyluxmobile.invest:paddingStart
+     * @attr name com.ennbee.moonman:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -34307,7 +34306,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:theme
+     * @attr name com.ennbee.moonman:theme
      */
     public static final int View_theme=4;
     /**
@@ -34318,8 +34317,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.greyluxmobile.invest:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.greyluxmobile.invest:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.ennbee.moonman:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.ennbee.moonman:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -34352,7 +34351,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.greyluxmobile.invest:backgroundTint
+     * @attr name com.ennbee.moonman:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -34379,7 +34378,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.greyluxmobile.invest:backgroundTintMode
+     * @attr name com.ennbee.moonman:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

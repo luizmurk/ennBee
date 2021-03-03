@@ -1,4 +1,4 @@
-com.greyluxmobile.invest
+com.ennbee.moonman
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -2260,7 +2260,6 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
-string firebase_database_url
 string gcm_defaultSenderId
 string google_api_key
 string google_app_id

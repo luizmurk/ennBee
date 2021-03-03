@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/will/Documents/Projects/greylux_mobile/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+            "outputFile": "/Users/will/Documents/Projects/ennBee_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/Users/will/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/values-nl/values-nl.xml",

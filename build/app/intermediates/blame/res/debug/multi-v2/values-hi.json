@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/will/Documents/Projects/greylux_mobile/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
+            "outputFile": "/Users/will/Documents/Projects/ennBee_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
             "map": [
                 {
                     "source": "/Users/will/.gradle/caches/transforms-2/files-2.1/57bf84aca06e89dc5a5ac890c20acb7b/jetified-play-services-basement-17.0.0/res/values-hi/values.xml",

@@ -1,3 +1,4 @@
+import 'package:ennBee/pages/landing.dart';
 import 'package:flutter/material.dart';
 import 'package:ennBee/routes.dart';
 import 'package:ennBee/screens/splash/splash_screen.dart';
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
       //theme: theme(),
       // home: SplashScreen(),
       // We use routeName so that we dont need to remember the name
-      initialRoute: SplashScreen.routeName,
+      initialRoute: LandingPage.routeName,
       routes: routes,
     );
   }

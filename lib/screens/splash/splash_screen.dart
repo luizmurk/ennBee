@@ -1,3 +1,4 @@
+import 'package:ennBee/pages/forgotPassword.dart';
 import 'package:flutter/material.dart';
 import 'package:ennBee/screens/splash/components/body.dart';
 import 'package:ennBee/size_config.dart';
@@ -76,13 +77,13 @@ class _SplashScreenState extends State<SplashScreen> {
     // You have to call it on your starting screen
     SizeConfig().init(context);
     return Scaffold(
-      backgroundColor: white,
+      backgroundColor: Colors.white,
       body: otpScreen
-          ? Body()
+          ? ForgotPassword()
           : signinScreen
-              ? Body()
+              ? ForgotPassword()
               : bodyScreen
-                  ? Body()
+                  ? ForgotPassword()
                   : Center(
                       child: Text('Loading',
                           style: TextStyle(color: Colors.white)),
