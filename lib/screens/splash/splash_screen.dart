@@ -78,14 +78,25 @@ class _SplashScreenState extends State<SplashScreen> {
     return Scaffold(
       backgroundColor: white,
       body: otpScreen
-          //? OtpBody()
-          // : signinScreen
-          //? SignInBody()
-          //: bodyScreen
           ? Body()
-          : Center(
-              child: Text('Loading', style: TextStyle(color: Colors.white)),
-            ),
+          : signinScreen
+              ? Body()
+              : bodyScreen
+                  ? Body()
+                  : Center(
+                      child: Text('Loading',
+                          style: TextStyle(color: Colors.white)),
+                    ),
     );
   }
 }
+
+//  otpScreen
+//           ? OtpBody()
+//           : signinScreen
+//           ? SignInBody()
+//           : bodyScreen
+//           ? Body()
+//           : Center(
+//               child: Text('Loading', style: TextStyle(color: Colors.white)),
+//             ),
